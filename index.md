@@ -10,7 +10,6 @@ This is an introductory course on Parallel Programming with a focus on scientifi
 - [Announcements](Announcements)
 - [Download Assignments](assignments)
 - [Syllabus](Syllabus)
-- [Schedule](Schedule)
 
 
 -----
