@@ -1,6 +1,6 @@
 | Date | Assignment Number | Type | Topic | Link to Notebook |
 |------|--------|------|-------|----------|
-|  Monday January 11, 2021  | 0111 | In-Class Assignment | [introduction](./cmse401-S21-student/assignments0111-introduction_in-class-assignment.html) | [ipynb](./cmse401-S21-student/assignments0111-introduction_in-class-assignment.ipynb) |
+|  Monday January 11, 2021  | 0111 | In-Class Assignment | [introduction](./cmse401-S21-student/assignments/0111-introduction_in-class-assignment.html) | [ipynb](./cmse401-S21-student/assignments/0111-introduction_in-class-assignment.ipynb) |
 | Tuesday January 12, 2021   | 0112 | Pre-Class Assignment | Introduction |
 | Wednesday January 13, 2021   | 0113 | In-Class Assignment | Dwarfs |
 | Thursday January 14, 2021   | 0114 | Pre-Class Assignment | Clusters |
