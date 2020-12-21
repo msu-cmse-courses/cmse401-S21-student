@@ -8,7 +8,7 @@ This is an introductory course on Parallel Programming with a focus on scientifi
 ## Links
 
 - [Announcements](Announcements)
-- [Download Assignments](assignments)
+- [Assignment Schedule and Downloads](assignments/Schedule)
 - [Syllabus](Syllabus)
 
 

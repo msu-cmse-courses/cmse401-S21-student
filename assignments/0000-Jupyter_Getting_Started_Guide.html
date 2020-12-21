@@ -14259,75 +14259,86 @@ a.anchor-link {
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><a href="./0111-introduction_in-class-assignment.ipynb">Link to this document's Jupyter Notebook</a></p>
+<p><a href="./0000-Jupyter_Getting_Started_Guide.ipynb">Link to this document's Jupyter Notebook</a></p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>In order to successfully complete this assignment you need to participate both individually and in groups during class.   If you attend class in-person then have one of the instructors check your notebook and sign you out before leaving class on <strong>Monday January 11</strong>. If you are attending asyncronously, turn in your assignment using D2L no later than <strong>_11:59pm on Monday January 11</strong>. See links at the end of this document for access to the class timeline for your section.</p>
+<h1 id="Jupyter-Getting-Started-Guide">Jupyter Getting Started Guide<a class="anchor-link" href="#Jupyter-Getting-Started-Guide">&#182;</a></h1><p>This guide is designed to help students new to Jupyter notebooks get started.</p>
+<p><img src="https://jupyter.org/assets/main-logo.svg" width="25%" alt="Jupyter software logo"></p>
+<blockquote><p>The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+From: <a href="https://jupyter.org/">https://jupyter.org/</a></p>
+</blockquote>
+<p>Jupyter works best as a communication tool.  Notebooks will be used throughout this class as a way for instructors to communicate with students and for students to communicate with instructors. We will use Jupyter notebooks extensively for pre-class assignments, in-class assignments, homework and Exams.</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Welcome-to-CMSE-401---Methods-in-Parallel-Programming">Welcome to CMSE 401 - Methods in Parallel Programming<a class="anchor-link" href="#Welcome-to-CMSE-401---Methods-in-Parallel-Programming">&#182;</a></h1>
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><img alt="Picture of the Summit supercomputer at Oak Ridge National Laboratory" src="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2018/ornllaunches.jpg"><p style="text-align: right;">
-Image from: https://phys.org/news/2018-06-ornl-summit-supercomputer.html
-</p></p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Agenda-for-today's-class-(70-minutes)">Agenda for today's class (70 minutes)<a class="anchor-link" href="#Agenda-for-today's-class-(70-minutes)">&#182;</a></h3><ol>
-<li><a href="#Download-assignment-and-do-survey">(5 minutes)  Download assignment and do survey</a></li>
-<li><a href="#Knowing-what-you-dont-Know">(5 minutes)  Knowing what you don't Know</a></li>
-<li><a href="#Jargon-Jar-and-Command-History">(10 minutes)  Jargon Jar and Command History</a></li>
-<li><a href="#Round-Robin-Introductions">(10 minutes)  Round Robin Introductions</a></li>
-<li><a href="#Syllabus-and-Schedule">(20 minutes) Syllabus and Schedule</a></li>
-<li><a href="#Course_Git_Repository">(20 minutes) Course Git Repository</a></li>
+<h1 id="Getting-Jupyter-Working">Getting Jupyter Working<a class="anchor-link" href="#Getting-Jupyter-Working">&#182;</a></h1><p>The first thing you will need to do is to get Jupyter running.  There are two basic methods we will be using Jupyter in class. The first is to install it on your computer using Anaconda Python distribution and the second is to use the Web based <a href="http://jupyterhub.egr.msu.edu">JupyterHub</a> server put together for the class. The following instructions can help you get started.  We recommend learning how to use both methods for class in case there is a problem on one of the systems.</p>
+<h2 id="Instructions-for-downloading-Anaconda-(Python-3.x.x):">Instructions for downloading Anaconda (Python 3.x.x):<a class="anchor-link" href="#Instructions-for-downloading-Anaconda-(Python-3.x.x):">&#182;</a></h2><p>(These instructions are also available via YouTube video: <a href="https://youtu.be/3BiLPXAGINA">https://youtu.be/3BiLPXAGINA</a>)</p>
+<ol>
+<li>Go to the Anaconda Download web page:  <a href="https://www.continuum.io/downloads">https://www.continuum.io/downloads</a></li>
+<li>Use the “Jump to: Windows | OS X | Linux” to pick your operating system.</li>
+<li>Download the Python 3.x version (64 bit recommended).</li>
+<li>Follow the directions at the bottom of the page to install Python on your specific operating system.</li>
+<li><p>Open the command line program on your computer</p>
+<ul>
+<li>On windows, type CMD in the run box in the Start menu.</li>
+<li>On Mac, type “terminal” and hit enter in the Finder window</li>
+<li>On Linux, open up the console application</li>
+</ul>
+</li>
+<li><p>Type <code>jupyter notebook</code> in the command line and hit enter</p>
+</li>
 </ol>
+<p>If everything goes correctly, a browser window should open up with the Jupyter interface running. If things do not work, do not worry; we will help you get started.</p>
+<h2 id="Instructions-for-connecting-to-the-engineering-JupyterHub-server:">Instructions for connecting to the engineering JupyterHub server:<a class="anchor-link" href="#Instructions-for-connecting-to-the-engineering-JupyterHub-server:">&#182;</a></h2><p>(These instructions are also available via a YouTube video)</p>
+<p>Every student enrolled in this class will be given an engineering computing account. If this is your first time using your Engineering account you will need to activate the account by going to the following website:</p>
+<p><a href="https://www.egr.msu.edu/decs/myaccount/?page=activate">https://www.egr.msu.edu/decs/myaccount/?page=activate</a></p>
+<p>Enter your MSU NetID. The initial password will be your APID with an @ on the end (example: A12345678@) and then they have to set a password that meets the requirements listed on the page. Verify the password. Then agree to the terms and Activate.</p>
+<ul>
+<li>Once your account is activated you can access the classroom Jupyterhub server using the following instructions:<ol>
+<li>Open up a web browser and go to the following URL: <a href="https://jupyterhub.egr.msu.edu">https://jupyterhub.egr.msu.edu</a></li>
+<li>Type your engineering login name. This will be your MSU NetID.</li>
+<li>Your engineering password.</li>
+</ol>
+</li>
+</ul>
+<p>If everything is working properly you will see the main “Files” windows in the Jupyter interface.</p>
+<h2 id="Instructions-for-getting-Jupyter-notebook-files-into-Jupyter:">Instructions for getting Jupyter notebook files into Jupyter:<a class="anchor-link" href="#Instructions-for-getting-Jupyter-notebook-files-into-Jupyter:">&#182;</a></h2><p>Once you have Jupyter running you will need a notebook file to try out. Jupyter notebooks (also referred to as iPython notebooks) are files that end with the .ipynb extension.  We will give you these files for all of your assignments, you will edit them and turn in the edited files in using the course website.</p>
+<p>You can download the ipynb assignment files from the course website (<a href="http://d2l.msu.edu">http://d2l.msu.edu</a>). Once you have an ipynb file you can load it into Jupyter using the “upload” button on the main “Files” tab in the Jupyter web interface. Hitting this button will cause a file browser window to open. Just navigate to your ipynb file, select it and hit the open button.</p>
+<p>Once you see your filename in the jupyter window you can just click on that name to start using that file.</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<p><a name=Download-assignment-and-do-survey></a></p>
-<h1 id="1.-Download-assignment-and-do-survey">1. Download assignment and do survey<a class="anchor-link" href="#1.-Download-assignment-and-do-survey">&#182;</a></h1><p>As you arrive into class, please complete the following pre-class survey: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBYPpJta09UwJe8hFibatIoWxgalmxhj1TEiiDUWE4mKiDQA/viewform">Direct Link</a></p>
+<p><strong>&#9989; DO THIS:</strong> This tutorial was originally written as a Jupyter notebook and saved to a pdf.  If you are reading this in a pdf, go to the course webpage and download the file titled "00-Getting-Started-Guide.ipynb" and run it in Jupyter before continuing on to the next section.</p>
 
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h1 id="Example-running-python-code-in-Jupyter-Notebooks">Example running python code in Jupyter Notebooks<a class="anchor-link" href="#Example-running-python-code-in-Jupyter-Notebooks">&#182;</a></h1><p>One of the most unique and defining features of Jupyter notebooks is the ability to run code inside of this notebook.  This ability makes Jupyter Notebooks especially useful in classes that teach or use programming concepts.</p>
+<p>Jupyter notebooks are separated into different types of "cells".  The two major types of cells are; Markdown cells and code cells.  Markdown cells (such as this one) consist of formated text, images and equations much like your 
+favorite word processor.</p>
+<p>The following are two code cells written in the Python programming language.  This simple code is a tool to make it easy to search your jupyter notebooks which can be handy if you are looking for something from a previous class. The example searches for an exact string in your notebook files in the current directory and displays links to the files as output.</p>
+<p>To run the code, first select the code cell with your mouse and then hold down the "Shift" key while hitting the "enter" key.  You will have to hit the enter key twice to run both cells.</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[1]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">HTML</span>
-<span class="n">HTML</span><span class="p">(</span>
-<span class="sd">&quot;&quot;&quot;</span>
-<span class="sd">&lt;iframe </span>
-<span class="sd">	src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfBYPpJta09UwJe8hFibatIoWxgalmxhj1TEiiDUWE4mKiDQA/viewform?embedded=true&quot; </span>
-<span class="sd">	width=&quot;100%&quot; </span>
-<span class="sd">	height=&quot;1200px&quot; </span>
-<span class="sd">	frameborder=&quot;0&quot; </span>
-<span class="sd">	marginheight=&quot;0&quot; </span>
-<span class="sd">	marginwidth=&quot;0&quot;&gt;</span>
-<span class="sd">	Loading...</span>
-<span class="sd">&lt;/iframe&gt;</span>
-<span class="sd">&quot;&quot;&quot;</span>
-<span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Search string</span>
+<span class="n">search_string</span> <span class="o">=</span> <span class="s2">&quot;Search String&quot;</span>
+
+<span class="c1">#Search current directory</span>
+<span class="n">directory</span> <span class="o">=</span><span class="s1">&#39;.&#39;</span>
 </pre></div>
 
      </div>
@@ -14335,130 +14346,170 @@ Image from: https://phys.org/news/2018-06-ornl-summit-supercomputer.html
 </div>
 </div>
 
-<div class="jp-Cell-outputWrapper">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>  
+<span class="kn">import</span> <span class="nn">os.path</span>
+<span class="kn">from</span> <span class="nn">IPython.core.display</span> <span class="kn">import</span> <span class="n">display</span><span class="p">,</span> <span class="n">HTML</span>
 
+<span class="n">search_string</span> <span class="o">=</span> <span class="n">search_string</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+<span class="n">links</span><span class="o">=</span><span class="p">[]</span>
 
-<div class="jp-OutputArea jp-Cell-outputArea">
+<span class="n">files</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">listdir</span><span class="p">(</span><span class="n">directory</span><span class="p">)</span>
+<span class="n">files</span><span class="o">.</span><span class="n">sort</span><span class="p">()</span>
+<span class="k">for</span> <span class="n">fn</span> <span class="ow">in</span> <span class="n">files</span><span class="p">:</span>
+    <span class="k">if</span> <span class="s1">&#39;ipynb&#39;</span> <span class="ow">in</span> <span class="n">fn</span><span class="p">:</span>
+        <span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">isfile</span><span class="p">(</span><span class="n">fn</span><span class="p">):</span>
+            <span class="n">found</span> <span class="o">=</span> <span class="kc">False</span>
+            <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">fn</span><span class="p">,</span><span class="s1">&#39;r&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">fp</span><span class="p">:</span>
+                <span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="n">fp</span><span class="p">:</span>
+                    <span class="n">line</span> <span class="o">=</span> <span class="n">line</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+                    <span class="k">if</span> <span class="n">search_string</span> <span class="ow">in</span> <span class="n">line</span><span class="p">:</span>
+                        <span class="n">links</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">&quot;&lt;a href=&quot;</span><span class="o">+</span><span class="n">fn</span><span class="o">+</span><span class="s2">&quot; target=</span><span class="se">\&quot;</span><span class="s2">_blank</span><span class="se">\&quot;</span><span class="s2"> &gt;&quot;</span><span class="o">+</span><span class="n">fn</span><span class="o">+</span><span class="s2">&quot;&lt;/a&gt;&lt;/br&gt;&quot;</span><span class="p">)</span>
+                        <span class="k">break</span>
+<span class="k">if</span> <span class="n">links</span><span class="p">:</span>
+    <span class="n">display</span><span class="p">(</span><span class="n">HTML</span><span class="p">(</span><span class="s1">&#39; &#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">links</span><span class="p">)))</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;string (&#39;</span><span class="o">+</span><span class="n">search_string</span><span class="o">+</span><span class="s1">&#39;) not found.&#39;</span><span class="p">)</span>
+            
+</pre></div>
 
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[1]:</div>
-
-
-
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
-
-<iframe 
-	src="https://docs.google.com/forms/d/e/1FAIpQLSfBYPpJta09UwJe8hFibatIoWxgalmxhj1TEiiDUWE4mKiDQA/viewform?embedded=true" 
-	width="100%" 
-	height="1200px" 
-	frameborder="0" 
-	marginheight="0" 
-	marginwidth="0">
-	Loading...
-</iframe>
-
+     </div>
 </div>
-
 </div>
-
-</div>
-
 </div>
 
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<p><a name=Knowing-what-you-dont-Know></a></p>
-<h1 id="2.-Knowing-what-you-don't-Know">2. Knowing what you don't Know<a class="anchor-link" href="#2.-Knowing-what-you-don't-Know">&#182;</a></h1><p><img alt = "Image of the levels of learning: Ignornace - Don't know what you don't know; Wisdom - Know what you don't know; Knowledge - Know what you know; and Instinct - Don't know what you know" src="https://lh5.googleusercontent.com/erqXjWLpTTfJCHO4DnKPwZJtTW6wiVI8FqKhoc6Sx-eu41QP-uY7CeSouirdaat8ERxRukLp1w=w740"></p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<p><a name=Jargon-Jar-and-Command-History></a></p>
-<h1 id="3.-Jargon-Jar-and-Command-History">3. Jargon Jar and Command History<a class="anchor-link" href="#3.-Jargon-Jar-and-Command-History">&#182;</a></h1><p>Definition of Jargon: “Special words or expressions that are used by a particular profession or group and are difficult for others to understand.”</p>
+<h1 id="Video-review-of-Python,-IPython,-and-IPython-notebooks">Video review of Python, IPython, and IPython notebooks<a class="anchor-link" href="#Video-review-of-Python,-IPython,-and-IPython-notebooks">&#182;</a></h1><p>Much of this course will be taught in a "flipped" style. This means we give you notebooks to review outside of class and we use in-class time to work on meaningful problems.  Many of our pre-class assignments notebooks use videos to help communicate ideas (in lieu of lecture time in class).</p>
+<p>The following two cells will embed the lectures in the notebooks. Run the cells using the "Shift-Enter" key combination described above.  Once the video appears just click on the "Play" triangle.</p>
+<p>These videos explain Python and Jupyter in more detail.</p>
 <ul>
-<li>Discipline-specific terms</li>
-<li>Words with multiple meanings</li>
-<li>Cultural references</li>
-<li>Idioms</li>
-<li>Acronyms</li>
+<li>Direct link to "<strong>Python, iPython, Jupyter</strong>" video: <a href="https://youtu.be/L03BzGmLUUE">https://youtu.be/L03BzGmLUUE</a></li>
+<li>Alternative Link: <a href="https://mediaspace.msu.edu/media/t/0_wxpceyi6">https://mediaspace.msu.edu/media/t/0_wxpceyi6</a></li>
 </ul>
-<p>During this entire course, students are encouraged to add terms and phrases that are confusing to this notebook.  As a group we also encourage everyone to add definitions, examples and references. Please use the <a href="https://docs.google.com/document/d/1ahg48CCFhRzUL-QIHzlt_KEf1XqsCasFBU4iePHhcug/edit#">Jargon Jar Link</a> to build on words and phrases discovered last semester.</p>
 
 </div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># The command below this comment actually displays a specific YouTube video,  </span>
+<span class="c1"># with a given width and height.  You can watch the video in full-screen (much higher</span>
+<span class="c1"># resolution) mode by clicking the little box in the bottom-right corner of the video.</span>
+<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
+<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;L03BzGmLUUE&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">,</span> <span class="n">cc_load_policy</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<p><a name=Round-Robin-Introductions></a></p>
-<h1 id="4.-Round-Robin-Introductions">4. Round Robin Introductions<a class="anchor-link" href="#4.-Round-Robin-Introductions">&#182;</a></h1><p>Briefly say who you are, what is your major and why you want to take this class.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<p><a name=Syllabus-and-Schedule></a></p>
-<h1 id="5.-Syllabus-and-Schedule">5. Syllabus and Schedule<a class="anchor-link" href="#5.-Syllabus-and-Schedule">&#182;</a></h1><p><img alt="Picture of a pile of rocks balanced on a stick. Something you may see in a zen garden. Included here to represent balance" src="https://3.bp.blogspot.com/-_5dGQOgIIl4/WXOmiP9nbrI/AAAAAAAAbAM/O6meBNN_nZ8TdsgG0feDr54rk4s6xjUoACLcBGAs/s1600/balance-between-neet-and-board.png" width="70%"></p>
 <ul>
-<li><a href="">Syllabus</a></li>
-<li><a href="">Preliminary Schedule</a></li>
+<li>Direct link to "<strong>Working with Jupyter and ipynb files</strong>" video: <a href="https://youtu.be/5WSQnGmz3IA">https://youtu.be/5WSQnGmz3IA</a>.  </li>
+<li>Alternative Link: <a href="https://mediaspace.msu.edu/media/t/0_hkqjufix">https://mediaspace.msu.edu/media/t/0_hkqjufix</a></li>
 </ul>
-<p><strong>Closing thoughts</strong> I am excited to be teaching this course with you.  Please note, although I have been teaching parallel programing and HPC  of for almost 10 years, this is the first time teaching it as an undergraduate course in this format.  We will need to work together to make sure we are achieving the learning goals.  Please be patient and flexible as we learn together and adjust throughout the semester.</p>
+<p>Note that the download URL in this video is a little out of date.  See the next video or google "Anaconda Python Download"</p>
 
 </div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Python code to display embeded video in jupyter notebook</span>
+<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
+<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;5WSQnGmz3IA&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">,</span> <span class="n">cc_load_policy</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<p><a name="Course_Git_Repository"></a></p>
-<h1 id="6.-Course-Git-Repository">6. Course Git Repository<a class="anchor-link" href="#6.-Course-Git-Repository">&#182;</a></h1><p>&#9989; <font color=red>**DO THIS:**</font> Download this in-class assignment from the course website.  Or, if you already have GIT installed and ready to use, download the assignment from the GIT class repository: <code>git clone</code>.  Some options for downloading the repository include:</p>
+<h1 id="Installing-Anaconda-Python">Installing Anaconda Python<a class="anchor-link" href="#Installing-Anaconda-Python">&#182;</a></h1><p>The following video will introduce you to install Anaconda Python on your personal computer. For this class, make sure you install the latest version (the version in the video is probably old). Also the websites may have been updated.  Hopefully that will not be confusing.</p>
 <ul>
-<li>Your Local machine (conda install git)</li>
-<li><a href="http://jupyterhub2.egr.msu.edu">Jupyterhub</a></li>
-<li><a href="http://ondemand.hpcc.msu.edu">HPCC OnDemand</a></li>
+<li>Direct link to "<strong>Install Anaconda</strong>" video: <a href="https://youtu.be/3BiLPXAGINA">https://youtu.be/3BiLPXAGINA</a></li>
+<li>Alternative Link: </li>
 </ul>
-<p>If you are new to GIT and/or you need a refresher. Please see the following git tutorial:</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Python code to display embeded video in jupyter notebook</span>
+<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
+<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;3BiLPXAGINA&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">,</span> <span class="n">cc_load_policy</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h1 id="Introduction-to-the-Engineering-Jupyter-Account">Introduction to the Engineering Jupyter Account<a class="anchor-link" href="#Introduction-to-the-Engineering-Jupyter-Account">&#182;</a></h1><p>The following video will introduce you to the Engineering JupyterHub Interface. Please watch this video and answer the questions. Log onto the engineering JupyterHub account using the following link:</p>
 <ul>
-<li><a href="https://msu-cmse-courses.github.io/cmse802-f20-student/0000-Getting-to-know-git.html">Git Tutorial</a></li>
+<li><a href="http://jupyterhub.egr.msu.edu">http://jupyterhub.egr.msu.edu</a></li>
+</ul>
+<ul>
+<li>Direct link to "<strong>MSU Engineering Jupyterhub Server</strong>" video: <a href="https://youtu.be/l7mhi4ww6tY">https://youtu.be/l7mhi4ww6tY</a></li>
+<li>Alternative Link: <a href="https://mediaspace.msu.edu/media/t/0_brafne0e">https://mediaspace.msu.edu/media/t/0_brafne0e</a></li>
+</ul>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Python code to display embeded video in jupyter notebook</span>
+<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
+<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;l7mhi4ww6tY&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">,</span> <span class="n">cc_load_policy</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h1 id="More-Information">More Information<a class="anchor-link" href="#More-Information">&#182;</a></h1><p>There are lots of resources on the web for using Python and Jupyter notebooks.  The following are some recommended websites for getting more information.  If these sites do not work consider using your favorite search engine.</p>
+<ul>
+<li><a href="https://software-carpentry.org/lessons/">https://software-carpentry.org/lessons/</a></li>
+<li><a href="https://docs.python.org/3/tutorial/">https://docs.python.org/3/tutorial/</a></li>
+<li><a href="http://pythontutor.com/">http://pythontutor.com/</a></li>
 </ul>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<h3 id="Congratulations,-we're-done!">Congratulations, we're done!<a class="anchor-link" href="#Congratulations,-we're-done!">&#182;</a></h3><p>If you attend class in-person then have one of the instructors check your notebook and sign you out before leaving class. If you are attending asynchronously, turn in your assignment using D2L.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Course-Resources:">Course Resources:<a class="anchor-link" href="#Course-Resources:">&#182;</a></h3><ul>
-<li><a href="https://msu-cmse-courses.github.io/cmse802-f20-student/">Website</a></li>
-<li><a href="">ZOOM</a></li>
-<li><a href="">Syllabus</a></li>
-<li><a href="">Schedule</a></li>
-<li><a href="https://docs.google.com/document/d/1ahg48CCFhRzUL-QIHzlt_KEf1XqsCasFBU4iePHhcug/edit#">JargonJar</a></li>
-</ul>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Written by Dr. Dirk Colbry, Michigan State University
+<p>Writen by Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
 
 </div>
 </div>

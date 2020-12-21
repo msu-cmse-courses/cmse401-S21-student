@@ -1,7 +1,7 @@
 | Date | Assignment Number | Type | Topic | Link to Notebook |
 |------|--------|------|-------|----------|
 |  Monday January 11, 2021  | 0111 | In-Class Assignment | [introduction](./0111-introduction_in-class-assignment.html) | [ipynb](./0111-introduction_in-class-assignment.ipynb) |
-| Tuesday January 12, 2021   | 0112 | Pre-Class Assignment | Introduction |
+|  Tuesday January 12, 2021  | 0112 | Pre-Class Assignment | [Introduction](./0112--Introduction_pre-class-assignment.html) | [ipynb](./0112--Introduction_pre-class-assignment.ipynb) |
 | Wednesday January 13, 2021   | 0113 | In-Class Assignment | Dwarfs |
 | Thursday January 14, 2021   | 0114 | Pre-Class Assignment | Clusters |
 | Friday January 15, 2021   | 0115 | In-Class Assignment | Pandemic |
@@ -17,6 +17,7 @@
 | Wednesday January 27, 2021   | 0127 | In-Class Assignment | Schedulers |
 | Thursday January 28, 2021   | 0128 | Pre-Class Assignment | XSEDE |
 | Friday January 29, 2021   | 0129 | In-Class Assignment | HWLOC |
+|  Friday January 29, 2021  | 0129 |   | [PROJECT_Proposal_Template](./0129-PROJECT_Proposal_Template.html) | [ipynb](./0129-PROJECT_Proposal_Template.ipynb) |
 | Sunday January 31, 2021   | 0131 | Pre-Class Assignment | BASH |
 | Monday February 1, 2021   | 0201 | In-Class Assignment | BASH Scripting |
 | Wednesday February 3, 2021   | 0203 | In-Class Assignment | Review |
@@ -33,7 +34,8 @@
 | Wednesday February 17, 2021   | 0217 | In-Class Assignment | OMP Loops |
 | Thursday February 18, 2021   | 0218 | Pre-Class Assignment | OMP weeds |
 | Friday February 19, 2021   | 0219 | In-Class Assignment | OMP Debugging |
-| Friday February 19, 2021   | 0219 |   | PROJECT Proposal Template |
+| Friday February 19, 2021   | 0219 |   | PROJECT Part1 Report Template |
+| Monday February 22, 2021   | 0222 | In-Class Assignment | Review Project Part1 |
 | Thursday February 25, 2021   | 0225 | Pre-Class Assignment | OMP Data |
 | Friday February 26, 2021   | 0226 | In-Class Assignment | OMP Practice |
 | Sunday February 28, 2021   | 0228 | Pre-Class Assignment | CUDA Intro |
@@ -49,7 +51,6 @@
 | Wednesday March 10, 2021   | 0310 | In-Class Assignment | CUDA |
 | Thursday March 11, 2021   | 0311 | Pre-Class Assignment | CUDA Alternatives |
 | Friday March 12, 2021   | 0312 | In-Class Assignment | CUDA Alternatives |
-| Friday March 12, 2021   | 0312 | In-Class Assignment | Project Part1 |
 | Monday March 15, 2021   | 0315 | In-Class Assignment | Exam2 Review |
 | Wednesday March 17, 2021   | 0317 |   | Midterm Exam2 |
 | Thursday March 18, 2021   | 0318 | Pre-Class Assignment | Parallel Python |
