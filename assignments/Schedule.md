@@ -1,7 +1,7 @@
 | Date | Assignment Number | Type | Topic | Link to Notebook |
 |------|--------|------|-------|----------|
-|  Monday January 11, 2021  | 0111 | In-Class Assignment | [introduction](./0111-introduction_in-class-assignment.html) | [ipynb](./0111-introduction_in-class-assignment.ipynb) |
-|  Tuesday January 12, 2021  | 0112 | Pre-Class Assignment | [Introduction](./0112--Introduction_pre-class-assignment.html) | [ipynb](./0112--Introduction_pre-class-assignment.ipynb) |
+| Monday January 11, 2021   | 0111 | In-Class Assignment | introduction |
+| Tuesday January 12, 2021   | 0112 | Pre-Class Assignment | Introduction |
 | Wednesday January 13, 2021   | 0113 | In-Class Assignment | Dwarfs |
 | Thursday January 14, 2021   | 0114 | Pre-Class Assignment | Clusters |
 | Friday January 15, 2021   | 0115 | In-Class Assignment | Pandemic |
@@ -17,7 +17,7 @@
 | Wednesday January 27, 2021   | 0127 | In-Class Assignment | Schedulers |
 | Thursday January 28, 2021   | 0128 | Pre-Class Assignment | XSEDE |
 | Friday January 29, 2021   | 0129 | In-Class Assignment | HWLOC |
-|  Friday January 29, 2021  | 0129 |   | [PROJECT_Proposal_Template](./0129-PROJECT_Proposal_Template.html) | [ipynb](./0129-PROJECT_Proposal_Template.ipynb) |
+| Friday January 29, 2021   | 0129 |   | PROJECT Proposal Template |
 | Sunday January 31, 2021   | 0131 | Pre-Class Assignment | BASH |
 | Monday February 1, 2021   | 0201 | In-Class Assignment | BASH Scripting |
 | Wednesday February 3, 2021   | 0203 | In-Class Assignment | Review |
