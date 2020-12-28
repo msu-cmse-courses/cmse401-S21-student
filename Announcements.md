@@ -12,8 +12,9 @@ I am excited to be teaching CMSE401 this Spring and look forward to meeting all 
 
 I will be holding office hours the first week of class. Please feel free to stop by to just introduce yourself or ask a question about the course or any of the following tasks.  Also, please do not hesitate to contact me at (colbrydi@msu.edu). 
 
-    Dr. Dirk Colbry 
-    CMSE401 instructor
+>  Dr. Dirk Colbry 
+>
+>  CMSE401 instructor
 
 Detailed information about the course, including the syllabus, announcements, schedule and assignments can be found on the course website (Bookmark this page!):
 
@@ -21,9 +22,24 @@ Detailed information about the course, including the syllabus, announcements, sc
 
 **_Task 1 - Syllabus and Course Review_**
 
-To start, I suggest that you watch the following video and review the course Syllabus.
+To start, I suggest that you watch the following video and review the course Syllabus. Note that this video is much longer than most of the videos you will find in the class.  You will probably be fine if you speed up the video and you can probably just listen to most of it. 
 
-- [Welcome video]()
+- [Welcome video](https://youtu.be/fi8xWrs3QEA)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/fi8xWrs3QEA?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
 
 - [Course Syllabus](https://msu-cmse-courses.github.io/cmse401-S21-student/Syllabus)
 
@@ -32,16 +48,33 @@ To start, I suggest that you watch the following video and review the course Syl
 
 Students in CMSE401 come from a variety of backgrounds.  To help the instructor adjust the curriculum and provide support to all students in this course please fill out the following on-line survey:
 
-- []()
+- [CMSE401 Background Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofVsFhDFfo_lLkU7qIzY8I4ZUMlJQN1BJSzJIQlFRVE5INlNKUjVQTDBFQy4u)
 
 
-**_Task 3 - get Jupyter working_**
+
+
+
+<iframe 
+	src="https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofVsFhDFfo_lLkU7qIzY8I4ZUMlJQN1BJSzJIQlFRVE5INlNKUjVQTDBFQy4u&embed=true" 
+	width="100%" 
+	height="500px" 
+	frameborder="0" 
+	marginheight="0" 
+	marginwidth="0">
+	Loading...
+</iframe>
+
+
+
+
+**_Task 3 - Get Jupyter working_**
 
 We will be using Jupyter notebooks for most of our student/instructor communication. Please attend class with the latest version of Anaconda Python installed on your computer (Anaconda includes Jupyter). Instructions for installing and using Anaconda and Jupyter can be found here:
 
 - [0000--Jupyter-Getting-Started-Guide.html](https://msu-cmse-courses.github.io/mth314-F20-student/assignments/0000--Jupyter-Getting-Started-Guide.html)
 
-As a backup, all students are also given accounts on the MSU jupyterhub servers [http://jupyterhub.msu.edu](http://jupyterhub.msu.edu) and [http://jupyterhub2.msu.edu](http://jupyterhub2.msu.edu).  Make sure you follow the directions in the above "getting started guide" and ensure that you can login and use both jupyterhub servers. 
+As a backup, all students are also given accounts on the MSU jupyterhub servers [http://jupyterhub.egr.msu.edu](http://jupyterhub.egr.msu.edu) and [http://jupyterhub2.egr.msu.edu](http://jupyterhub2.egr.msu.edu).  Make sure you follow the directions in the above "getting started guide" and ensure that you can login and use both jupyterhub servers. 
+
 
 **_Task 4 - Review git_**
 
@@ -54,7 +87,7 @@ Please review the above tutorial (especially the sections about consuming and pr
 
 **_Task 5 - Pre-class assignment_**
 
-You are expected to come to class ready to complete the in-class assignments.  To prepare for most classes, students are required to complete pre-class assignments (typically two pre-class assignments per week).  These assignments will be in the form of jupyter notebooks and will include reading, videos and programming activities.  The required time for each pre-class will vary but the instructor has tried to make them take  30-minutes.  
+You are expected to come to class ready to complete the in-class assignments.  To prepare for most classes, students are required to complete pre-class assignments (typically two pre-class assignments per week).  These assignments will be in the form of jupyter notebooks and will include reading, videos and programming activities.  The required time for each pre-class will vary but the instructor has tried to make them take approximately 30-minutes.  
 
 Each pre-class assignment ends with an online survey which students are required to complete in order to earn credit for the assignment.  Your first weeks assignments are available on the course git repository or downloadable from the course website.  At a minimum, you must complete the first pre-class assignment by 11:59pm on Tuesday January 19th. 
 
