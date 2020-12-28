@@ -96,7 +96,4 @@ Each pre-class assignment ends with an online survey which students are required
 
 **_NOTE_**: A backup copy of this email is also provided as a reference on the course website in the [Announcements page](https://msu-cmse-courses.github.io/cmse401-S21-student/Announcements).
 
-    [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
-
-
 -----
