@@ -8,6 +8,7 @@ This is an introductory course on Parallel Programming with a focus on scientifi
 ## Links
 
 - [Announcements](Announcements)
+- [Week 1 Class Preperation Checklist](Class_Prep_Checklist)
 - [Assignment Schedule and Downloads](assignments/Schedule)
 - [Syllabus](Syllabus)
 
