@@ -2,7 +2,7 @@
 |------|--------|------|-------|----------|
 | Monday January 18, 2021   | 0118 |   | MLK |
 |  Tuesday January 19, 2021  | 0119 | Pre-Class Assignment | [Clusters](./0119--Clusters_pre-class-assignment.html) | [ipynb](./0119--Clusters_pre-class-assignment.ipynb) |
-| Wednesday January 20, 2021   | 0120 | In-Class Assignment | Pandemic |
+|  Wednesday January 20, 2021  | 0120 | In-Class Assignment | [Pandemic](./0120-Pandemic_in-class-assignment.html) | [ipynb](./0120-Pandemic_in-class-assignment.ipynb) |
 |  Thursday January 21, 2021  | 0121 | Pre-Class Assignment | [Command_Line](./0121--Command_Line_pre-class-assignment.html) | [ipynb](./0121--Command_Line_pre-class-assignment.ipynb) |
 |  Friday January 22, 2021  | 0122 | In-Class Assignment | [GalaxSee](./0122-GalaxSee_in-class-assignment.html) | [ipynb](./0122-GalaxSee_in-class-assignment.ipynb) |
 | Sunday January 24, 2021   | 0124 | Pre-Class Assignment | Getexample |

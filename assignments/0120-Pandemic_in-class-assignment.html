@@ -14259,13 +14259,13 @@ a.anchor-link {
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><a href="./0122-GalaxSee_in-class-assignment.ipynb">Link to this document's Jupyter Notebook</a></p>
+<p><a href="./0120-Pandemic_in-class-assignment.ipynb">Link to this document's Jupyter Notebook</a></p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>In order to successfully complete this assignment you need to participate both individually and in groups during class.   If you attend class in-person then have one of the instructors check your notebook and sign you out before leaving class on <strong>Friday January 22</strong>. If you are attending asynchronously, turn in your assignment using D2L no later than <strong>_11:59pm on Friday January 22</strong>.</p>
+<p>In order to successfully complete this assignment you need to participate both individually and in groups during class.   If you attend class in-person then have one of the instructors check your notebook and sign you out before leaving class on <strong>Wednesday January 20</strong>. If you are attending asynchronously, turn in your assignment using D2L no later than <strong>_11:59pm on Wednesday January 20</strong>.</p>
 
 </div>
 </div>
@@ -14277,16 +14277,17 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="In-Class-Assignment:-Galaxy-Example">In-Class Assignment: Galaxy Example<a class="anchor-link" href="#In-Class-Assignment:-Galaxy-Example">&#182;</a></h1><p><img alt="Astronomical picture of a galaxy" src="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2018/5b86704d620d1.jpg" width="50%"></p>
-<p>Image from: <a href="https://phys.org/news/2018-08-astronomers-reveal-monster-star-forming-galaxies.html">https://phys.org/news/2018-08-astronomers-reveal-monster-star-forming-galaxies.html</a></p>
+<h1 id="In-Class-Assignment:-Pandemic-Example">In-Class Assignment: Pandemic Example<a class="anchor-link" href="#In-Class-Assignment:-Pandemic-Example">&#182;</a></h1><p><img alt="image of a person wearing a mask during a pandemic. This image is here to motivate the pandemic example we will cover in class." src="https://images.squarespace-cdn.com/content/v1/584db7f9725e2509ff62d13f/1605052950627-UF7EUX7F41IMC7S51VCP/ke17ZwdGBToddI8pDm48kLNBnxw6dW5AAzM-sWYM7oAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc2tnEKUS9exKpIGv5IxM1TRKHvWxW34jxJ2ktPcfbUxTYw8IybQRqhTbIcv7dJxX2/1131-mask.jpg?format=600w"></p>
+<p>Image from: <a href="https://plex.page/Researchers_Delay_Coronavirus_Vaccine">Researchers Delay Cronoavirus Vaccine</a></p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h3 id="Agenda-for-today's-class-(70-minutes)">Agenda for today's class (70 minutes)<a class="anchor-link" href="#Agenda-for-today's-class-(70-minutes)">&#182;</a></h3><ol>
-<li><a href="#Pre-class-assignment-review">Pre class assignment review</a></li>
-<li><a href="#Running-GalaxSee-on-HPCC">Running GalaxSee on HPCC</a></li>
+<li>(20 mintues) Project Planning</li>
+<li>(10 minutes) Pre-class assignment review</li>
+<li>(40 minutes) Pandemic on HPCC</li>
 </ol>
 
 </div>
@@ -14294,16 +14295,62 @@ a.anchor-link {
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<p><a name=Pre-class-assignment-review></a></p>
-<h1 id="1.-Pre-class-assignment-review">1. Pre class assignment review<a class="anchor-link" href="#1.-Pre-class-assignment-review">&#182;</a></h1><p><a href="0121--Command_Line_pre-class-assignment.ipynb">0121--Command_Line_pre-class-assignment</a></p>
+<h1 id="1.-Project-Planning">1. Project Planning<a class="anchor-link" href="#1.-Project-Planning">&#182;</a></h1><p>Class projects will include six basic milestones:</p>
+<ul>
+<li><strong>Milestone 1: Project Proposals</strong> - Overview of what you would like to do for your projects.  What software will you explore, what science problem you will solve and what are the expected outcomes. </li>
+<li><strong>Milestone 2: Software Exploration</strong> - You will explore software NOT covered in this course. Software may include a library, programming language, hardware, scientific code, etc).  The project will require you to learn about the software, get it installed and working on the HPC (or equivalent) and write up a short tutorial with examples with enough details so that your peers can get it up and running).  </li>
+<li><strong>Milestone 3: Parallel Coding</strong> - You will identify an existing scientific/engineering problem that currently runs slow on a single core.  You will either write a new program form scratch or modify an existing code to run in parallel.  You may also modify an existing parallel code to run in parallel faster.   You may, but are not required to use the software you explored in milestone 2 of the project. </li>
+<li><strong>Milestone 4: Scaling Study</strong> - You will conduct a scaling study of your Stage 3 project demonstrating speedup. </li>
+<li><strong>Milestone 5: Video Presentation</strong> - You will create a present the results of your scaling study to your peers in the form of an video presentation. </li>
+<li><strong>Milestone 6: Final Report and example code</strong> - You will turn in a git repository with your final report. Ideally this repository will include instructions sufficient for milestone 2 plus any code you used in stage 3 and 4.  </li>
+</ul>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Software-ideas-for-Stage-1">Software ideas for Stage 1<a class="anchor-link" href="#Software-ideas-for-Stage-1">&#182;</a></h3>
+<pre><code>OpenFlow
+Blast
+Petsci
+OpenMM
+MKL
+BLAS
+FFTW
+Kokkos
+Charm++
+Python Numba
+FPGA
+Tensorflow
+GPU
+OpenACC
+OpenCV
+MakeFlow
+Hadoop
+Tensorflows
+Torch
+Twister
+Condor
+XSEDE</code></pre>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<p><a name=Running-GalaxSee-on-HPCC></a></p>
-<h1 id="2.-Running-GalaxSee-on-HPCC">2. Running GalaxSee on HPCC<a class="anchor-link" href="#2.-Running-GalaxSee-on-HPCC">&#182;</a></h1><p>Today we will practice what we have learned on Friday.  As a reminder, here are the commands we used:</p>
+<h1 id="2.-Pre-class-assignment-review">2. Pre-class assignment review<a class="anchor-link" href="#2.-Pre-class-assignment-review">&#182;</a></h1><p>Where did you get stuck?</p>
+<p><a href="0119--Clusters_pre-class-assignment.ipynb">0114--Clusters_pre-class-assignment</a></p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h1 id="3.-Pandemic-Software-on-HPCC">3. Pandemic Software on HPCC<a class="anchor-link" href="#3.-Pandemic-Software-on-HPCC">&#182;</a></h1><p>Now we are all going to log onto the HPCC and run a Pandemic simulator.  This is intended to be an overview for the class.</p>
+<ul>
+<li>Please ask questions and try to follow along.  </li>
+<li>It is okay if we don't get to everything in class.  </li>
+<li>We will be covering these commands all semester so it is also okay if you don't fully understand what is going on. </li>
+</ul>
 <h3 id="Step-1:-Start-an-OpenOnDemand-interactive-desktop-session.">Step 1: Start an OpenOnDemand interactive desktop session.<a class="anchor-link" href="#Step-1:-Start-an-OpenOnDemand-interactive-desktop-session.">&#182;</a></h3><ol>
 <li>Go to <a href="http://OnDemand.hpcc.msu.edu">http://OnDemand.hpcc.msu.edu</a>, select "Interactive Apps--&gt;Interactive Desktop".  Set the number of hours to 1 and the number of cores to 1 and the memory to 1GB.  Under advanced options set the node type to "Any".  Leave everything else blank and hit "Launch".   </li>
 </ol>
@@ -14325,7 +14372,7 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Step-3:-Navigate-to-the-GalaxSee-Directory-inside-the-BCCD-Example-directory">Step 3: Navigate to the GalaxSee Directory inside the BCCD-Example directory<a class="anchor-link" href="#Step-3:-Navigate-to-the-GalaxSee-Directory-inside-the-BCCD-Example-directory">&#182;</a></h3><p>There is a BCCD-Example directory inside your course git repository (You should have cloned the course git repository in the pre-class)</p>
+<h3 id="Step-3:-Navigate-to-the-Pandemic-Directory-inside-the-BCCD-Example-directory">Step 3: Navigate to the Pandemic Directory inside the BCCD-Example directory<a class="anchor-link" href="#Step-3:-Navigate-to-the-Pandemic-Directory-inside-the-BCCD-Example-directory">&#182;</a></h3><p>There is a BCCD-Example directory inside your course git repository (You should have cloned the course git repository in the pre-class)</p>
 <p>Let us Navigate to that folder using the following commands:</p>
 <table>
 <thead><tr>
@@ -14371,7 +14418,7 @@ a.anchor-link {
 ls
 cd BCCD-Examples
 ls
-cd GalaxSee 
+cd Pandemic 
 ls
 pwd</code></pre>
 
@@ -14379,7 +14426,7 @@ pwd</code></pre>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Step-4:-Compile-the-Galaxsee-example-code">Step 4: Compile the Galaxsee example code<a class="anchor-link" href="#Step-4:-Compile-the-Galaxsee-example-code">&#182;</a></h3><p>Type the following command on the terminal. THis switches from the GNU compilers to the INTEL compilers.  Some of the examples we are using in class today use the INTEL compilers.</p>
+<h3 id="Step-4:-Compile-the-Pandemic-example-code">Step 4: Compile the Pandemic example code<a class="anchor-link" href="#Step-4:-Compile-the-Pandemic-example-code">&#182;</a></h3><p>Type the following command on the terminal. THis switches from the GNU compilers to the INTEL compilers.  Some of the examples we are using in class today use the INTEL compilers.</p>
 <p><code>module swap GNU INTEL</code></p>
 <p>This example uses a <code>Makefile</code> to help the user know what commands are needed to compile.  You an view the <code>Makefile</code> by using the <code>cat</code> (catalog) command:</p>
 <p><code>cat Makefile</code></p>
@@ -14391,8 +14438,8 @@ pwd</code></pre>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Step-5:-Run-the-Galaxsee-example-code">Step 5: Run the Galaxsee example code<a class="anchor-link" href="#Step-5:-Run-the-Galaxsee-example-code">&#182;</a></h3><p>Assuming everything is working, the build command made a few examples.  Lets run the examples from the command line:</p>
-<p><code>./galaxsee</code></p>
+<h3 id="Step-5:-Run-the-Pandemic-example-code">Step 5: Run the Pandemic example code<a class="anchor-link" href="#Step-5:-Run-the-Pandemic-example-code">&#182;</a></h3><p>Assuming everything is working, the build command made a few examples.  Lets run the examples from the command line:</p>
+<p><code>./Pandemic.serial</code></p>
 <p>This should run the Pandemic code inside your virtual desktop window.</p>
 
 </div>
