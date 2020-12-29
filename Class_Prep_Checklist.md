@@ -25,7 +25,7 @@ To start, I suggest that you watch the following video and review the course Syl
 
 
 <iframe
-    width="640"
+    width="100%"
     height="300"
     src="https://www.youtube.com/embed/fi8xWrs3QEA?cc_load_policy=True"
     frameborder="0"
