@@ -25,7 +25,7 @@ To start, I suggest that you watch the following video and review the course Syl
 
 
 <iframe
-    width="400"
+    width="640"
     height="300"
     src="https://www.youtube.com/embed/fi8xWrs3QEA?cc_load_policy=True"
     frameborder="0"
@@ -90,13 +90,12 @@ Please review the above tutorial (especially the sections about consuming and pr
 
 # 5. Complete Pre-class Assignment
 
-Y
 You are expected to come to class ready to complete the in-class assignments.  To prepare for most classes, students are required to complete pre-class assignments (typically two pre-class assignments per week).  These assignments will be in the form of jupyter notebooks and will include reading, videos and programming activities.  The required time for each pre-class will vary but the instructor has tried to make them take approximately 30-minutes.  
 
 Each pre-class assignment ends with an online survey which students are required to complete in order to earn credit for the assignment.  Your first weeks assignments are available on the course git repository or downloadable from the course website.  At a minimum, you must complete the first pre-class assignment by 11:59pm on Tuesday January 19th. 
 
-- []()
-- []()
+- [0119--Clusters_pre-class-assignment](0119--Clusters_pre-class-assignment)
+- [0121--Command_Line_pre-class-assignment](0121--Command_Line_pre-class-assignment)
 
 
 ----

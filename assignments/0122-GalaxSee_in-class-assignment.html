@@ -3,7 +3,7 @@
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Syllabus</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>Notebook</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
 
 
@@ -56,18 +56,6 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 .highlight .s1 { color: var(--jp-mirror-editor-string-color) } /* Literal.String.Single */
 .highlight .ss { color: var(--jp-mirror-editor-string-color) } /* Literal.String.Symbol */
 .highlight .il { color: var(--jp-mirror-editor-number-color) } /* Literal.Number.Integer.Long */
-  </style>
-<style type="text/css">
-    #ipython_notebook img {
-    display: block;
-    background: url(logo.png) no-repeat;
-    background-size: contain;
-    height: 28px;
-    padding-left: 258px;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
   </style>
 
 
@@ -14269,286 +14257,172 @@ a.anchor-link {
     <!-- End of mathjax configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Syllabus---CMSE-401:-Methods-in-Parallel-Programming">Syllabus - CMSE 401: Methods in Parallel Programming<a class="anchor-link" href="#Syllabus---CMSE-401:-Methods-in-Parallel-Programming">&#182;</a></h1>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p><a href="./0122-GalaxSee_in-class-assignment.ipynb">Link to this document's Jupyter Notebook</a></p>
+
 </div>
 </div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>In order to successfully complete this assignment you need to participate both individually and in groups during class.   If you attend class in-person then have one of the instructors check your notebook and sign you out before leaving class on <strong>Friday January 22</strong>. If you are attending asynchronously, turn in your assignment using D2L no later than <strong>_11:59pm on Friday January 22</strong>.</p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<p><a name="Course Description"></a></p>
-<h1 id="Course-Description">Course Description<a class="anchor-link" href="#Course-Description">&#182;</a></h1><p>This course teaches parallel programming concepts with a focus on applications  encountered in science and engineering.  These “real world” problems are often larger than what can easily be solved using your personal computer.</p>
-<p>By the end of this course, you will be able to:</p>
-<ol>
-<li><strong><em>Give</em></strong> examples of major science and engineering domains which use parallel programming and the common types of algorithms which need large scale computing (ex. the seven dwarfs of HPC).</li>
-<li><strong><em>Demonstrate</em></strong> the ability to access, navigate and use a variety of Advanced Computing Systems with remote Linux connections. (ssh, module systems, bash, text editing, file systems, software install and building, environment variables, schedulers, etc). </li>
-<li><strong><em>Analyze</em></strong> software by conducting profile and benchmark studies with different parameters and options. <em>**Explain</em>** the bottlenecks and scaling of the code and present results to peers with predictions of times and scaling. </li>
-<li><strong><em>Summarize</em></strong> the fundamentals of parallel programming concepts including; strong and weak scaling, Amstels law, communication overhead, locks and racing conditions.</li>
-<li><strong><em>Explain</em></strong> differences between major parallel hardware and software paradigms. <strong><em>Compare</em></strong> and <strong><em>contrast</em></strong> the different approaches and be able to <strong><em>choose</em></strong> appropriate tools for a given problem. </li>
-<li><strong><em>Develop</em></strong> and <strong><em>Evaluate</em></strong> parallel codes using a variety of major parallel paradigms including; pleasantly parallel, shared memory parallelization (ex. OpenMP), accelerator (ex GPUs and FPGAs), shared network parallelization (ex. MPI, Hadoop, and Charm++) and  parallel libraries (ex. cupy, numba, mkl, fftw and blas). </li>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h1 id="In-Class-Assignment:-Galaxy-Example">In-Class Assignment: Galaxy Example<a class="anchor-link" href="#In-Class-Assignment:-Galaxy-Example">&#182;</a></h1><p><img alt="Astronomical picture of a galaxy" src="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2018/5b86704d620d1.jpg" width="50%"></p>
+<p>Image from: <a href="https://phys.org/news/2018-08-astronomers-reveal-monster-star-forming-galaxies.html">https://phys.org/news/2018-08-astronomers-reveal-monster-star-forming-galaxies.html</a></p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Agenda-for-today's-class-(70-minutes)">Agenda for today's class (70 minutes)<a class="anchor-link" href="#Agenda-for-today's-class-(70-minutes)">&#182;</a></h3><ol>
+<li><a href="#Pre-class-assignment-review">Pre class assignment review</a></li>
+<li><a href="#Running-GalaxSee-on-HPCC">Running GalaxSee on HPCC</a></li>
 </ol>
-<p>We will work toward the goals expressed above throughout this course using a range of activities – primarily by writing software both individually and in small groups, but also through discussion, presentations, and other types of exercises.</p>
 
 </div>
 </div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Topics-Covered">Topics Covered<a class="anchor-link" href="#Topics-Covered">&#182;</a></h2><p>The primary topics covered in this course include:</p>
-<ul>
-<li>Linux/Bash programming/environment</li>
-<li>Software Profiling and Benchmarking</li>
-<li>SLURM Scheduling system</li>
-<li>Pleasantly Parallel Methods</li>
-<li>Shared memory Parallelization with OpenMP</li>
-<li>Accelerator Parallelization with Cuda</li>
-<li>Shared Network Parallelization with MPI</li>
-</ul>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<hr>
+<p><a name=Pre-class-assignment-review></a></p>
+<h1 id="1.-Pre-class-assignment-review">1. Pre class assignment review<a class="anchor-link" href="#1.-Pre-class-assignment-review">&#182;</a></h1><p><a href="0121--Command_Line_pre-class-assignment.ipynb">0121--Command_Line_pre-class-assignment</a></p>
 
 </div>
 </div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Course-Format-and-Activities">Course Format and Activities<a class="anchor-link" href="#Course-Format-and-Activities">&#182;</a></h2><p>This course will be delivered <strong><em>synchronous online</em></strong> with no planned in-person interaction.  This means that students are expected to attend class during the designated class period for their section using a remote video conference connection (zoom).  Students will be expected to complete assignments and turn them in during class.  Portions of the in-class instruction may be recorded and provided on the website.  These videos are provided as a reference for students to review asynchronously and are not intended to replace attendance.</p>
-<h3 id="Class-participation">Class participation<a class="anchor-link" href="#Class-participation">&#182;</a></h3><p>Active class participation (led both by the instructors and by students) is critical to the success of this course.  As such, you are expected to attend every class session, bring the required materials and actively participate in the in-class discussion.</p>
-<h3 id="Pre-class-assignments">Pre-class assignments<a class="anchor-link" href="#Pre-class-assignments">&#182;</a></h3><p>We will assign short assignments that are due prior to class.  The purpose of these assignments is to introduce new material and give you some exposure so that we can focus on hands-on practice during class.  These assignments will typically consist of short videos, reading assignments, and related questions or problems. Each pre-class assignment includes a survey that students must fill out by 11:59 p.m. the night before class.</p>
-<h3 id="In-class-programming-assignments">In-class programming assignments<a class="anchor-link" href="#In-class-programming-assignments">&#182;</a></h3><p>Class sessions will be held three times a week and broken up into presentations, discussions, and programming activities that will allow you to immediately implement (and get instant feedback on) what you have just learned.  To gain credit for in-class assignments, students must use screen sharing (via zoom) to show how much they were able to complete before leaving class.  If students have arranged with the instructor to participate asynchronously, then a complete in-class assignment must be turned in by 11:59 pm on the same day of the class via the course Desire2Learn page.</p>
-<h3 id="Quizzes">Quizzes<a class="anchor-link" href="#Quizzes">&#182;</a></h3><p>You will have periodic in-class quizzes (approximately 1 quiz every three weeks) that will assess your understanding of materials covered in class.  These quizzes are not intended to be high stress and therefore add up only to a small portion of the final grade.  Instead the quizzes are primarily used as a tool by the instructor to help gage progress and adjust course materials to help improve individual learning.  Quizzes will be taken during class and be turned in via the course <a href="http://d2l.msu.edu/">Desire2Learn</a> page.</p>
-<h3 id="Homework">Homework<a class="anchor-link" href="#Homework">&#182;</a></h3><p>Students will have periodic programming assignments (approximately 1 assignment every three weeks) that will provide a more in-depth exploration of the materials covered in class.  These assignments may include both individual work and group work and will be turned in by the given deadline via the course’s Desire2Learn page.  In general, homework assignments will be due on Thursdays on the weeks when there is no project milestone or Friday quiz.</p>
-<h3 id="Projects">Projects<a class="anchor-link" href="#Projects">&#182;</a></h3><p>Each student will complete an individualized 2-part project with milestones due throughout the semester (approximately 1 milestone every three weeks) that will provide a personalized exploration of the materials covered in class.  These projects are assumed to be individual but group work may be considered with approval by the instructor.  Student projects will be maintained and turned in by providing instructor read access to a git repository.   In general, project milestones will be due on Thursdays on the weeks when there is no homework or Friday quiz.</p>
-<h3 id="Final-Exam:">Final Exam:<a class="anchor-link" href="#Final-Exam:">&#182;</a></h3><p>The final exam will cover the entire course and will have a similar format to the Quizzes. However, instead of a single motivating question the final will have four motivating questions (likely with five parts each).  The final exam will be conducted via zoom during the course schedule exam period (Monday, April 26 2021 12:45pm - 2:45pm).  Students may be expected to log into zoom using a secondary device (ex. phone). this device will need to be positioned such that the students keyboard, mouse and screen are visible.   Details for the procedure used during the final exam will be explained during class.</p>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<hr>
+<p><a name=Running-GalaxSee-on-HPCC></a></p>
+<h1 id="2.-Running-GalaxSee-on-HPCC">2. Running GalaxSee on HPCC<a class="anchor-link" href="#2.-Running-GalaxSee-on-HPCC">&#182;</a></h1><p>Today we will practice what we have learned on Friday.  As a reminder, here are the commands we used:</p>
+<h3 id="Step-1:-Start-an-OpenOnDemand-interactive-desktop-session.">Step 1: Start an OpenOnDemand interactive desktop session.<a class="anchor-link" href="#Step-1:-Start-an-OpenOnDemand-interactive-desktop-session.">&#182;</a></h3><ol>
+<li>Go to <a href="http://OnDemand.hpcc.msu.edu">http://OnDemand.hpcc.msu.edu</a>, select "Interactive Apps--&gt;Interactive Desktop".  Set the number of hours to 1 and the number of cores to 1 and the memory to 1GB.  Under advanced options set the node type to "Any".  Leave everything else blank and hit "Launch".   </li>
+</ol>
+<ol>
+<li><p>Select "Interactive Apps--&gt;Interactive Desktop" again.  This time set the number of hours to 1 and the number of cores to 4 and the memory to 1GB.  Under advanced options set the node type to "Any".  Leave everything else blank and hit "Launch".</p>
+</li>
+<li><p>Wait for your sessions to start.</p>
+</li>
+</ol>
+<p><strong><em>NOTE</em></strong> As is the case anytime we use the HPCC,  there is no guarantee that these sessions will start during class.  This is a shared system and we need to be flexible.  You can also do the rest of this assignment on a development node.</p>
 
 </div>
 </div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Assessment-Information">Assessment Information<a class="anchor-link" href="#Assessment-Information">&#182;</a></h2><p>There are a variety of course activities, with percentages of total grade listed.  More detailed descriptions of each activity can be found elsewhere in the syllabus.  </p>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Step-2:-Open-a-Terminal-app">Step 2: Open a Terminal app<a class="anchor-link" href="#Step-2:-Open-a-Terminal-app">&#182;</a></h3><p>Once you have a desktop up and running, open a terminal app from the main menu.  Try navigating to "Applications--&gt;System Tools--&gt;Terminal".  Explore this menu a bit to get familiar with some of the programs available inside the interactive desktop.</p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Step-3:-Navigate-to-the-GalaxSee-Directory-inside-the-BCCD-Example-directory">Step 3: Navigate to the GalaxSee Directory inside the BCCD-Example directory<a class="anchor-link" href="#Step-3:-Navigate-to-the-GalaxSee-Directory-inside-the-BCCD-Example-directory">&#182;</a></h3><p>There is a BCCD-Example directory inside your course git repository (You should have cloned the course git repository in the pre-class)</p>
+<p>Let us Navigate to that folder using the following commands:</p>
 <table>
 <thead><tr>
-<th>Activity</th>
-<th>Grade Percentage</th>
+<th>Command</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Pre-Class Assignments</td>
-<td>20</td>
+<td>cd</td>
+<td>Change Directory</td>
 </tr>
 <tr>
-<td>In-Class Participation</td>
-<td>20</td>
+<td>ls</td>
+<td>list directory</td>
 </tr>
 <tr>
-<td>Homework Assignments</td>
-<td>20</td>
+<td>pwd :</td>
+<td>print working directory</td>
 </tr>
 <tr>
-<td>Project Milestones</td>
-<td>20</td>
+<td>.</td>
+<td>Shortcut to indicate current directory</td>
 </tr>
 <tr>
-<td>Bi-weekly Quizzes</td>
-<td>10</td>
+<td>..</td>
+<td>Shortcut to indicate parent directory</td>
 </tr>
 <tr>
-<td>Final Exam</td>
-<td>10</td>
-</tr>
-<tr>
-<td>Total</td>
-<td>100%</td>
+<td>~</td>
+<td>Shortcut to indicate home directory</td>
 </tr>
 </tbody>
 </table>
-<h3 id="Grading-scale">Grading scale<a class="anchor-link" href="#Grading-scale">&#182;</a></h3>$$ 4.0 \lt 90\%$$$$ 3.5 \lt 85\%$$<p> 
-$$ 3.0 \lt 80\%$$
-$$ 2.5 \lt 75\%$$
-$$ 2.0 \lt 70\%$$
-$$ 1.5 \lt 65\%$$
-$$ 0.0 \lt 60\%$$</p>
-<p>Note: grades will not be curved - your grade is based on your own effort and progress, not on competition with your classmates.</p>
 
 </div>
 </div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>These commands may be slightly different on your computer but here are common commands:</p>
+
+<pre><code>cd CMSE401-S21
+ls
+cd BCCD-Examples
+ls
+cd GalaxSee 
+ls
+pwd</code></pre>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Step-4:-Compile-the-Galaxsee-example-code">Step 4: Compile the Galaxsee example code<a class="anchor-link" href="#Step-4:-Compile-the-Galaxsee-example-code">&#182;</a></h3><p>Type the following command on the terminal. THis switches from the GNU compilers to the INTEL compilers.  Some of the examples we are using in class today use the INTEL compilers.</p>
+<p><code>module swap GNU INTEL</code></p>
+<p>This example uses a <code>Makefile</code> to help the user know what commands are needed to compile.  You an view the <code>Makefile</code> by using the <code>cat</code> (catalog) command:</p>
+<p><code>cat Makefile</code></p>
+<p>We run the commands inside the <code>Makefile</code> using the <code>make</code> program. All you need to do is type <code>make</code> and the program will read the <code>Makefile</code> in the current directory and run it for you.</p>
+<p><code>make</code></p>
+<p>You should see some compiler commands on your screen.  This means it is working.  Check for errors and debug them.</p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="Step-5:-Run-the-Galaxsee-example-code">Step 5: Run the Galaxsee example code<a class="anchor-link" href="#Step-5:-Run-the-Galaxsee-example-code">&#182;</a></h2><p>Assuming everything is working, the build command made a few examples.  Lets run the examples from the command line:</p>
+<p><code>./Pandemic.serial</code></p>
+<p>This should run the Pandemic code inside your virtual desktop window.</p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<h1 id="Logistical-Information">Logistical Information<a class="anchor-link" href="#Logistical-Information">&#182;</a></h1><h2 id="Course-website">Course website<a class="anchor-link" href="#Course-website">&#182;</a></h2><p>Information for this course is being managed via the course website:</p>
-<p><a href="https://msu-cmse-courses.github.io/cmse401-s21-student/">https://msu-cmse-courses.github.io/cmse401-s21-student/</a></p>
-<p>Accompanying course information, including the official course calendar, can be found at this website. Each section also uses a Desire2Learn page for assignment grading and organization, which can be found at <a href="http://d2l.msu.edu">http://d2l.msu.edu</a>. All assignments will be handed in via Desire2Learn.  Consult the course website for instructions.</p>
+<h3 id="Congratulations,-we're-done!">Congratulations, we're done!<a class="anchor-link" href="#Congratulations,-we're-done!">&#182;</a></h3><p>If you attend class in-person then have one of the instructors check your notebook and sign you out before leaving class. If you are attending asynchronously, turn in your assignment using D2L.</p>
 
 </div>
 </div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Course-Meeting-Time-and-Location">Course Meeting Time and Location<a class="anchor-link" href="#Course-Meeting-Time-and-Location">&#182;</a></h2><p>For simplicity, all sections will be in the same zoom classroom.  Students are expected to attend their class for their own sections and will not be allowed in during other classes without both instructors' prior approval.</p>
-<ul>
-<li>Section 001:  M W F   12:30 PM - 1:40 PM  <a href="https://msu.zoom.us/j/982070340522">https://msu.zoom.us/j/98207034052</a> </li>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Course-Resources:">Course Resources:<a class="anchor-link" href="#Course-Resources:">&#182;</a></h3><ul>
+<li><a href="https://msu-cmse-courses.github.io/cmse802-f20-student/">Website</a></li>
+<li><a href="https://msu.zoom.us/j/98207034052">ZOOM</a></li>
+<li><a href="https://docs.google.com/document/d/1ahg48CCFhRzUL-QIHzlt_KEf1XqsCasFBU4iePHhcug/edit#">JargonJar</a></li>
 </ul>
 
 </div>
 </div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Course-Schedule">Course Schedule<a class="anchor-link" href="#Course-Schedule">&#182;</a></h2><p>Specific assignments and due dates will be maintained on the <a href="https://msu-cmse-courses.github.io/cmse401-S21-student/assignments/Schedule">course schedule</a>, which is linked to off the course website.</p>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Written by Dr. Dirk Colbry, Michigan State University
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
 
 </div>
 </div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Required-materials-for-class">Required materials for class<a class="anchor-link" href="#Required-materials-for-class">&#182;</a></h2><p>Although this course will be meeting virtually this semester, the “in-class” programming assignments are a critical part of the learning process in this course. To that end, you will need to ensure that you have the following:</p>
-<ul>
-<li>A computer with a reliable internet connection and functional webcam, microphone, and speakers.</li>
-<li>The ability to run the Zoom video conferencing software, which you can download here:<a href="https://msu.zoom.us/support/download"> https://msu.zoom.us/support/download</a> </li>
-</ul>
-<p>If you do not have a sufficiently reliable internet connection to log into Zoom during the designated class times to participate in the virtual class sessions, you should notify your instructor immediately to determine how you can best participate in the course and successfully complete the required activities.</p>
-<p>You are also expected to have a Slack account (<a href="https://slack.com/">https://slack.com/</a>) and sign up for the CMSE Courses Slack workspace (<a href="https://cmse-courses.slack.com/">https://cmse-courses.slack.com/</a>). Details for doing so are outlined in later sections.</p>
-<p>The details regarding the software needed for this course are provided in the “Software Setup Guide” which will be provided to you by your instructor.</p>
-<h3 id="Reading-Materials">Reading Materials<a class="anchor-link" href="#Reading-Materials">&#182;</a></h3><p>All required readings will be provided as Open Educational Resource (OER) via link on the course website.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Instructor-Contact-Information">Instructor Contact Information<a class="anchor-link" href="#Instructor-Contact-Information">&#182;</a></h2><ul>
-<li>Dr. Dirk Colbry (he/him)<ul>
-<li>Computational Mathematics, Science and Engineering</li>
-<li>Email: <a href="mailto:colbrydi@msu.edu">colbrydi@msu.edu</a> </li>
-<li>Web:  <a href="http://www.dirk.colbry.com">http://www.dirk.colbry.com</a></li>
-</ul>
-</li>
-</ul>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Instructor-office-hours-and-locations">Instructor office hours and locations<a class="anchor-link" href="#Instructor-office-hours-and-locations">&#182;</a></h2><p>The best way to contact instructors is through email or by visiting their office hours. Please give your instructor 1 workday to reply to all emails. Office hours will be held just after class on for one hour.</p>
-<table>
-<thead><tr>
-<th>When</th>
-<th>Where</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>M W F</td>
-<td>1:40-2:40</td>
-</tr>
-</tbody>
-</table>
-<p>For spring 2021, all office hours should be primarily via the CMSE 401 classroom:</p>
-<p><a href="https://msu.zoom.us/j/982070340522">https://msu.zoom.us/j/98207034052</a></p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Course-Policies-and-Expectations">Course Policies and Expectations<a class="anchor-link" href="#Course-Policies-and-Expectations">&#182;</a></h1><h2 id="Class-attendance">Class attendance<a class="anchor-link" href="#Class-attendance">&#182;</a></h2><p>This class is heavily based on material presented and worked on during class, and it is critical that you attend and participate fully every week! Therefore, class attendance is absolutely required. Since unexpected situations may arise, all students will be permitted to miss three class periods without penalty. After the first three, <strong><em>an unexcused absence will result in zero points for the day, which includes the in-class programming assignment points</em></strong>. Arriving late or leaving early without prior arrangement with the instructor of your session may be counted as an unexcused absence.  Note that if you have a legitimate reason to miss class (such as job, graduate school, or medical school interviews) you must arrange this ahead of time to be excused from class. Six or more unexcused absences will result in the reduction of your grade by one step (e.g., from 4.0 to 3.5), with additional absences reducing your grade further at the discretion of the course instructor. <strong><em>If you are unable to attend class or complete assignments due to illness or self-isolation (as per the CDC recommended guidelines), your instructor will work to provide the necessary accommodations to ensure that your performance in class is not significantly impacted.</em></strong></p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Email">Email<a class="anchor-link" href="#Email">&#182;</a></h2><p>At times, we will send out important course information via email.  This email is sent to your MSU email address (the one that ends in “@msu.edu”).  You are responsible for all information sent to your university email and for checking this account daily.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Inclusive-classroom-behavior">Inclusive classroom behavior<a class="anchor-link" href="#Inclusive-classroom-behavior">&#182;</a></h2><p>Respectful and responsible behavior is expected at all times, which includes not interrupting other students, refraining from non-course-related use of electronic devices or additional software during class sessions, and not using offensive or demeaning language in our discussions. Flagrant or repeated violations of this expectation may result in ejection from the classroom, grade-related penalties, and/or involvement of the university Ombudsperson. In particular, behaviors that could be considered discriminatory or harassing, or unwanted sexual attention, will not be tolerated and will be immediately reported to the appropriate MSU office (which may include the MSU Police Department).</p>
-<p>In addition, MSU welcomes a full spectrum of experiences, viewpoints, and intellectual approaches because they enrich the conversation, even as they challenge us to think differently and grow. However, we believe that expressions and actions that demean individuals or groups comprise the environment for intellectual growth and undermine the social fabric on which the community is based. These demeaning behaviors are not welcome in this classroom.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Accommodations-for-Students-with-Disabilities">Accommodations for Students with Disabilities<a class="anchor-link" href="#Accommodations-for-Students-with-Disabilities">&#182;</a></h2><blockquote><p>Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at <a href="http://rcpd.msu.edu">http://rcpd.msu.edu</a>.  Once your eligibility for an accommodation has been determined, you will be issued a Verified Individual Services Accommodation ("VISA") form. Please present this form to the instructor at the start of the term and/or two weeks prior to the accommodation date (test, project, etc.). Requests received after this date may not be honored.</p>
-<ul>
-<li>from the Resource Center for Persons with Disabilities (RCPD)</li>
-</ul>
-</blockquote>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Academic-honesty">Academic honesty<a class="anchor-link" href="#Academic-honesty">&#182;</a></h2><p>Intellectual integrity is the foundation of the scientific enterprise.  In all instances, you must do your own work and give proper credit to all sources that you use in your papers and oral presentations – any instance of submitting another person’s work, ideas, or wording as your own counts as plagiarism.  This includes failing to cite any direct quotations in your essays, research paper, class debate, or written presentation.  The MSU College of Engineering adheres to the policies of academic honesty as specified in the General Student Regulations 1.0, Protection of Scholarship and Grades, and in the all-University statement on Integrity of Scholarship and Grades, which are included in Spartan Life: Student Handbook and Resource Guide.  Students who plagiarize will receive a 0.0 in the course.  In addition, University policy requires that any cheating offense, regardless of the magnitude of the infraction or punishment decided upon by the professor, be reported immediately to the dean of the student's college.  (See also the<a href="https://www.msu.edu/%7Eombud/academic-integrity/index.html"> Academic Integrity</a> webpage.)</p>
-<p>It is important to note that plagiarism in the context of this course includes, but is not limited to, directly copying another student’s solutions to assignments; copying materials from online sources, textbooks, or other reference materials without citing those references in your source code or documentation, or having somebody else do your in-class work or homework on your behalf.  Any work that is done in collaboration with other students should state this explicitly, and have their names as well as yours listed clearly.</p>
-<p>More broadly, we ask that students adhere to the Spartan Code of Honor academic pledge, as written by the Associated Students of Michigan State University (ASMSU):</p>
-<p><strong><em>“As a Spartan, I will strive to uphold values of the highest ethical standard. I will practice honesty in my work, foster honesty in my peers, and take pride in knowing that honor is worth more than grades. I will carry these values beyond my time as a student at Michigan State University, continuing the endeavor to build personal integrity in all that I do.”</em></strong></p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Limits-to-confidentiality">Limits to confidentiality<a class="anchor-link" href="#Limits-to-confidentiality">&#182;</a></h2><p>Essays, journals, and other materials submitted for this class are generally considered confidential pursuant to the University's student record policies.  However, students should be aware that University employees, including instructors, may not be able to maintain confidentiality when it conflicts with their responsibility to report certain issues to protect the health and safety of MSU community members and others.  As the instructor, I must report the following information to other University offices (including the Department of Police and Public Safety) if you share it with me: suspected child abuse/neglect, even if this maltreatment happened when you were a child, allegations of sexual assault or sexual harassment when they involve MSU students, faculty, or staff, and credible threats of harm to oneself or to others. These reports may trigger contact from a campus official who will want to talk with you about the incident that you have shared.  In almost all cases, it will be your decision whether you wish to speak with that individual.  If you would like to talk about these events in a more confidential setting you are encouraged to make an appointment with the MSU Counseling Center.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Changes-to-Syllabus">Changes to Syllabus<a class="anchor-link" href="#Changes-to-Syllabus">&#182;</a></h2><p>The syllabus may also be adjusted if needed. These types of changes will be announced during class, by email and/or in the course’s website.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Commercialized-Lecture-Notes">Commercialized Lecture Notes<a class="anchor-link" href="#Commercialized-Lecture-Notes">&#182;</a></h2><p>All lectures, videos and notes provided in this course are copyrighted by the university.  Recording of lectures and/or commercialization of other university-provided course materials is not permitted in this course.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Disruptive-Behavior">Disruptive Behavior<a class="anchor-link" href="#Disruptive-Behavior">&#182;</a></h2><p>Article 2.III.B.4 of the<a href="http://splife.studentlife.msu.edu/academic-freedom-for-students-at-michigan-state-university"> Student Rights and Responsibilities (SRR)</a> for students at Michigan State University states:</p>
-<blockquote><p>"The student's behavior in the classroom shall be conducive to the teaching and learning process for all concerned." Article 2.III.B.10 of the<a href="http://splife.studentlife.msu.edu/academic-freedom-for-students-at-michigan-state-university"> SRR</a> states that "The student and the faculty share the responsibility for maintaining professional relationships based on mutual trust and civility."</p>
-</blockquote>
-<p><a href="http://splife.studentlife.msu.edu/regulations/general-student-regulations"> General Student Regulation 5.02</a> states:</p>
-<blockquote><p>"No student shall . . . interfere with the functions and services of the University (for example, but not limited to, classes . . .) such that the function or service is obstructed or disrupted. Students whose conduct adversely affects the learning environment in this classroom may be subject to disciplinary action through the Student Judicial Affairs office."</p>
-</blockquote>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Grief-Absence-Policy">Grief Absence Policy<a class="anchor-link" href="#Grief-Absence-Policy">&#182;</a></h2><p>Michigan State University is committed to ensuring that the bereavement process of a student who loses a family member during a semester does not put the student at an academic disadvantage in their classes. If you require a grief absence, you should complete the “Grief Absence Request” web form no later than one week after knowledge of the circumstance. I will work with you to make appropriate accommodations so that you are not penalized due to a verified grief absence.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="MSU-Community-Compact-for-COVID-19">MSU Community Compact for COVID-19<a class="anchor-link" href="#MSU-Community-Compact-for-COVID-19">&#182;</a></h2><p>During the Spring 2021 semester a set of requirements have been put in place to maximize the health and safety of all members of the MSU community. More details can be found on the <a href="https://msu.edu/together-we-will/msu-community-compact/">MSU Community Compact website</a>.</p>
-<h3 id="Student-illness-and-Exposure-to-COVID-19">Student illness and Exposure to COVID-19<a class="anchor-link" href="#Student-illness-and-Exposure-to-COVID-19">&#182;</a></h3><p>If a student is exposed to someone who is ill or has tested positive for the COVID-19 virus, they will stay home, contact a health care provider and follow all public health recommendations.  There are multiple policies available to complete course work. Please talk to your instructors and <a href="https://deanofstudents.msu.edu/medical-leave">review the university policies</a>.</p>
-<h3 id="Instructor-illness">Instructor illness<a class="anchor-link" href="#Instructor-illness">&#182;</a></h3><p>In the event that the instructor gets ill, the course will continue.  Backup instructors have been identified and will step in.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Using-this-Course&#8217;s-Python-Setup">Using this Course&#8217;s Python Setup<a class="anchor-link" href="#Using-this-Course&#8217;s-Python-Setup">&#182;</a></h1><p><strong>Instructions for downloading Anaconda (Python 3.x):</strong></p>
-<ol>
-<li>Go to the Anaconda Download webpage: <a href="https://www.anaconda.com/downloads">https://www.anaconda.com/downloads</a></li>
-<li>Pick your operating system.</li>
-<li>Download the Python 3.x version (64 bit recommended).</li>
-<li>Follow the directions at the bottom of the page to install Python on your specific operating system.</li>
-<li>Open the command line program on your computer<ul>
-<li>On windows, type CMD in the run box in the Start menu.</li>
-<li>On Mac, type “terminal” and hit enter in the Finder window</li>
-<li>On Linux, open up the console application</li>
-</ul>
-</li>
-<li>Type “jupyter notebook” in the command line and hit enter</li>
-</ol>
-<p>If everything goes correctly, a browser window should open up with the Jupyter interface running. If things don’t work, don’t worry; we will help you get started.</p>
-<p><strong>Instructions for connecting to the engineering JupyterHub server:</strong></p>
-<p>Every student enrolled in this class will be given an engineering computing account. If this is your first time using your Engineering account you will need to activate the account by going to the following website:</p>
-<p><a href="https://www.egr.msu.edu/decs/myaccount/?page=activate">https://www.egr.msu.edu/decs/myaccount/?page=activate</a></p>
-<p>Enter your MSU NetID. The initial password will be your Apid with an @ on the end (example: A12345678@) and then they have to set a password that meets the requirements listed on the page. Verify the password. Then agree to the terms and Activate.</p>
-<p>Once your account is activated you can access the classroom Jupyterhub server using the following instructions:</p>
-<ol>
-<li>Open up a web browser and go to the following URL: <a href="https://jupyterhub.egr.msu.edu">https://jupyterhub.egr.msu.edu</a> </li>
-<li>Type your engineering login name. This will be your MSU NetID.</li>
-<li>Your engineering password.</li>
-</ol>
-<p>If everything is working properly you will see the main “Files” windows in the Jupyter interface.</p>
-<p><strong>Instructions for getting iPython notebook files into Jupyter:</strong></p>
-<p>iPython notebooks (also referred to as Jupyter notebooks) are files that end with the .ipynb extension.  We will give you these files for all of your assignments, you will edit them and turn in the edited files using the class Website.</p>
-<p>You can download the ipynb assignment files from the class website (<a href="http://d2l.msu.edu">http://d2l.msu.edu</a>). Once you have an ipynb file you can load it into Jupyter using the “upload” button on the main “Files” tab in the Jupyter web interface. Hitting this button will cause a file browser window to open. Just navigate to your ipynb file, select it and hit the open button.</p>
-<p>Once you see your filename in the jupyter window you can just click on that name to start using that file.</p>
-<p><strong>Instructions for making a copy of iPython notebooks and turning them in:</strong></p>
-<p>When you are finished editing your iPython notebook and are ready to turn in the assignment you will need to download the ipynb file from the Jupyter interface.  </p>
-<ol>
-<li>With the notebook file open in Jupyter, go to the “File” menu, select the “Download as” menu option and then choose “iPython Notebook (.ipynb)”</li>
-<li>Pick a place to save the file (The desktop is a good choice).  </li>
-<li>Make sure you make  a copy of the .ipynb file for your own records.</li>
-<li>Go to the <a href="http://d2l.msu.edu">Desire 2 Learn</a> course website and upload the .ipynb file into the assignment folder. </li>
-</ol>
-<p><strong>NOTE:</strong>  Video versions of these instructions are available on the <a href="https://www.youtube.com/channel/UCzs8QmQJ74xHmxRrq3QtvtQ">CMSE YouTube Channel</a>.</p>
-
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs jp-mod-noInput ">
-
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs jp-mod-noInput ">
-
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
 
 </div>
