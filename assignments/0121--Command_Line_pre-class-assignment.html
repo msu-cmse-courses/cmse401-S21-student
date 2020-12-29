@@ -14259,13 +14259,13 @@ a.anchor-link {
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><a href="./0119--Clusters_pre-class-assignment.ipynb">Link to this document's Jupyter Notebook</a></p>
+<p><a href="./0121--Command_Line_pre-class-assignment.ipynb">Link to this document's Jupyter Notebook</a></p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>In order to successfully complete this assignment you must do the required reading, watch the provided videos and complete all instructions.  The embedded survey form must be entirely filled out and submitted on or before <strong>11:59pm on Tuesday January 19</strong>.  Students must come to class the next day prepared to discuss the material covered in this assignment.</p>
+<p>In order to successfully complete this assignment you must do the required reading, watch the provided videos and complete all instructions.  The embedded survey form must be entirely filled out and submitted on or before <strong>11:59pm on Thursday January 21</strong>.  Students must come to class the next day prepared to discuss the material covered in this assignment.</p>
 
 </div>
 </div>
@@ -14277,17 +14277,14 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Pre-Class-Assignment:-High-Performace-Computing">Pre-Class Assignment: High Performace Computing<a class="anchor-link" href="#Pre-Class-Assignment:-High-Performace-Computing">&#182;</a></h1>
+<h1 id="Pre-Class-Assignment:-Getting-Started-on-the-HPCC">Pre-Class Assignment: Getting Started on the HPCC<a class="anchor-link" href="#Pre-Class-Assignment:-Getting-Started-on-the-HPCC">&#182;</a></h1>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h1 id="Goals-for-today's-pre-class-assignment">Goals for today's pre-class assignment<a class="anchor-link" href="#Goals-for-today's-pre-class-assignment">&#182;</a></h1><ol>
-<li><a href="#Introduction-to-Parallel-Programming">Introduction to Parallel Programming</a></li>
-<li><a href="#How-to-build-a-Supercomputer">How to build a Supercomputer</a></li>
-<li><a href="#OnDemand">OnDemand</a></li>
-<li><a href="#Test-HPC-Account">Test HPC Account</a></li>
-<li><a href="#Using-git-and-Jupyter-on-the-HPCC">Using git and Jupyter on the HPCC</a></li>
+<li><a href="#vi"> vi (or vim) : ASCII (text) editor</a></li>
+<li><a href="#Manual-Pages">Manual Pages</a></li>
 <li><a href="#Assignment_wrap-up">Assignment wrap-up</a></li>
 </ol>
 
@@ -14296,8 +14293,15 @@ a.anchor-link {
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<p><a name=Introduction-to-Parallel-Programming></a></p>
-<h1 id="1.-Introduction-to-Parallel-Programming">1. Introduction to Parallel Programming<a class="anchor-link" href="#1.-Introduction-to-Parallel-Programming">&#182;</a></h1><p>Please watch this video to give you a a broad review of some of many of the topics and systems we will be covering and using in this course.</p>
+<p><a name=vi></a></p>
+<h1 id="1.--vi-(or-vim)-:-ASCII-(text)-editor">1.  vi (or vim) : ASCII (text) editor<a class="anchor-link" href="#1.--vi-(or-vim)-:-ASCII-(text)-editor">&#182;</a></h1><p><img src="https://lh4.googleusercontent.com/iGxbffVx05XmCZC4qlKWQpFmjJBN3Pio_l6iEo2Fqx9FecvWNnur1p8DumFyM23o2wahXT3JWg=w351" alt='vim command modes'></p>
+<p style="text-align: right;">Image from: https://colbrydi.github.io/quick-graphviz-tutorial.html</p>
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Next we are going to do some editing of a file using the <code>vim</code> command. Do not be fooled by the simple text interface. Vim is an extremely powerful text editor used by advanced programmers around the world.  Since vim can be found on practically any Linux system (from Raspberry Pis to super computers) it is a great editor to know and have in your back pocket.</p>
+<p>Watch the following video for a brief introduction to vim:</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
@@ -14307,7 +14311,7 @@ a.anchor-link {
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
-<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;_3ZymL2msb8&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">,</span> <span class="n">cc_load_policy</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;z1iK9WAuUZ0&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -14332,7 +14336,7 @@ a.anchor-link {
         <iframe
             width="640"
             height="360"
-            src="https://www.youtube.com/embed/_3ZymL2msb8?cc_load_policy=True"
+            src="https://www.youtube.com/embed/z1iK9WAuUZ0"
             frameborder="0"
             allowfullscreen
         ></iframe>
@@ -14348,10 +14352,21 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>&#9989; <strong><font color=red>DO THIS:</font></strong>  Use your favorite search engine to find a VI cheat sheet. What is the URL for the VIM Cheat Sheet that you found?</p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Put a URL to your cheat sheet here.</p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<p><a name=How-to-build-a-Supercomputer></a></p>
-<h1 id="1.-How-to-build-a-Supercomputer">1. How to build a Supercomputer<a class="anchor-link" href="#1.-How-to-build-a-Supercomputer">&#182;</a></h1><p>In addition to making your code go faster we can use a faster computer...</p>
-<p>Your instructor submitted a request to get you an account on the MSU High Performance Computer (HPC).  The following videos try to explain the system and how to gain access.  We will be using these accounts in class. See if you can log in (It is okay if you can't, the accounts may not be set up yet).</p>
+<p><a name=Manual-Pages></a></p>
+<h1 id="2.-Manual-Pages">2. Manual Pages<a class="anchor-link" href="#2.-Manual-Pages">&#182;</a></h1><p>The following video is a short introduction to the <code>man</code> command.  The instructor is "old school" and before watching this video had never used the <code>info</code> command or knew about the <code>-k</code> option to the <code>man</code> command.  Both things seem very useful. Watch the following video and answer the questions below.</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
@@ -14361,7 +14376,7 @@ a.anchor-link {
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
-<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;6oyoS-ddUH0&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">,</span> <span class="n">cc_load_policy</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;SjPV9BET_UM&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -14386,7 +14401,7 @@ a.anchor-link {
         <iframe
             width="640"
             height="360"
-            src="https://www.youtube.com/embed/6oyoS-ddUH0?cc_load_policy=True"
+            src="https://www.youtube.com/embed/SjPV9BET_UM"
             frameborder="0"
             allowfullscreen
         ></iframe>
@@ -14402,146 +14417,61 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Most of the "real" work we will be doing in class will use remote computing resources.  many of these recourses have web interfaces which are easy to access and include:</p>
-<ul>
-<li><a href="http://jupyterhub2.egr.msu.edu">jupyterhub2.egr.msu.edu</a> - Department of engineering Jupyterhub server.</li>
-<li><a href="http://jupyterhub.egr.msu.edu">jupyterhub.egr.msu.edu</a> - Department of engineering backup Jupyterhub server.</li>
-<li><a href="http://ondemand.hpcc.msu.edu/">ondemand.hpcc.msu.edu/</a> - MSU Institute for Cyber Enabled Research Remote access server.</li>
-</ul>
+<p>&#9989; <strong><font color=red>QUESTION:</font></strong> What does the <code>-k</code> option for the <code>man</code> command?</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>DO THIS:</font></strong> These Videos uses a lot of jargon.  Add words and phrases to the course <a href="https://docs.google.com/document/d/1ahg48CCFhRzUL-QIHzlt_KEf1XqsCasFBU4iePHhcug/edit#">Jargon Jar</a></p>
+<p>Put your answer to the above question here.</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<p><a name=OnDemand></a></p>
-<h1 id="2.-OnDemand">2. OnDemand<a class="anchor-link" href="#2.-OnDemand">&#182;</a></h1><p>The HPCC has a new interface called <a href="http://ondemand.hpcc.msu.edu/">OpenOnDemand</a>.  You can log into OpenOnDemand using your MSU netid and password (using Google MSU account) and you will get to a website interface that has everything you need to work on the HPCC.  Here is a video introducing you to OpenOnDemand:</p>
-
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[3]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
-<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;FMxa72hg3PA&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">,</span> <span class="n">cc_load_policy</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
-<div class="jp-Cell-outputWrapper">
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[3]:</div>
-
-
-
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
-
-        <iframe
-            width="640"
-            height="360"
-            src="https://www.youtube.com/embed/FMxa72hg3PA?cc_load_policy=True"
-            frameborder="0"
-            allowfullscreen
-        ></iframe>
-        
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>QUESTION:</font></strong> Are you able to log on to the HPCC and if not, where did you get stuck?</p>
+<p>&#9989; <strong><font color=red>QUESTION:</font></strong> How do you quit the <code>man</code> command?</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
+<p>Put your answer to the above question here.</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<p><a name=Test-HPC-Account></a></p>
-<h1 id="3.-Test-HPC-Account">3. Test HPC Account<a class="anchor-link" href="#3.-Test-HPC-Account">&#182;</a></h1><p>&#9989; <strong><font color=red>DO THIS:</font></strong> Follow the above video and log on to a development node using <a href="http://ondemand.hpcc.msu.edu">http://ondemand.hpcc.msu.edu</a> or by sshing to hpcc.msu.edu laptop.  Run the following from a terminal on the HPCC"</p>
+<p>&#9989; <strong><font color=red>QUESTION:</font></strong> How do you search inside the <code>man</code> command?</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<div class="highlight"><pre><span></span>python --version
-
-pip --version
-
-git clone  CMSE401
-
-<span class="nb">cd</span> CMSE401
-
-ls
-</pre></div>
+<p>Put your answer to the above question here.</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><strong>Note:</strong> the HPCC uses your MSU login and password and scully uses your engineering login and password.</p>
+<p>&#9989; <strong><font color=red>QUESTION:</font></strong> How do you quit inside the <code>info</code> command?</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>Question:</font></strong> What problems (if any) did you encounter when testing your software?</p>
+<p>Put your answer to the above question here.</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
+<p>&#9989; <strong><font color=red>QUESTION:</font></strong> How do you search inside the <code>info</code> command?</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>Question:</font></strong> What did you do to try and fix any problems you encountered?</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<p><a name=Using-git-and-Jupyter-on-the-HPCC></a></p>
-<h1 id="4.-Using-git-and-Jupyter-on-the-HPCC">4. Using git and Jupyter on the HPCC<a class="anchor-link" href="#4.-Using-git-and-Jupyter-on-the-HPCC">&#182;</a></h1><p>Assuming that you were able to successfully clone the class repository. try running a interactive jupyter server and review some of the course notebook files.</p>
-<h2 id="Step-1:">Step 1:<a class="anchor-link" href="#Step-1:">&#182;</a></h2><p>Go to the "Interactive Applications" and select "Jupyter Notebooks".  For now just use the default settings and hit "Launch".</p>
-<h2 id="Step-2:">Step 2:<a class="anchor-link" href="#Step-2:">&#182;</a></h2><p>When the connection is made, click on the link for the Jupyter Notebook, navigate to the course website and open up todays assignment.</p>
+<p>Put your answer to the above question here.</p>
 
 </div>
 </div>
@@ -14549,7 +14479,7 @@ ls
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
 <p><a name="Assignment_wrap-up"></a></p>
-<h1 id="5.-Assignment-wrap-up">5. Assignment wrap-up<a class="anchor-link" href="#5.-Assignment-wrap-up">&#182;</a></h1><p>Please fill out the form that appears when you run the code below.  <strong>You must completely fill this out in order to receive credits for the assignment!</strong></p>
+<h1 id="3.-Assignment-wrap-up">3. Assignment wrap-up<a class="anchor-link" href="#3.-Assignment-wrap-up">&#182;</a></h1><p>Please fill out the form that appears when you run the code below.  <strong>You must completely fill this out in order to receive credits for the assignment!</strong></p>
 <p><a href="https://cmse.msu.edu/cmse401-pc-survey">Direct Link to Google Form</a></p>
 <p>If you have trouble with the embedded form, please make sure you log on with your MSU google account at <a href="https://googleapps.msu.edu">googleapps.msu.edu</a> and then click on the direct link above.</p>
 
@@ -14557,7 +14487,7 @@ ls
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>Assignment-Specific QUESTION:</font></strong>  Were you able to successfully log into the HPCC, clone the class repository and get a jupyter server working? If not, where did you get stuck?</p>
+<p>&#9989; <strong><font color=red>Assignment-Specific QUESTION:</font></strong>  Copy and paste the URL for the vi cheat sheet you found here.</p>
 
 </div>
 </div>
@@ -14665,7 +14595,7 @@ ls
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[4]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[3]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">HTML</span>
@@ -14697,7 +14627,7 @@ ls
 <div class="jp-OutputArea-child">
 
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[4]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[3]:</div>
 
 
 
