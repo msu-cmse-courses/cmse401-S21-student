@@ -23,7 +23,7 @@
 | Monday February 8, 2021   | 0208 | In-Class Assignment | OMP Intro |
 | Tuesday February 9, 2021   | 0209 | Pre-Class Assignment | OMP Threads |
 | Wednesday February 10, 2021   | 0210 | In-Class Assignment | OMP Threads |
-| Thursday February 11, 2021   | 0211 |   | PROJECT Proposal Template |
+|  Thursday February 11, 2021  | 0211 |   | [PROJECT_Proposal](./0211-PROJECT_Proposal.html) | [ipynb](./0211-PROJECT_Proposal.ipynb) |
 | Sunday February 14, 2021   | 0214 | Pre-Class Assignment | OMP sync |
 | Monday February 15, 2021   | 0215 | In-Class Assignment | OMP Sync |
 | Tuesday February 16, 2021   | 0216 | Pre-Class Assignment | OMP Loops |
