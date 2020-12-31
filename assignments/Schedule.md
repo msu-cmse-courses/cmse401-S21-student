@@ -55,7 +55,7 @@
 | Monday March 22, 2021   | 0322 | In-Class Assignment | MPI Scheduling |
 | Tuesday March 23, 2021   | 0323 | Pre-Class Assignment | MPI Introduction |
 | Wednesday March 24, 2021   | 0324 | In-Class Assignment | MPI Introduction |
-|  Thursday March 25, 2021  | 0325 |   | [PROJECT_Part1_Report_Template](./0325-PROJECT_Part1_Report_Template.html) | [ipynb](./0325-PROJECT_Part1_Report_Template.ipynb) |
+|  Thursday March 25, 2021  | 0325 |   | [PROJECT_Part1](./0325-PROJECT_Part1.html) | [ipynb](./0325-PROJECT_Part1.ipynb) |
 | Friday March 26, 2021   | 0326 |   | HW5 2DWave Equation CUDA |
 | Sunday March 28, 2021   | 0328 | Pre-Class Assignment | MPI Syntax |
 | Monday March 29, 2021   | 0329 | In-Class Assignment | MPI Programming |
@@ -69,7 +69,7 @@
 | Wednesday April 7, 2021   | 0407 | In-Class Assignment | MPI Planning |
 | Monday April 12, 2021   | 0412 | In-Class Assignment | Picking parallel |
 | Wednesday April 14, 2021   | 0414 | In-Class Assignment | Hybrid |
-|  Thursday April 15, 2021  | 0415 |   | [PROJECT_Part2_Template](./0415-PROJECT_Part2_Template.html) | [ipynb](./0415-PROJECT_Part2_Template.ipynb) |
+|  Thursday April 15, 2021  | 0415 |   | [PROJECT_Part2](./0415-PROJECT_Part2.html) | [ipynb](./0415-PROJECT_Part2.ipynb) |
 | Friday April 16, 2021   | 0416 | In-Class Assignment | Tensorflow |
 | Monday April 19, 2021   | 0419 | In-Class Assignment | Checkpointing |
 | Wednesday April 21, 2021   | 0421 | In-Class Assignment | Final Review |

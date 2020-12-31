@@ -14259,86 +14259,67 @@ a.anchor-link {
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Project-Part-2:-Benchmark-and-Optimization">Project Part 2: Benchmark and Optimization<a class="anchor-link" href="#Project-Part-2:-Benchmark-and-Optimization">&#182;</a></h1><p>In this milestone you will provide a report which includes the results of your benchmark and optimization.  Your report will include a benchmark speeds on a single core and then a description of what you did to speed up the code and a graph of how much improvements you made over the benchmark.  Your final report should include the following:</p>
-<ul>
-<li>Project Title</li>
-<li>Motivating Image</li>
-<li>Abstract</li>
-<li>Methodology</li>
-<li>Timing Results</li>
-<li>Concluding Discussion and Future Work</li>
-<li>References</li>
-</ul>
-<p>To help you out your instructor has provided the following template</p>
+<p><a href="./0325-PROJECT_Part1.ipynb">Link to this document's Jupyter Notebook</a></p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>---- START TEMPLATE ----</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Part-2---Project-Title">Part 2 - Project Title<a class="anchor-link" href="#Part-2---Project-Title">&#182;</a></h1><p>By "Your name"</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; Replace the following with a picture that "defines" your project.  This could be software logo, an expected outcome of your project, or a graphical representation of the research area. Again, it is okay to use the picture from the proposal but it is also good to come up with a new unique picture.</p>
-<p><img src="http://simpleicon.com/wp-content/uploads/camera.png" alt="Just a simple camera icon intended to be replaced with your image" width="20%"></p>
-<p>Image from: URL REFERENCE</p>
+<h1 id="Project-Part-1:-Software-Exploration">Project Part 1: Software Exploration<a class="anchor-link" href="#Project-Part-1:-Software-Exploration">&#182;</a></h1><p>In this milestone you will provide an example folder in your git repository with installation instructions and example files in a compact format which will allow your instructor and your peers to run the software you you choose to evaluate in your project proposal.   There are four basic things you need to provide with this milestone project:</p>
+<ol>
+<li><a href="#Software-Abstract">Software Abstract</a></li>
+<li><a href="#Installation">Installation</a></li>
+<li><a href="#Example-Code">Example Code</a></li>
+<li><a href="#Submission-script">Submission script</a></li>
+<li><a href="#References">References</a></li>
+</ol>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<h1 id="Abstract">Abstract<a class="anchor-link" href="#Abstract">&#182;</a></h1><p>&#9989;  Provide a short paragraph about the software and scientific/engineering domain you cover in your project (research area, sports, economics, etc). Explain why you picked this domain (i.e. what is your motivation). Explain how computation is used in this domain. Give a short description of what you did and a summary of results.</p>
+<p><a name=Software-Abstract></a></p>
+<h1 id="1.-Software-Abstract">1. Software Abstract<a class="anchor-link" href="#1.-Software-Abstract">&#182;</a></h1><p>&#9989;  Create an example directory with a logical name relating to the program you evaluated.  Include this directory in your github repository.  Inside the directory add a <code>README.md</code> file and include a short description about the software you evaluated and how it is used in science and engineering.  Is this a programming tool, some sort of "middle wear" or an application?</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<h1 id="Methodology">Methodology<a class="anchor-link" href="#Methodology">&#182;</a></h1><p>&#9989;  Provide a more detailed description about what you did for this project.  Include detailed instructions needed to reprodue the project.  These instructions should be detailed enough for a future student to be able to read the report, reproduce your results and pick up where you left off.</p>
+<p><a name=Installation></a></p>
+<h1 id="2.-Installation">2. Installation<a class="anchor-link" href="#2.-Installation">&#182;</a></h1><p>&#9989;  In the <code>README.md</code> file (after the abstract)  provide step-by-step instructions for installing the software on the HPCC.  Include all commands, instructions or submission scripts that will allow your instructor and peers to install and use the software on themselves.</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<h1 id="Timing-Results">Timing Results<a class="anchor-link" href="#Timing-Results">&#182;</a></h1><p>&#9989;  Show the results of a baseline experiment on a single core and after optimization.  Also include a graph of the results.</p>
-<p>&#9989;  Provide the results of a benchmark or scaling study for your project.  Make sure you include a description of the hardware that was used and graph the results.  Make sure you include detailed descriptions about the hardware that was used.  Graphs alone are not sufficient, explain the graphs. Did they meet expectations?  Was there any anomalies?</p>
+<p><a name=Example-Code></a></p>
+<h1 id="3.-Example-Code">3. Example Code<a class="anchor-link" href="#3.-Example-Code">&#182;</a></h1><p>&#9989;  Provided small example data, scripts and instructions to run the code from within your example directory.  These instructions should be detailed enough for a future student to be able to read the <code>README.md</code> file to get the software up and running. If possible provide these instructions similar to the GetExamples you saw in class. Ideally this example should take no more than 5 minutes to run so individuals testing the code can get an idea how it works.</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<h1 id="Concluding-Discussion-and-Future-Work">Concluding Discussion and Future Work<a class="anchor-link" href="#Concluding-Discussion-and-Future-Work">&#182;</a></h1><p>&#9989;  Give another short description of the project and your final results.  Use this to talk about what you learned in this project.  Include what you found interesting and what would be a next step.</p>
+<p><a name=Submission-script></a></p>
+<h1 id="4.-Submission-script">4. Submission script<a class="anchor-link" href="#4.-Submission-script">&#182;</a></h1><p>&#9989;  Include a submission script for getting the code to run using the batch scheduler.  Try to use the <code>sb</code> extension and properly comment the script.</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<h1 id="References">References<a class="anchor-link" href="#References">&#182;</a></h1><p>&#9989;  Include links to websites and resources used in this project.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>---- END TEMPLATE ----</p>
+<p><a name=References></a></p>
+<h1 id="5.-References">5. References<a class="anchor-link" href="#5.-References">&#182;</a></h1><p>At the end of the <code>README.md</code> file, provide a list of references and links for where you got the examples and any additional resources someone may need.</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<h3 id="Congratulations,-you-are-done!">Congratulations, you are done!<a class="anchor-link" href="#Congratulations,-you-are-done!">&#182;</a></h3><p>Now, you just need to create a second directory in your git repository and include your report as an md or ipynb file in the directory along with any additional figures and files needed to reproduce the results.  You instructor should already have your git repository and be able to pull in your changes.</p>
+<h3 id="&#9989;--Congratulations,-you-are-done!">&#9989;  Congratulations, you are done!<a class="anchor-link" href="#&#9989;--Congratulations,-you-are-done!">&#182;</a></h3><p>Now, you just need to submit this report by adding files to your git repository and pushing those files to the central repository.  You instructor should already have your git repository and be able to pull in your changes.</p>
 
 </div>
 </div>
