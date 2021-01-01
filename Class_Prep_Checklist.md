@@ -20,21 +20,6 @@ To start, I suggest that you watch the following video and review the course Syl
 
 - [Welcome video](https://youtu.be/fi8xWrs3QEA)
 
-
-
-
-
-<iframe
-    width="100%"
-    height="300"
-    src="https://www.youtube.com/embed/fi8xWrs3QEA?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
 - [Course Syllabus](https://msu-cmse-courses.github.io/mth314-s21-student/Syllabus)
 
 ---
@@ -44,23 +29,6 @@ To start, I suggest that you watch the following video and review the course Syl
 Students in CMSE401 come from a variety of backgrounds.  To help the instructor adjust the curriculum and provide support to all students in this course please fill out the following on-line survey:
 
 - [CMSE401 Background Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofVsFhDFfo_lLkU7qIzY8I4ZUMlJQN1BJSzJIQlFRVE5INlNKUjVQTDBFQy4u)
-
-
-
-
-
-<iframe 
-	src="https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofVsFhDFfo_lLkU7qIzY8I4ZUMlJQN1BJSzJIQlFRVE5INlNKUjVQTDBFQy4u&embed=true" 
-	width="100%" 
-	height="500px" 
-	frameborder="0" 
-	marginheight="0" 
-	marginwidth="0">
-	Loading...
-</iframe>
-
-
-
 
 ---
 <a name=Get-Jupyter-working></a>
@@ -98,10 +66,12 @@ Each pre-class assignment ends with an online survey which students are required
 - [0121--Command_Line_pre-class-assignment](./assignments/0121--Command_Line_pre-class-assignment)
 
 
-If you are feeling productive you may also want to consider reviewing the [course schedule and assignments](./assignments). Your instructor has already posted some future assignments to allow you to get a head start. For example, everyone should be able to start the first homework and be thinking about what they want to do for their semester projects:
+If you are feeling productive you may also want to consider reviewing the [course schedule and assignments](./assignments/Schedule). Your instructor has already posted some future assignments to allow you to get a head start. For example, everyone should be able to start the first homework and be thinking about what they want to do for their semester projects:
 
-- [0128-HW1_Wave_Equation](0128-HW1_Wave_Equation)
-
+- [0128-HW1_Wave_Equation](./assignments/0128-HW1_Wave_Equation)
+- [0211-PROJECT_Proposal](./assignments/0211-PROJECT_Proposal)
+- [0325-PROJECT_Part1](./assignments/0325-PROJECT_Part1)
+- [0415-PROJECT_Part2](./assignments/0415-PROJECT_Part2)
 
 ----
 
