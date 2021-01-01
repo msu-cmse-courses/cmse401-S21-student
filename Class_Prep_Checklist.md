@@ -20,6 +20,21 @@ To start, I suggest that you watch the following video and review the course Syl
 
 - [Welcome video](https://youtu.be/fi8xWrs3QEA)
 
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/fi8xWrs3QEA?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
 - [Course Syllabus](https://msu-cmse-courses.github.io/mth314-s21-student/Syllabus)
 
 ---
@@ -29,6 +44,23 @@ To start, I suggest that you watch the following video and review the course Syl
 Students in CMSE401 come from a variety of backgrounds.  To help the instructor adjust the curriculum and provide support to all students in this course please fill out the following on-line survey:
 
 - [CMSE401 Background Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofVsFhDFfo_lLkU7qIzY8I4ZUMlJQN1BJSzJIQlFRVE5INlNKUjVQTDBFQy4u)
+
+
+
+
+
+<iframe 
+	src="https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofVsFhDFfo_lLkU7qIzY8I4ZUMlJQN1BJSzJIQlFRVE5INlNKUjVQTDBFQy4u&embed=true" 
+	width="100%" 
+	height="500px" 
+	frameborder="0" 
+	marginheight="0" 
+	marginwidth="0">
+	Loading...
+</iframe>
+
+
+
 
 ---
 <a name=Get-Jupyter-working></a>
