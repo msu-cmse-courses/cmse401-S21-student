@@ -2,15 +2,22 @@
 
 ## Course Resources
 
-This is an introductory course on Parallel Programming with a focus on scientific/engineering applications and solving large
- problems using computers.
+This is an introductory course on Parallel Programming with a focus on scientific/engineering applications and solving large problems using computers.
 
-## Links
+Due to COVID-19 pandemic the first week of the Spring 2021 semester will be used for reading, review and semester preparation.  To this end, it is required that all students complete the tasks in the following Class Preperation Checklist website: 
+
+- [Week 1 Class Preperation Checklist](Class_Prep_Checklist)
+
+## Course Links
 
 - [Announcements](Announcements)
-- [Week 1 Class Preperation Checklist](Class_Prep_Checklist)
 - [Syllabus](Syllabus)
 - [Assignment Schedule and Downloads](assignments/Schedule)
 
+
+## Other Links
+
+- [Jupyter Getting Started Guide](https://msu-cmse-courses.github.io/cmse802-f20-student/0000--Jupyter-Getting-Started-Guide.html) 
+- [Getting to Know Git (Tutorial)](https://msu-cmse-courses.github.io/cmse802-f20-student/0000-Getting-to-know-git.html)
 
 -----
