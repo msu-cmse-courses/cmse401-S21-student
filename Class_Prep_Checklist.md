@@ -94,8 +94,13 @@ You are expected to come to class ready to complete the in-class assignments.  T
 
 Each pre-class assignment ends with an online survey which students are required to complete in order to earn credit for the assignment.  Your first weeks assignments are available on the course git repository or downloadable from the course website.  At a minimum, you must complete the first pre-class assignment by 11:59pm on Tuesday January 19th. 
 
-- [0119--Clusters_pre-class-assignment](0119--Clusters_pre-class-assignment)
-- [0121--Command_Line_pre-class-assignment](0121--Command_Line_pre-class-assignment)
+- [0119--Clusters_pre-class-assignment](./assignments/0119--Clusters_pre-class-assignment)
+- [0121--Command_Line_pre-class-assignment](./assignments/0121--Command_Line_pre-class-assignment)
+
+
+If you are feeling productive you may also want to consider reviewing the [course schedule and assignments](./assignments). Your instructor has already posted some future assignments to allow you to get a head start. For example, everyone should be able to start the first homework and be thinking about what they want to do for their semester projects:
+
+- [0128-HW1_Wave_Equation](0128-HW1_Wave_Equation)
 
 
 ----
