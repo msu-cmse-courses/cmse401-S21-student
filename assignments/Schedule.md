@@ -9,7 +9,6 @@
 | Monday January 25, 2021   | 0125 | In-Class Assignment | Getexample |
 | Tuesday January 26, 2021   | 0126 | Pre-Class Assignment | ENV |
 | Wednesday January 27, 2021   | 0127 | In-Class Assignment | BASH Scripting |
-| Thursday January 28, 2021   | 0128 | Pre-Class Assignment | XSEDE |
 |  Thursday January 28, 2021  | 0128 |   | [HW1_Wave_Equation](./0128-HW1_Wave_Equation.html) | [ipynb](./0128-HW1_Wave_Equation.ipynb) |
 | Friday January 29, 2021   | 0129 | In-Class Assignment | Languages |
 | Sunday January 31, 2021   | 0131 | Pre-Class Assignment | Schedulers |

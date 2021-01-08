@@ -70,8 +70,7 @@ We will be using Jupyter notebooks for most of our student/instructor communicat
 
 - [0000--Jupyter-Getting-Started-Guide.html](https://msu-cmse-courses.github.io/mth314-F20-student/assignments/0000--Jupyter-Getting-Started-Guide.html)
 
-As a backup, all students are also given accounts on the MSU jupyterhub servers [http://jupyterhub.egr.msu.edu](http://jupyterhub.egr.msu.edu) and [http://jupyterhub2.egr.msu.edu](http://jupyterhub2.egr.msu.edu).  Make sure you follow the directions in the above "getting started guide" and ensure that you can login and use both jupyterhub servers. 
-
+As a backup, all students are also given accounts on the MSU jupyterhub servers [http://jupyterhub.egr.msu.edu](http://jupyterhub.egr.msu.edu) and [http://jupyterhub-legacy.egr.msu.edu](http://jupyterhub-legacy.egr.msu.edu).  Make sure you follow the directions in the above "getting started guide" and ensure that you can login.  It is recommended that students primarily use the jupyterhub server and only switch to jupyterhub-lagacy if there is a problem (please notify your instructors anytime there is a problem). 
 
 ---
 <a name=Review-Git></a>
