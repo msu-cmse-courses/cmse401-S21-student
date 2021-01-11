@@ -13,7 +13,7 @@ Due to COVID-19 pandemic the first week of the Spring 2021 semester will be used
 - [Announcements](Announcements)
 - [Syllabus](Syllabus)
 - [Assignment Schedule and Downloads](assignments/Schedule)
-
+- [Zoom Classroom](https://msu.zoom.us/j/98207034052)
 
 ## Other Links
 
