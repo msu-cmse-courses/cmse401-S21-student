@@ -10,7 +10,7 @@ I am excited to be teaching CMSE401 this Spring and look forward to meeting all 
 
 * [CMSE401 website](http://cmse.msu.edu/cmse401)
 
-This semester is unique since, due to new university COVID policies, we will not be meeting the first week of class. Instead the first week will be used for reading, review and semester preparation.  To this end, I require that all students complete the pre-semester tasks found on the following website before showing up for the first day of class which will be on **_Wednesday January 20th_**.  NOTE: failure to complete these tasks will be reflected in your course participation grade. 
+This semester is unique since, due to new university COVID policies, we will not be meeting the first week of class. Instead the first week will be used for reading, review and semester preparation.  To this end, I request that all students complete the pre-semester tasks found on the following website before showing up for the first day of class which will be on **_Wednesday January 20th_**.  
 
 * [Class Preparation Checklist](Class_Prep_Checklist)
 

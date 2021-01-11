@@ -2,7 +2,7 @@
 
 #  CMSE401: Week 1 class preparation checklist
 
-Due to COVID-19 pandemic the first week of the Spring 2021 semester will be used for reading, review and semester preparation.  To this end, it is required that all students complete the following tasks before showing up for the first day of class.  NOTE: failure to complete these tasks will be reflected in your course participation grade. 
+Due to COVID-19 pandemic the first week of the Spring 2021 semester will be used for reading, review and semester preparation.  To this end, it is recommended that all students complete the following tasks before showing up for the first day of class.   
 
 
 1. [Watch Welcome Video and Review Syllabus](#Welcome_and_Syllabus)
