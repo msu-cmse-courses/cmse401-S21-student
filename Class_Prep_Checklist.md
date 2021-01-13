@@ -81,7 +81,9 @@ In this class we assume that everyone knows how to use git. All course materials
 
 - [Getting to know git (Tutorial)](https://msu-cmse-courses.github.io/cmse802-f20-student/0000--Jupyter-Getting-Started-Guide.html)
 
-Please review the above tutorial (especially the sections about consuming and producing git repositories) and make sure you can download and use the course repository as part of Task 5 below. 
+Please review the above tutorial (especially the sections about consuming and producing git repositories) and make sure you can download and use the course repository:
+
+- [Course Git Repository](https://gitlab.msu.edu/colbrydi/cmse401-s21.git)
 
 
 ---
