@@ -28,7 +28,6 @@
 | Thursday February 18, 2021   | 0218 |   | HW2 OMP |
 | Sunday February 21, 2021   | 0221 | Pre-Class Assignment | OMP weeds |
 | Monday February 22, 2021   | 0222 | In-Class Assignment | OMP Debugging |
-| Monday February 22, 2021   | 0222 | In-Class Assignment | Review Project Part1 |
 | Tuesday February 23, 2021   | 0223 | Pre-Class Assignment | OMP Data |
 | Wednesday February 24, 2021   | 0224 | In-Class Assignment | OMP Practice |
 | Friday February 26, 2021   | 0226 |   | Quiz2 OMP |

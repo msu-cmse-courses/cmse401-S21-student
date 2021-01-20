@@ -14,6 +14,7 @@ Due to COVID-19 pandemic the first week of the Spring 2021 semester will be used
 - [Syllabus](Syllabus)
 - [Assignment Schedule and Downloads](assignments/Schedule)
 - [Git Repository](https://gitlab.msu.edu/colbrydi/cmse401-s21.git)
+- [Pre-class Slides](https://docs.google.com/presentation/d/1LMh6DVJNPHL_YxGqhjqhbpGvLL82jq71II8_TcjZXRM/edit?usp=sharing)
 
 
 ## Other Links
