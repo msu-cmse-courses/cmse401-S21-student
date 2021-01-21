@@ -2,6 +2,108 @@
 
 ----
 
+# January 20, 2021 - First Day of class
+
+Hello CMSE401 Students,
+
+It was great to see all of you in class today.  Sorry for spending most of the time talking. In the future I hope to spend most of our time programming, going though examples and answering your questions.  Each day I will try to record a video of class and post it on the course website: [http://cmse.msu.edu/cmse401](http://cmse.msu.edu/cmse401).  As best I can I will also try to break up the video based on topis as I think this makes it easier for you to find things.  Todays videos are as follows:
+
+## [Welcome to CMSE401 overview](https://youtu.be/wePwHmb1Ngo)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/wePwHmb1Ngo?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Pre-class Questions](https://youtu.be/40lQUb-zzxU)
+
+- Ondemand questions
+- Cloning repository questions
+- HPC Questions
+
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/40lQUb-zzxU?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [HW1 Overview](https://youtu.be/xqcIwLyWhVM)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/xqcIwLyWhVM?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Project Proposal](https://youtu.be/FLpsg_4zmig)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/FLpsg_4zmig?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Serial Pandemic Example](https://youtu.be/s5ssqQD05tY)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/s5ssqQD05tY?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Hope you find these videos useful,
+
+- Dirk
+
+----
+
 # January 11, 2021 - Week 1 Assignment Correction/Clarification
 
 Hello CMSE401 Students,
