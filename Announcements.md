@@ -2,6 +2,24 @@
 
 ----
 
+# January 21, 2021 - Prerequisite changes
+
+Hello CMSE401 Students,
+
+I wanted all of you to know that the CMSE "Undergraduate studies committee" has agreed to change the prerequisites for this course.  Now students are only required to have Calculus II (including either MTH 133, the Honors version of calc II and the "Survey of Calculus" class) and a C/C++ course (like CSE232). The course will no longer require Calculus 4.  
+
+Although these changes will not become official until next time CMSE401 is taught, I will be rewriting all of the assignments to reflect these new requirements.  We will continue to use examples that take advantage of multi-variable calculus you learned in Calculus 4 however these examples will not require that you have taken Calculus 4. I will review and cover all of the math necessary to do the assignment with a focus on the parallel programming. 
+
+I am excited by this change as I feel it will open up the course to students across the university.  Please let me know if you have any comments, questions or concerns,
+
+Take care,
+
+- Dirk
+
+
+
+----
+
 # January 20, 2021 - First Day of class
 
 Hello CMSE401 Students,
