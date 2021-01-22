@@ -5,12 +5,12 @@
 |  Wednesday January 20, 2021  | 0120 | In-Class Assignment | [Pandemic](./0120-Pandemic_in-class-assignment.html) | [ipynb](./0120-Pandemic_in-class-assignment.ipynb) |
 |  Thursday January 21, 2021  | 0121 | Pre-Class Assignment | [Command_Line](./0121--Command_Line_pre-class-assignment.html) | [ipynb](./0121--Command_Line_pre-class-assignment.ipynb) |
 |  Friday January 22, 2021  | 0122 | In-Class Assignment | [GalaxSee](./0122-GalaxSee_in-class-assignment.html) | [ipynb](./0122-GalaxSee_in-class-assignment.ipynb) |
-| Sunday January 24, 2021   | 0124 | Pre-Class Assignment | Getexample |
-| Monday January 25, 2021   | 0125 | In-Class Assignment | Getexample |
-| Tuesday January 26, 2021   | 0126 | Pre-Class Assignment | ENV |
-| Wednesday January 27, 2021   | 0127 | In-Class Assignment | BASH Scripting |
+|  Sunday January 24, 2021  | 0124 | Pre-Class Assignment | [Getexample](./0124--Getexample_pre-class-assignment.html) | [ipynb](./0124--Getexample_pre-class-assignment.ipynb) |
+|  Monday January 25, 2021  | 0125 | In-Class Assignment | [Getexample](./0125-Getexample_in-class-assignment.html) | [ipynb](./0125-Getexample_in-class-assignment.ipynb) |
+|  Tuesday January 26, 2021  | 0126 | Pre-Class Assignment | [ENV](./0126--ENV_pre-class-assignment.html) | [ipynb](./0126--ENV_pre-class-assignment.ipynb) |
+|  Wednesday January 27, 2021  | 0127 | In-Class Assignment | [BASH_Scripting](./0127-BASH_Scripting_in-class-assignment.html) | [ipynb](./0127-BASH_Scripting_in-class-assignment.ipynb) |
 |  Thursday January 28, 2021  | 0128 |   | [HW1_Wave_Equation](./0128-HW1_Wave_Equation.html) | [ipynb](./0128-HW1_Wave_Equation.ipynb) |
-| Friday January 29, 2021   | 0129 | In-Class Assignment | Languages |
+|  Friday January 29, 2021  | 0129 | In-Class Assignment | [Languages](./0129-Languages_in-class-assignment.html) | [ipynb](./0129-Languages_in-class-assignment.ipynb) |
 | Sunday January 31, 2021   | 0131 | Pre-Class Assignment | Schedulers |
 | Monday February 1, 2021   | 0201 | In-Class Assignment | Schedulers |
 | Tuesday February 2, 2021   | 0202 | Pre-Class Assignment | BASH |
