@@ -2,6 +2,87 @@
 
 ----
 
+# January 22, 2021 - GalaxSee 
+
+
+Hello CMSE401 students,
+
+I thought class went well today.  Hopefully you all are working on the Homework which is due on Thursday.  I just uploaded all of next weeks in-class and pre-class assignments and finished editing the videos of your questions for today:
+
+## [Class Logistics](https://youtu.be/WPY4YkbidLM)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/WPY4YkbidLM?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Mastering Tools](https://youtu.be/F5WK1m6-Ryo)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/F5WK1m6-Ryo?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Pre-class questions](https://youtu.be/Ivrr8XM64_Q)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/Ivrr8XM64_Q?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Virtual Machines](https://youtu.be/ff4xwwuigkE)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/ff4xwwuigkE?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Please let me know if you have any comments, questions or concerns,
+
+- Dirk
+
+----
+
 # January 21, 2021 - Prerequisite changes
 
 Hello CMSE401 Students,
@@ -28,21 +109,6 @@ It was great to see all of you in class today.  Sorry for spending most of the t
 
 ## [Welcome to CMSE401 overview](https://youtu.be/wePwHmb1Ngo)
 
-
-
-
-
-<iframe
-    width="100%"
-    height="300"
-    src="https://www.youtube.com/embed/wePwHmb1Ngo?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
 ## [Pre-class Questions](https://youtu.be/40lQUb-zzxU)
 
 - Ondemand questions
@@ -50,71 +116,11 @@ It was great to see all of you in class today.  Sorry for spending most of the t
 - HPC Questions
 
 
-
-
-
-
-<iframe
-    width="100%"
-    height="300"
-    src="https://www.youtube.com/embed/40lQUb-zzxU?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
 ## [HW1 Overview](https://youtu.be/xqcIwLyWhVM)
-
-
-
-
-
-<iframe
-    width="100%"
-    height="300"
-    src="https://www.youtube.com/embed/xqcIwLyWhVM?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
 
 ## [Project Proposal](https://youtu.be/FLpsg_4zmig)
 
-
-
-
-
-<iframe
-    width="100%"
-    height="300"
-    src="https://www.youtube.com/embed/FLpsg_4zmig?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
 ## [Serial Pandemic Example](https://youtu.be/s5ssqQD05tY)
-
-
-
-
-
-<iframe
-    width="100%"
-    height="300"
-    src="https://www.youtube.com/embed/s5ssqQD05tY?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
 
 Hope you find these videos useful,
 
