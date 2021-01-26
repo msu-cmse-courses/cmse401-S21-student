@@ -2,6 +2,88 @@
 
 ----
 
+# January 26, 2021 - Getexamples
+
+Hello CMSE401 Students,
+
+I just finished editing videos from class yesterday.  I hope they help you with a new reference. 
+## [Pre-class Questions](https://youtu.be/rWv2K1sEu2k)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/rWv2K1sEu2k?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Project Ideas](https://youtu.be/aLx6g7yeSss)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/aLx6g7yeSss?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Git Pull Merge Conflict](https://youtu.be/IGigZDGmZSQ)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/IGigZDGmZSQ?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Exploring an Example Examplet](https://youtu.be/vqJ_1hjI1RI)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/IGigZDGmZSQ?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+See you in class tomorrow (Wednesday) and do not forget that your first homework is due Thursday.
+
+Take care,
+
+- Dirk
+
+
+----
+
 # January 22, 2021 - GalaxSee 
 
 
