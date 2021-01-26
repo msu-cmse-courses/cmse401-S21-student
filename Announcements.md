@@ -58,7 +58,7 @@ I just finished editing videos from class yesterday.  I hope they help you with 
 
 
 
-## [Exploring an Example Examplet](https://youtu.be/vqJ_1hjI1RI)
+## [Exploring an Example Example](https://youtu.be/vqJ_1hjI1RI)
 
 
 
