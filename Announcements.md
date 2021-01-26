@@ -67,7 +67,7 @@ I just finished editing videos from class yesterday.  I hope they help you with 
 <iframe
     width="100%"
     height="300"
-    src="https://www.youtube.com/embed/IGigZDGmZSQ?cc_load_policy=True"
+    src="https://www.youtube.com/embed/vqJ_1hjI1RI?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
 ></iframe>
