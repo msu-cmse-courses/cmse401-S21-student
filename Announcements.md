@@ -191,6 +191,21 @@ It was great to see all of you in class today.  Sorry for spending most of the t
 
 ## [Welcome to CMSE401 overview](https://youtu.be/wePwHmb1Ngo)
 
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/wePwHmb1Ngo?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
 ## [Pre-class Questions](https://youtu.be/40lQUb-zzxU)
 
 - Ondemand questions
@@ -198,11 +213,71 @@ It was great to see all of you in class today.  Sorry for spending most of the t
 - HPC Questions
 
 
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/40lQUb-zzxU?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
 ## [HW1 Overview](https://youtu.be/xqcIwLyWhVM)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/xqcIwLyWhVM?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
 
 ## [Project Proposal](https://youtu.be/FLpsg_4zmig)
 
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/FLpsg_4zmig?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
 ## [Serial Pandemic Example](https://youtu.be/s5ssqQD05tY)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/s5ssqQD05tY?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
 
 Hope you find these videos useful,
 
