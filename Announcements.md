@@ -1,5 +1,137 @@
 [Link to CMSE401 website](http://cmse.msu.edu/cmse401/)
 
+# January 28, 2021 - BASH Scripting
+
+
+Hello CMSE401 students,
+
+Hopefully you are getting more comfortable working in BASH.  Below are links to the videos from our in-class discussion.  I also finished up the bash "Challenges" and pushed my answers to the git repository so please feel free to have a look.  
+
+## [Pre-class Questions](https://youtu.be/PkP4jBJNJ2U)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/PkP4jBJNJ2U?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Grocking Grep](https://youtu.be/Kuh2vQjsp8E)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/Kuh2vQjsp8E?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Deleting Folder from path example](https://youtu.be/sdqi9WrK0GI)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/sdqi9WrK0GI?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Three Languages](https://youtu.be/IhEJUGV6GmA)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/IhEJUGV6GmA?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Bash Examples](https://youtu.be/rsKr9MaTFEM)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/rsKr9MaTFEM?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [XSEDE Questions](https://youtu.be/wNdKjdYuGYE)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/wNdKjdYuGYE?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Bash Challenges](https://youtu.be/fA33lWe9V9c)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/fA33lWe9V9c?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Remember that homework is due tonight by 11:50pm.
+
+Take care,
+
+- Dirk
+
 ----
 
 # January 26, 2021 - Getexamples
