@@ -25,7 +25,7 @@
 | Monday February 15, 2021   | 0215 | In-Class Assignment | OMP Sync |
 | Tuesday February 16, 2021   | 0216 | Pre-Class Assignment | OMP Loops |
 | Wednesday February 17, 2021   | 0217 | In-Class Assignment | OMP Loops |
-| Thursday February 18, 2021   | 0218 |   | HW2 OMP |
+|  Thursday February 18, 2021  | 0218 |   | [HW2_OMP](./0218-HW2_OMP.html) | [ipynb](./0218-HW2_OMP.ipynb) |
 | Sunday February 21, 2021   | 0221 | Pre-Class Assignment | OMP weeds |
 | Monday February 22, 2021   | 0222 | In-Class Assignment | OMP Debugging |
 | Tuesday February 23, 2021   | 0223 | Pre-Class Assignment | OMP Data |
