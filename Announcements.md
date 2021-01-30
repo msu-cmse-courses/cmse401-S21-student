@@ -1,5 +1,34 @@
 [Link to CMSE401 website](http://cmse.msu.edu/cmse401/)
 
+# January 29, 2021 - Languages
+
+
+Hello CMSE401 students,
+
+Here is the link from the in-class video today.  
+
+
+## [Languages](https://youtu.be/qtaXKkzVP4Q)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/qtaXKkzVP4Q?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Have a wonderful weekend,
+
+- Dirk
+
 # January 28, 2021 - BASH Scripting
 
 
