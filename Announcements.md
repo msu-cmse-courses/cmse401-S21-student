@@ -1,5 +1,16 @@
 [Link to CMSE401 website](http://cmse.msu.edu/cmse401/)
 
+# January 31, 2021 - Missing pre-class assignments
+
+Hey Everyone,
+
+I am really sorry that I forgot to post the pre-class assignments on Friday after class.  I was so focused on getting your grades done over the weekend I completely forgot that you did not have your assignments. They are posted now.  I realize they are late by me so I will not count any late grades for the pre-class for Monday. Please get it done when you can and fill out the survey.  Let me know if this has caused any problems and I can find ways to help.
+
+
+Take care,
+
+- Dirk
+
 # January 29, 2021 - Languages
 
 
