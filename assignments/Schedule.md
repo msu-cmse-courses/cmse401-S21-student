@@ -11,10 +11,10 @@
 |  Wednesday January 27, 2021  | 0127 | In-Class Assignment | [BASH_Scripting](./0127-BASH_Scripting_in-class-assignment.html) | [ipynb](./0127-BASH_Scripting_in-class-assignment.ipynb) |
 |  Thursday January 28, 2021  | 0128 |   | [HW1_Wave_Equation](./0128-HW1_Wave_Equation.html) | [ipynb](./0128-HW1_Wave_Equation.ipynb) |
 |  Friday January 29, 2021  | 0129 | In-Class Assignment | [Languages](./0129-Languages_in-class-assignment.html) | [ipynb](./0129-Languages_in-class-assignment.ipynb) |
-| Sunday January 31, 2021   | 0131 | Pre-Class Assignment | Schedulers |
-| Monday February 1, 2021   | 0201 | In-Class Assignment | Schedulers |
-| Tuesday February 2, 2021   | 0202 | Pre-Class Assignment | BASH |
-| Wednesday February 3, 2021   | 0203 | In-Class Assignment | HWLOC |
+|  Sunday January 31, 2021  | 0131 | Pre-Class Assignment | [Schedulers](./0131--Schedulers_pre-class-assignment.html) | [ipynb](./0131--Schedulers_pre-class-assignment.ipynb) |
+|  Monday February 1, 2021  | 0201 | In-Class Assignment | [Schedulers](./0201-Schedulers_in-class-assignment.html) | [ipynb](./0201-Schedulers_in-class-assignment.ipynb) |
+|  Tuesday February 2, 2021  | 0202 | Pre-Class Assignment | [BASH](./0202--BASH_pre-class-assignment.html) | [ipynb](./0202--BASH_pre-class-assignment.ipynb) |
+|  Wednesday February 3, 2021  | 0203 | In-Class Assignment | [HWLOC](./0203-HWLOC_in-class-assignment.html) | [ipynb](./0203-HWLOC_in-class-assignment.ipynb) |
 | Friday February 5, 2021   | 0205 |   | Quiz1 Serial |
 | Sunday February 7, 2021   | 0207 | Pre-Class Assignment | OMP Intro |
 | Monday February 8, 2021   | 0208 | In-Class Assignment | OMP Intro |
