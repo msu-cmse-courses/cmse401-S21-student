@@ -4,9 +4,9 @@
 
 Hey Everyone,
 
-I am really sorry that I forgot to post the pre-class assignments on Friday after class.  I was so focused on getting your grades done over the weekend I completely forgot that you did not have your assignments. They are posted now.  I realize they are late by me so I will not count any late grades for the pre-class for Monday. Please get it done when you can and fill out the survey.  Let me know if this has caused any problems and I can find ways to help.
+I am really sorry that I forgot to post the pre-class assignments on Friday after class.  I was so focused on getting your grades done over the weekend I completely forgot that you did not have your assignments. They are posted now and I will work hard to make sure this does not happen again in the future.
 
-
+I realize it is late on a Sunday so I will allow late submissions of Monday's pre-class assignment.  Please get it done when you can and fill out the survey.  Let me know if me being late has caused any other problems for you and we can try to find ways to help. 
 Take care,
 
 - Dirk
