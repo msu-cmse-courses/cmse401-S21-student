@@ -59,7 +59,7 @@ Just finished posting the videos for today's assignment.  You can find them here
 
 
 
-## [Mean Time To Science](https://youtu.be/4iBG09myURk)
+## [Pandemic Serial SLURM Example](https://youtu.be/4iBG09myURk)
 
 
 
