@@ -1,5 +1,87 @@
 [Link to CMSE401 website](http://cmse.msu.edu/cmse401/)
 
+----
+
+# February 1st, 2021 - SLURM
+
+Hello CMSE401 Students,
+
+Just finished posting the videos for today's assignment.  You can find them here:
+
+## [SLURM Questions](https://youtu.be/By71DaPFTNw)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/By71DaPFTNw?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [HW2 Question](https://youtu.be/MScCVr33zj8)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/MScCVr33zj8?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Mean Time To Science](https://youtu.be/ZAHKSEhPuac)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/ZAHKSEhPuac?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Mean Time To Science](https://youtu.be/4iBG09myURk)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/4iBG09myURk?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Let me know if you have any questions,
+
+- Dirk
+
+----
+
 # January 31, 2021 - Missing pre-class assignments
 
 Hey Everyone,
@@ -10,6 +92,8 @@ I realize it is late on a Sunday so I will allow late submissions of Monday's pr
 Take care,
 
 - Dirk
+
+----
 
 # January 29, 2021 - Languages
 
