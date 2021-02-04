@@ -2,6 +2,86 @@
 
 ----
 
+# February 3rd, 2021 - Last Bash
+
+Hello CMSE401 Students,
+
+Please remember to set up your git repositories for HW2 by tomorrow so I can test your accounts.  Below are links to todays in-class videos.
+
+## [Last Bash Questions](https://youtu.be/5PMZU0a2nXA)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/5PMZU0a2nXA?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Summer Research Opportunities](https://youtu.be/jZaMn5HamfA)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/jZaMn5HamfA?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [HWLOC](https://youtu.be/v8KOWvRyrK8)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/v8KOWvRyrK8?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Stream Benchmark](https://youtu.be/J39QZ-zuDZk)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/J39QZ-zuDZk?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Let me know if you have any questions,
+
+- Dirk
+
+----
+
 # February 1st, 2021 - SLURM
 
 Hello CMSE401 Students,
