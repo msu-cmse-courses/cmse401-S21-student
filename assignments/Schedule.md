@@ -15,7 +15,7 @@
 |  Monday February 1, 2021  | 0201 | In-Class Assignment | [Schedulers](./0201-Schedulers_in-class-assignment.html) | [ipynb](./0201-Schedulers_in-class-assignment.ipynb) |
 |  Tuesday February 2, 2021  | 0202 | Pre-Class Assignment | [BASH](./0202--BASH_pre-class-assignment.html) | [ipynb](./0202--BASH_pre-class-assignment.ipynb) |
 |  Wednesday February 3, 2021  | 0203 | In-Class Assignment | [HWLOC](./0203-HWLOC_in-class-assignment.html) | [ipynb](./0203-HWLOC_in-class-assignment.ipynb) |
-| Friday February 5, 2021   | 0205 |   | Quiz1 Serial |
+|  Friday February 5, 2021  | 0205 |   | [Quiz1_Serial](./0205-Quiz1_Serial.html) | [ipynb](./0205-Quiz1_Serial.ipynb) |
 | Sunday February 7, 2021   | 0207 | Pre-Class Assignment | OMP Intro |
 | Monday February 8, 2021   | 0208 | In-Class Assignment | OMP Intro |
 | Tuesday February 9, 2021   | 0209 | Pre-Class Assignment | OMP Threads |
