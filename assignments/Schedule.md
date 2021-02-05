@@ -16,12 +16,12 @@
 |  Tuesday February 2, 2021  | 0202 | Pre-Class Assignment | [BASH](./0202--BASH_pre-class-assignment.html) | [ipynb](./0202--BASH_pre-class-assignment.ipynb) |
 |  Wednesday February 3, 2021  | 0203 | In-Class Assignment | [HWLOC](./0203-HWLOC_in-class-assignment.html) | [ipynb](./0203-HWLOC_in-class-assignment.ipynb) |
 |  Friday February 5, 2021  | 0205 |   | [Quiz1_Serial](./0205-Quiz1_Serial.html) | [ipynb](./0205-Quiz1_Serial.ipynb) |
-| Sunday February 7, 2021   | 0207 | Pre-Class Assignment | OMP Intro |
-| Monday February 8, 2021   | 0208 | In-Class Assignment | OMP Intro |
-| Tuesday February 9, 2021   | 0209 | Pre-Class Assignment | OMP Threads |
-| Wednesday February 10, 2021   | 0210 | In-Class Assignment | OMP Threads |
+|  Sunday February 7, 2021  | 0207 | Pre-Class Assignment | [OMP_Intro](./0207--OMP_Intro_pre-class-assignment.html) | [ipynb](./0207--OMP_Intro_pre-class-assignment.ipynb) |
+|  Monday February 8, 2021  | 0208 | In-Class Assignment | [OMP_Intro](./0208-OMP_Intro_in-class-assignment.html) | [ipynb](./0208-OMP_Intro_in-class-assignment.ipynb) |
+|  Tuesday February 9, 2021  | 0209 | Pre-Class Assignment | [OMP_Threads](./0209--OMP_Threads_pre-class-assignment.html) | [ipynb](./0209--OMP_Threads_pre-class-assignment.ipynb) |
+|  Wednesday February 10, 2021  | 0210 | In-Class Assignment | [OMP_Threads](./0210-OMP_Threads_in-class-assignment.html) | [ipynb](./0210-OMP_Threads_in-class-assignment.ipynb) |
 |  Thursday February 11, 2021  | 0211 |   | [PROJECT_Proposal](./0211-PROJECT_Proposal.html) | [ipynb](./0211-PROJECT_Proposal.ipynb) |
-| Friday February 12, 2021   | 0212 | In-Class Assignment | Proposal Reviews |
+|  Friday February 12, 2021  | 0212 | In-Class Assignment | [Proposal_Reviews](./0212-Proposal_Reviews_in-class-assignment.html) | [ipynb](./0212-Proposal_Reviews_in-class-assignment.ipynb) |
 | Sunday February 14, 2021   | 0214 | Pre-Class Assignment | OMP sync |
 | Monday February 15, 2021   | 0215 | In-Class Assignment | OMP Sync |
 | Tuesday February 16, 2021   | 0216 | Pre-Class Assignment | OMP Loops |
