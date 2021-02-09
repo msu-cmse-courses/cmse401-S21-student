@@ -2,6 +2,122 @@
 
 [--> January Announcements](Announcements-January)
 
+----
+
+# February 9th, 2021 - Introduction to OpenMP Videos Posted
+
+Hello CMSE401 students,
+
+I just finished posting the videos from Monday's Class.  You can find them on the course website or you can link to them here:
+
+## [Pre-class question review](https://youtu.be/l0QuP4mz4Zw)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/l0QuP4mz4Zw?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Quiz1 Review](https://youtu.be/d9w7n3V9DpQ)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Basic OpenMP Example](https://youtu.be/cMs37Fyt0YU)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/cMs37Fyt0YU?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [BASH Tricks](https://youtu.be/BHa2O_kFnfQ)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/BHa2O_kFnfQ?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Caching Discussion](https://youtu.be/SPL7n_hlZns)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/SPL7n_hlZns?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [OpenMP Code Inspection](https://youtu.be/p1LBHDyJgiA)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/p1LBHDyJgiA?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Please let me know if you have any questions,
+
+Take care,
+
+- Dirk
+
 ---
 
 # February 5th, 2021 - OMP Week 1 Pre-class assignments posted
