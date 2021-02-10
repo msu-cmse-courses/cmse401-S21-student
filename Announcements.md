@@ -4,6 +4,69 @@
 
 ----
 
+# February 10th, 2021 - OpenMP Threads
+
+Hello CMSE401 Students,
+
+Todays videos are uploaded and available. 
+
+- [Pre-Class Questions](https://youtu.be/590pwuiaDCs)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/590pwuiaDCs?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+- [Project Cross-Cutting Themes](https://youtu.be/RSGfSn89QC4)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/RSGfSn89QC4?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+- [OMP Pi Example](https://youtu.be/2bPJMlSYRfM)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/2bPJMlSYRfM?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Let me know if you have any questions,
+
+- Dirk
+
+----
+
 # February 9th, 2021 - Introduction to OpenMP Videos Posted
 
 Hello CMSE401 students,
