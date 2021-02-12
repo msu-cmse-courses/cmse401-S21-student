@@ -4,6 +4,28 @@
 
 ----
 
+Hello CMSE401 Students,
+
+As I am preparing to post next weeks assignments, I realized that we are not far enough along for you to finish the OpenMP homework (HW2) which I had scheduled to be due next Thursday (February 18).  Although all of you should have no problem doing the serial benchmarking,  I don't feel we have had enough practice with OMP for loops and SLURM scheduling.   
+
+Unfortunately, I don't feel like we can easily skip a week which will throw off my schedule completely.  Therefore, I am going to rearrange the schedule a bit as follows:
+
+* First, Nothing will be due next Thursday February 18th.  The Homework will now be due February 25th instead.
+
+* Second, I plan on moving Quiz2 from February 26 to next Friday February 19.  Quizzes are worth much less of your final grade and I can target the quiz on what we have covered.  
+
+* Finally, I will then probably just swap the quiz due dates with the homeworks for the rest of the semester (assuming the topics line up okay). 
+
+These changes will actually take quite a bit of schedule fiddling on my end.  I will not be able to get them done tonight and it may take me much of the weekend (I also need to grade your project proposals).  I will let everyone know when I am finished.  Please be patient and let me know as soon as possible if you have an concerns regarding this plan.
+
+One final note, I don't plan to change the pre-class assignments for next week. Therefore I will get them posted tonight so you can work on them as well. 
+
+Take care,
+
+- Dirk
+
+----
+
 # February 10th, 2021 - OpenMP Threads
 
 Hello CMSE401 Students,
