@@ -23,11 +23,10 @@
 |  Thursday February 11, 2021  | 0211 |   | [PROJECT_Proposal](./0211-PROJECT_Proposal.html) | [ipynb](./0211-PROJECT_Proposal.ipynb) |
 |  Friday February 12, 2021  | 0212 | In-Class Assignment | [Proposal_Reviews](./0212-Proposal_Reviews_in-class-assignment.html) | [ipynb](./0212-Proposal_Reviews_in-class-assignment.ipynb) |
 |  Sunday February 14, 2021  | 0214 | Pre-Class Assignment | [OMP_sync](./0214--OMP_sync_pre-class-assignment.html) | [ipynb](./0214--OMP_sync_pre-class-assignment.ipynb) |
-| Monday February 15, 2021   | 0215 | In-Class Assignment | OMP Sync |
+|  Monday February 15, 2021  | 0215 | In-Class Assignment | [OMP_Sync](./0215-OMP_Sync_in-class-assignment.html) | [ipynb](./0215-OMP_Sync_in-class-assignment.ipynb) |
 |  Tuesday February 16, 2021  | 0216 | Pre-Class Assignment | [OMP_Loops](./0216--OMP_Loops_pre-class-assignment.html) | [ipynb](./0216--OMP_Loops_pre-class-assignment.ipynb) |
-| Wednesday February 17, 2021   | 0217 | In-Class Assignment | OMP Loops |
+|  Wednesday February 17, 2021  | 0217 | In-Class Assignment | [OMP_Loops](./0217-OMP_Loops_in-class-assignment.html) | [ipynb](./0217-OMP_Loops_in-class-assignment.ipynb) |
 | Friday February 19, 2021   | 0219 |   | Quiz2 OMP |
-| Friday February 19, 2021   | 0219 | In-Class Assignment | Shared Memory Sheduling |
 | Sunday February 21, 2021   | 0221 | Pre-Class Assignment | OMP weeds |
 | Monday February 22, 2021   | 0222 | In-Class Assignment | OMP Debugging |
 | Tuesday February 23, 2021   | 0223 | Pre-Class Assignment | OMP Data |
