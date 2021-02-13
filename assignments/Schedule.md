@@ -26,13 +26,13 @@
 | Monday February 15, 2021   | 0215 | In-Class Assignment | OMP Sync |
 |  Tuesday February 16, 2021  | 0216 | Pre-Class Assignment | [OMP_Loops](./0216--OMP_Loops_pre-class-assignment.html) | [ipynb](./0216--OMP_Loops_pre-class-assignment.ipynb) |
 | Wednesday February 17, 2021   | 0217 | In-Class Assignment | OMP Loops |
-|  Thursday February 18, 2021  | 0218 |   | [HW2_OMP](./0218-HW2_OMP.html) | [ipynb](./0218-HW2_OMP.ipynb) |
+| Friday February 19, 2021   | 0219 |   | Quiz2 OMP |
 | Friday February 19, 2021   | 0219 | In-Class Assignment | Shared Memory Sheduling |
 | Sunday February 21, 2021   | 0221 | Pre-Class Assignment | OMP weeds |
 | Monday February 22, 2021   | 0222 | In-Class Assignment | OMP Debugging |
 | Tuesday February 23, 2021   | 0223 | Pre-Class Assignment | OMP Data |
 | Wednesday February 24, 2021   | 0224 | In-Class Assignment | OMP Practice |
-| Friday February 26, 2021   | 0226 |   | Quiz2 OMP |
+|  Thursday February 25, 2021  | 0225 |   | [HW2_OMP](./0225-HW2_OMP.html) | [ipynb](./0225-HW2_OMP.ipynb) |
 | Sunday February 28, 2021   | 0228 | Pre-Class Assignment | CUDA Intro |
 | Monday March 1, 2021   | 0301 | In-Class Assignment | CUDA Introduction |
 | Tuesday March 2, 2021   | 0302 |   | BREAK no class |
@@ -43,13 +43,13 @@
 | Monday March 8, 2021   | 0308 | In-Class Assignment | CUDA Memory |
 | Tuesday March 9, 2021   | 0309 | Pre-Class Assignment | CUDA Tiling |
 | Wednesday March 10, 2021   | 0310 | In-Class Assignment | CUDA |
-| Thursday March 11, 2021   | 0311 |   | HW3 CUDA |
+| Friday March 12, 2021   | 0312 |   | Quiz3 Cuda |
 | Sunday March 14, 2021   | 0314 | Pre-Class Assignment | CUDA Alternatives |
 | Monday March 15, 2021   | 0315 | In-Class Assignment | CUDA Alternatives |
 | Monday March 15, 2021   | 0315 | In-Class Assignment | Exam2 Review |
 | Tuesday March 16, 2021   | 0316 | Pre-Class Assignment | Parallel Python |
 | Wednesday March 17, 2021   | 0317 | In-Class Assignment | Parallel Python |
-| Friday March 19, 2021   | 0319 |   | Quiz3 Cuda |
+| Thursday March 18, 2021   | 0318 |   | HW3 CUDA |
 | Sunday March 21, 2021   | 0321 | Pre-Class Assignment | MPI Scheduling |
 | Monday March 22, 2021   | 0322 | In-Class Assignment | MPI Scheduling |
 | Tuesday March 23, 2021   | 0323 | Pre-Class Assignment | MPI Introduction |
@@ -60,13 +60,13 @@
 | Monday March 29, 2021   | 0329 | In-Class Assignment | MPI Programming |
 | Tuesday March 30, 2021   | 0330 | Pre-Class Assignment | MPI Errors |
 | Wednesday March 31, 2021   | 0331 | In-Class Assignment | MPI Practice |
-| Thursday April 1, 2021   | 0401 |   | HW4 MPI |
+| Friday April 2, 2021   | 0402 |   | Quiz4 MPI |
 | Friday April 2, 2021   | 0402 | In-Class Assignment | UURAF |
 | Sunday April 4, 2021   | 0404 | Pre-Class Assignment | MPI Reduce |
 | Monday April 5, 2021   | 0405 | In-Class Assignment | MPI Reduce |
 | Tuesday April 6, 2021   | 0406 | Pre-Class Assignment | MPI Errors |
 | Wednesday April 7, 2021   | 0407 | In-Class Assignment | MPI Planning |
-| Friday April 9, 2021   | 0409 |   | Quiz4 MPI |
+| Thursday April 8, 2021   | 0408 |   | HW4 MPI |
 | Monday April 12, 2021   | 0412 | In-Class Assignment | Picking parallel |
 | Wednesday April 14, 2021   | 0414 | In-Class Assignment | Hybrid |
 |  Thursday April 15, 2021  | 0415 |   | [PROJECT_Part2](./0415-PROJECT_Part2.html) | [ipynb](./0415-PROJECT_Part2.ipynb) |
