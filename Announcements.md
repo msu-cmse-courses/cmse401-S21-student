@@ -4,6 +4,21 @@
 
 ----
 
+# February 13, 2021 - Next week's assignments are posted.
+
+Hello Again CMSE401 Students,
+
+I just finished updating the course website and the student git repository with new assignments for next week.  These changes include the new quiz and homework schedule (basically I swapped them out.  Please have a look and make sure I didn't miss anything.
+
+Take care and see you on Monday,
+
+- Dirk
+
+----
+
+
+# February 12th, 2021 - Assignment Schedule Changes are coming
+
 Hello CMSE401 Students,
 
 As I am preparing to post next weeks assignments, I realized that we are not far enough along for you to finish the OpenMP homework (HW2) which I had scheduled to be due next Thursday (February 18).  Although all of you should have no problem doing the serial benchmarking,  I don't feel we have had enough practice with OMP for loops and SLURM scheduling.   
