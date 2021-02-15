@@ -2,6 +2,89 @@
 
 [--> January Announcements](Announcements-January)
 
+-----
+
+# February 15, 2021 - Syncing Threads and scheduling OMP jobs
+
+Hello CMSE401 students,
+
+Here are the videos from today's class.  
+
+
+### [Pre-class questions](https://youtu.be/vI_iSHi6uRc)
+
+
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/vI_iSHi6uRc?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+### [OnDemand Troubleshooting](https://youtu.be/s_MKsCMQ_50)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/s_MKsCMQ_50?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+### [Class Rescheduling](https://youtu.be/XEF4M_7QuDE)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/XEF4M_7QuDE?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+### [Scheduling Shared Memory jobs in SLURM](https://youtu.be/7XkRnQOBayk)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/7XkRnQOBayk?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Let me know if you have any quesitons,
+
+- Dirk
+
 ----
 
 # February 13, 2021 - Next week's assignments are posted.
