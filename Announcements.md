@@ -2,6 +2,69 @@
 
 [--> January Announcements](Announcements-January)
 
+----
+
+# February 17, 2021 - OMP loop 
+
+Hello CMSE401 students,
+
+Here are the videos from today's Class:
+
+### [Loops Pre-class Questions](https://youtu.be/YYhpJY7JuRU)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/YYhpJY7JuRU?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [OMP Pi Example](https://youtu.be/N8Ov9287WGE)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/N8Ov9287WGE?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Matrix Multiply OMP](https://youtu.be/Sp29vxqyh2k)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/Sp29vxqyh2k?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Let me know if you have any questions,
+
+- Dirk
+
 -----
 
 # February 15, 2021 - Syncing Threads and scheduling OMP jobs
@@ -81,7 +144,7 @@ Here are the videos from today's class.
 
 
 
-Let me know if you have any quesitons,
+Let me know if you have any questions,
 
 - Dirk
 
