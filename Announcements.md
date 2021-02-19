@@ -2,6 +2,36 @@
 
 [--> January Announcements](Announcements-January)
 
+# February 19, 2021 - Supercomputer virtual tour
+
+Hello CMSE401 students,
+
+Last time I taught this course I managed to arrange a tour of the MSU HPCC facility.  Unfortunately an in-person tour is not possible.  However, on Monday I heard a great talk by [Dr. Bronson Messer](http://astro.phys.utk.edu/bronson/) (Computational Astrophysicist) Director of Science at Oak Ridge National Laboratory (one of the nations biggest HPC facilities).  If you are interested, I encourage all of you to watch his talk and check out the on-line [virtual tour of Oak Ridge](https://bit.ly/37bIL8v).  
+
+    https://mediaspace.msu.edu/media/Createing_SSH_keypairs_on_Jupyterhub+-+Quiz/1_8y3jhesd
+
+
+
+
+
+
+<iframe
+    width="100%"
+    height=""
+    src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/34286751/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_8y3jhesd&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[expandToggleBtn.plugin]=false&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=1_hmb43e7e"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+[![Oak Ridge Virtual tour](https://lh3.googleusercontent.com/2KH_HW4ZhiV4o2SCkTWW1comOjrxEL3QP_YAP4nZpI6hMnxqPIXW55GK_2Rvo2GN_v2Pa7mJjLdXF55yPZqll3DsOAlQg07psB2qRFi6L-Fq6SDR3a3JzTyoObD81Q=w740)](https://bit.ly/37bIL8v)
+
+Take care,
+
+- Dirk
+
 ----
 
 # February 17, 2021 - OMP loop 
