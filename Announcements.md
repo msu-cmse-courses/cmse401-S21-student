@@ -6,6 +6,8 @@
 
 Hello CMSE401 students,
 
+FYI, I just posted last week's assignments
+
 Last time I taught this course I managed to arrange a tour of the MSU HPCC facility.  Unfortunately an in-person tour is not possible.  However, on Monday I heard a great talk by [Dr. Bronson Messer](http://astro.phys.utk.edu/bronson/) (Computational Astrophysicist) Director of Science at Oak Ridge National Laboratory (one of the nations biggest HPC facilities).  If you are interested, I encourage all of you to watch his talk and check out the on-line [virtual tour of Oak Ridge](https://bit.ly/37bIL8v).  
 
     https://mediaspace.msu.edu/media/Createing_SSH_keypairs_on_Jupyterhub+-+Quiz/1_8y3jhesd
@@ -17,7 +19,7 @@ Last time I taught this course I managed to arrange a tour of the MSU HPCC facil
 
 <iframe
     width="100%"
-    height=""
+    height="480"
     src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/34286751/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_8y3jhesd&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[expandToggleBtn.plugin]=false&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=1_hmb43e7e"
     frameborder="0"
     allowfullscreen
