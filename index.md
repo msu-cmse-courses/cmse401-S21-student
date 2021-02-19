@@ -24,5 +24,6 @@ Due to COVID-19 pandemic the first week of the Spring 2021 semester will be used
 - [Jupyter Getting Started Guide](https://msu-cmse-courses.github.io/cmse802-f20-student/0000--Jupyter-Getting-Started-Guide.html) 
 - [Getting to Know Git (Tutorial)](https://msu-cmse-courses.github.io/cmse802-f20-student/0000-Getting-to-know-git.html)
 - [SLURM Examples](SLURM_Examples)
+- [Additional resources](https://www.youtube.com/watch?v=2ocykBzWDiM)
 
 -----
