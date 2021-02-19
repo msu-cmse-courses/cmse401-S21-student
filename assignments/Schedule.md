@@ -27,11 +27,12 @@
 |  Tuesday February 16, 2021  | 0216 | Pre-Class Assignment | [OMP_Loops](./0216--OMP_Loops_pre-class-assignment.html) | [ipynb](./0216--OMP_Loops_pre-class-assignment.ipynb) |
 |  Wednesday February 17, 2021  | 0217 | In-Class Assignment | [OMP_Loops](./0217-OMP_Loops_in-class-assignment.html) | [ipynb](./0217-OMP_Loops_in-class-assignment.ipynb) |
 |  Friday February 19, 2021  | 0219 |   | [Quiz2_OMP](./0219-Quiz2_OMP.html) | [ipynb](./0219-Quiz2_OMP.ipynb) |
-| Sunday February 21, 2021   | 0221 | Pre-Class Assignment | OMP weeds |
-| Monday February 22, 2021   | 0222 | In-Class Assignment | OMP Debugging |
-| Tuesday February 23, 2021   | 0223 | Pre-Class Assignment | OMP Data |
-| Wednesday February 24, 2021   | 0224 | In-Class Assignment | OMP Practice |
+|  Sunday February 21, 2021  | 0221 | Pre-Class Assignment | [OMP_weeds](./0221--OMP_weeds_pre-class-assignment.html) | [ipynb](./0221--OMP_weeds_pre-class-assignment.ipynb) |
+|  Monday February 22, 2021  | 0222 | In-Class Assignment | [OMP_Debugging](./0222-OMP_Debugging_in-class-assignment.html) | [ipynb](./0222-OMP_Debugging_in-class-assignment.ipynb) |
+|  Tuesday February 23, 2021  | 0223 | Pre-Class Assignment | [OMP_Data](./0223--OMP_Data_pre-class-assignment.html) | [ipynb](./0223--OMP_Data_pre-class-assignment.ipynb) |
+|  Wednesday February 24, 2021  | 0224 | In-Class Assignment | [OMP_Practice](./0224-OMP_Practice_in-class-assignment.html) | [ipynb](./0224-OMP_Practice_in-class-assignment.ipynb) |
 |  Thursday February 25, 2021  | 0225 |   | [HW2_OMP](./0225-HW2_OMP.html) | [ipynb](./0225-HW2_OMP.ipynb) |
+|  Friday February 26, 2021  | 0226 | In-Class Assignment | [OMP_Review](./0226-OMP_Review_in-class-assignment.html) | [ipynb](./0226-OMP_Review_in-class-assignment.ipynb) |
 | Sunday February 28, 2021   | 0228 | Pre-Class Assignment | CUDA Intro |
 | Monday March 1, 2021   | 0301 | In-Class Assignment | CUDA Introduction |
 | Tuesday March 2, 2021   | 0302 |   | BREAK no class |
