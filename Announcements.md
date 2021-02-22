@@ -2,6 +2,56 @@
 
 [--> January Announcements](Announcements-January)
 
+----
+
+# February 22, 2021 - Race Conditions and Locks
+
+Hello CMSE401 students,
+
+I just finished posting the videos from class today.  Hope you find this useful.  
+
+
+
+### [OMP Locks and Race Conditions](https://youtu.be/0gwTP6GrWP4)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/0gwTP6GrWP4?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+### [ Quiz2 Review](https://youtu.be/4j4psCII1f0)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/4j4psCII1f0?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+See you on Wednesday,
+
+- Dirk
+
+----
+
 # February 19, 2021 - Supercomputer virtual tour
 
 Hello CMSE401 students,
