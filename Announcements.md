@@ -4,6 +4,69 @@
 
 ----
 
+# February 26, 2021 - 1D and 2D examples in CUDA
+
+Hello Everyone,
+
+Here are the videos from Wednesday's class.  Sorry it took so long for me to post these.  Also sorry that they are longer than usual. I hope you still find them useful. 
+
+### [Pre-class Questions](https://youtu.be/1n7nvSx8YZ8)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/1n7nvSx8YZ8?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+### [1D Wave OMP example](https://youtu.be/BbMJNp7ImIw)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/BbMJNp7ImIw?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+### [2D Wave OMP example](https://youtu.be/LRqhwW7HPmc)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/LRqhwW7HPmc?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Take care,
+
+- Dirk
+
+----
+
 # February 22, 2021 - Race Conditions and Locks
 
 Hello CMSE401 students,
