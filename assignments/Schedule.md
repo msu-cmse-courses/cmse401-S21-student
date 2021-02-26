@@ -33,12 +33,12 @@
 |  Wednesday February 24, 2021  | 0224 | In-Class Assignment | [OMP_Practice](./0224-OMP_Practice_in-class-assignment.html) | [ipynb](./0224-OMP_Practice_in-class-assignment.ipynb) |
 |  Thursday February 25, 2021  | 0225 |   | [HW2_OMP](./0225-HW2_OMP.html) | [ipynb](./0225-HW2_OMP.ipynb) |
 |  Friday February 26, 2021  | 0226 | In-Class Assignment | [OMP_Review](./0226-OMP_Review_in-class-assignment.html) | [ipynb](./0226-OMP_Review_in-class-assignment.ipynb) |
-| Sunday February 28, 2021   | 0228 | Pre-Class Assignment | CUDA Intro |
-| Monday March 1, 2021   | 0301 | In-Class Assignment | CUDA Introduction |
+|  Sunday February 28, 2021  | 0228 | Pre-Class Assignment | [CUDA_Intro](./0228--CUDA_Intro_pre-class-assignment.html) | [ipynb](./0228--CUDA_Intro_pre-class-assignment.ipynb) |
+|  Monday March 1, 2021  | 0301 | In-Class Assignment | [CUDA_Introduction](./0301-CUDA_Introduction_in-class-assignment.html) | [ipynb](./0301-CUDA_Introduction_in-class-assignment.ipynb) |
 | Tuesday March 2, 2021   | 0302 |   | BREAK no class |
 | Wednesday March 3, 2021   | 0303 |   | BREAK no class |
-| Thursday March 4, 2021   | 0304 | Pre-Class Assignment | CUDA Blocks |
-| Friday March 5, 2021   | 0305 | In-Class Assignment | CUDA Blocks |
+|  Thursday March 4, 2021  | 0304 | Pre-Class Assignment | [CUDA_Blocks](./0304--CUDA_Blocks_pre-class-assignment.html) | [ipynb](./0304--CUDA_Blocks_pre-class-assignment.ipynb) |
+|  Friday March 5, 2021  | 0305 | In-Class Assignment | [CUDA_Blocks](./0305-CUDA_Blocks_in-class-assignment.html) | [ipynb](./0305-CUDA_Blocks_in-class-assignment.ipynb) |
 | Sunday March 7, 2021   | 0307 | Pre-Class Assignment | CUDA Memory |
 | Monday March 8, 2021   | 0308 | In-Class Assignment | CUDA Memory |
 | Tuesday March 9, 2021   | 0309 | Pre-Class Assignment | CUDA Tiling |
