@@ -4,6 +4,113 @@
 
 ----
 
+# February 26, 2021 - HW2 and HW3 Overviews
+
+Hello again everyone,
+
+A couple of things:
+
+First, here is the mid-term servey link for you to fill out. I am specifically looking for ideas to make the class better and easier for you:
+
+- [Link to CMSE401 Survey](https://msu.co1.qualtrics.com/jfe/form/SV_9ZUzOGbw3OUsGKq)
+
+Second, when I was editing the videos for today I realized I made a terminology mistake.  I was saying the word "Serial" but was thinking the word "Static".  I hope I didn't confuse too many of you. I added a note in the video where I made the mistake. Let me know if you have any questions. 
+
+Finally, here are the videos from today.
+
+### [Overview](https://youtu.be/PkA_ox1zvA4)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/PkA_ox1zvA4?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+### [HW2 Questions](https://youtu.be/NpKFr_YmTwo)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/NpKFr_YmTwo?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+### [HW2 Code Review](https://youtu.be/kETnYU2BLtk)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/kETnYU2BLtk?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+### [HW3 Overview](https://youtu.be/PkA_ox1zvA4)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/PkA_ox1zvA4?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+### [Using CUDA on HPCC](https://youtu.be/mKdrFqCllhw)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/mKdrFqCllhw?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Please let me know if you have any questions. See you in class on Monday.
+
+Take care,
+
+- Dirk
+
+----
+
 # February 26, 2021 - 1D and 2D examples in CUDA
 
 Hello Everyone,
