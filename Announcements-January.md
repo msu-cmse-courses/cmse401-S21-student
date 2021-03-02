@@ -1,6 +1,6 @@
 [Link to CMSE401 website](http://cmse.msu.edu/cmse401/)
 
-[Back to February Announcements](Announcements)
+[<--February Announcements](Announcements-February)
 
 ----
 
@@ -498,5 +498,7 @@ I will be holding office hours the first week of class. Please feel free to stop
 
 
 
+
+[<--February Announcements](Announcements-February)
 
 -----
