@@ -27,7 +27,7 @@ I hope everyone is having a pleasant few days off and are trying to find time to
 
 
 
-### [A Resent History of Accelerator Cards](https://youtu.be/VAlFQ8MANhI)
+### [A Recent History of Accelerator Cards](https://youtu.be/VAlFQ8MANhI)
 
 
 
