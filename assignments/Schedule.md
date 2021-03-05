@@ -39,10 +39,10 @@
 | Wednesday March 3, 2021   | 0303 |   | BREAK no class |
 |  Thursday March 4, 2021  | 0304 | Pre-Class Assignment | [CUDA_Blocks](./0304--CUDA_Blocks_pre-class-assignment.html) | [ipynb](./0304--CUDA_Blocks_pre-class-assignment.ipynb) |
 |  Friday March 5, 2021  | 0305 | In-Class Assignment | [CUDA_Blocks](./0305-CUDA_Blocks_in-class-assignment.html) | [ipynb](./0305-CUDA_Blocks_in-class-assignment.ipynb) |
-| Sunday March 7, 2021   | 0307 | Pre-Class Assignment | CUDA Memory |
-| Monday March 8, 2021   | 0308 | In-Class Assignment | CUDA Memory |
-| Tuesday March 9, 2021   | 0309 | Pre-Class Assignment | CUDA Tiling |
-| Wednesday March 10, 2021   | 0310 | In-Class Assignment | CUDA |
+|  Sunday March 7, 2021  | 0307 | Pre-Class Assignment | [CUDA_Memory](./0307--CUDA_Memory_pre-class-assignment.html) | [ipynb](./0307--CUDA_Memory_pre-class-assignment.ipynb) |
+|  Monday March 8, 2021  | 0308 | In-Class Assignment | [CUDA_Memory](./0308-CUDA_Memory_in-class-assignment.html) | [ipynb](./0308-CUDA_Memory_in-class-assignment.ipynb) |
+|  Tuesday March 9, 2021  | 0309 | Pre-Class Assignment | [CUDA_Tiling](./0309--CUDA_Tiling_pre-class-assignment.html) | [ipynb](./0309--CUDA_Tiling_pre-class-assignment.ipynb) |
+|  Wednesday March 10, 2021  | 0310 | In-Class Assignment | [CUDA_Tiling](./0310-CUDA_Tiling_in-class-assignment.html) | [ipynb](./0310-CUDA_Tiling_in-class-assignment.ipynb) |
 | Friday March 12, 2021   | 0312 |   | Quiz3 Cuda |
 | Sunday March 14, 2021   | 0314 | Pre-Class Assignment | CUDA Alternatives |
 | Monday March 15, 2021   | 0315 | In-Class Assignment | CUDA Alternatives |
