@@ -4,11 +4,56 @@
 
 ----
 
+# March 8th, 2021 - CUDA Memory
+Dear CMSE401 students,
+
+Don't forget to fork your cuda homework and give me access to the repository. Here are the videos from todays class.  
+
+## [Cuda Memory Example](https://youtu.be/LmQEZJMq7cM)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/LmQEZJMq7cM?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [1D Wave cuda example](https://youtu.be/s04-k65qPdM)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/s04-k65qPdM?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Let me know if you have any questions,
+
+- Dirk
+
+----
+
 # March 5th, 2021 - CUDA Threads Blocks and Grids
 
 Dear CMSE401 students,
 
- I just posted the files for next weeks classes and here are videos from today’s class.  There were lots of questions so I tried seperating the videos a bit to make viewing easier.
+ I just posted the files for next weeks classes and here are videos from today’s class.  There were lots of questions so I tried separating the videos a bit to make viewing easier.
 
 
 ### [Pre-Class Questions](https://youtu.be/-UsVC4a0wHs)
