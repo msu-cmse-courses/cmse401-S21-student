@@ -4,6 +4,150 @@
 
 ----
 
+# March 10th, 2021 - CUDA Tiling
+
+Dear CMSE401 students,
+
+Here are the videos from todays class. There are a lot of them. I also made a few follow up videos to help clarify some questions. I really hope you find them useful.
+
+## [Cuda Tile Pre-class questions](https://youtu.be/ob3oDbrJRbU)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/ob3oDbrJRbU?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Transpose Example](https://youtu.be/hPzvR_Q7_mo)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/hPzvR_Q7_mo?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Tiled simulation](https://youtu.be/EO7qrnaP0PE)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/EO7qrnaP0PE?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [HW3 and Quiz Discussion](https://youtu.be/AmAqs4xblKg)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/AmAqs4xblKg?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Tile Question](https://youtu.be/3SoWlJhEPCs)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/3SoWlJhEPCs?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Tile Foo Bar Question](https://youtu.be/gVCe1GWDyxA)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/gVCe1GWDyxA?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Fixing the 1D Cuda Wave Example](https://youtu.be/Mjz33bc8CLg)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/Mjz33bc8CLg?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Cuda Tile 1D Wave Equation Example](https://youtu.be/ABa2zkkkcTc)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/ABa2zkkkcTc?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+----
+
 # March 8th, 2021 - CUDA Memory
 Dear CMSE401 students,
 
