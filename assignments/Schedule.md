@@ -44,10 +44,10 @@
 |  Tuesday March 9, 2021  | 0309 | Pre-Class Assignment | [CUDA_Tiling](./0309--CUDA_Tiling_pre-class-assignment.html) | [ipynb](./0309--CUDA_Tiling_pre-class-assignment.ipynb) |
 |  Wednesday March 10, 2021  | 0310 | In-Class Assignment | [CUDA_Tiling](./0310-CUDA_Tiling_in-class-assignment.html) | [ipynb](./0310-CUDA_Tiling_in-class-assignment.ipynb) |
 |  Friday March 12, 2021  | 0312 |   | [Quiz3_Cuda](./0312-Quiz3_Cuda.html) | [ipynb](./0312-Quiz3_Cuda.ipynb) |
-| Sunday March 14, 2021   | 0314 | Pre-Class Assignment | CUDA Alternatives |
-| Monday March 15, 2021   | 0315 | In-Class Assignment | CUDA Alternatives |
-| Tuesday March 16, 2021   | 0316 | Pre-Class Assignment | Parallel Python |
-| Wednesday March 17, 2021   | 0317 | In-Class Assignment | Parallel Python |
+|  Sunday March 14, 2021  | 0314 | Pre-Class Assignment | [CUDA_Alternatives](./0314--CUDA_Alternatives_pre-class-assignment.html) | [ipynb](./0314--CUDA_Alternatives_pre-class-assignment.ipynb) |
+|  Monday March 15, 2021  | 0315 | In-Class Assignment | [CUDA_Alternatives](./0315-CUDA_Alternatives_in-class-assignment.html) | [ipynb](./0315-CUDA_Alternatives_in-class-assignment.ipynb) |
+|  Tuesday March 16, 2021  | 0316 | Pre-Class Assignment | [Parallel_Python](./0316--Parallel_Python_pre-class-assignment.html) | [ipynb](./0316--Parallel_Python_pre-class-assignment.ipynb) |
+|  Wednesday March 17, 2021  | 0317 | In-Class Assignment | [Parallel_Python](./0317-Parallel_Python_in-class-assignment.html) | [ipynb](./0317-Parallel_Python_in-class-assignment.ipynb) |
 |  Thursday March 18, 2021  | 0318 |   | [HW3_CUDA](./0318-HW3_CUDA.html) | [ipynb](./0318-HW3_CUDA.ipynb) |
 | Sunday March 21, 2021   | 0321 | Pre-Class Assignment | MPI Scheduling |
 | Monday March 22, 2021   | 0322 | In-Class Assignment | MPI Scheduling |
