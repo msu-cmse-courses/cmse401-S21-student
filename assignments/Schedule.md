@@ -43,10 +43,9 @@
 |  Monday March 8, 2021  | 0308 | In-Class Assignment | [CUDA_Memory](./0308-CUDA_Memory_in-class-assignment.html) | [ipynb](./0308-CUDA_Memory_in-class-assignment.ipynb) |
 |  Tuesday March 9, 2021  | 0309 | Pre-Class Assignment | [CUDA_Tiling](./0309--CUDA_Tiling_pre-class-assignment.html) | [ipynb](./0309--CUDA_Tiling_pre-class-assignment.ipynb) |
 |  Wednesday March 10, 2021  | 0310 | In-Class Assignment | [CUDA_Tiling](./0310-CUDA_Tiling_in-class-assignment.html) | [ipynb](./0310-CUDA_Tiling_in-class-assignment.ipynb) |
-| Friday March 12, 2021   | 0312 |   | Quiz3 Cuda |
+|  Friday March 12, 2021  | 0312 |   | [Quiz3_Cuda](./0312-Quiz3_Cuda.html) | [ipynb](./0312-Quiz3_Cuda.ipynb) |
 | Sunday March 14, 2021   | 0314 | Pre-Class Assignment | CUDA Alternatives |
 | Monday March 15, 2021   | 0315 | In-Class Assignment | CUDA Alternatives |
-| Monday March 15, 2021   | 0315 | In-Class Assignment | Exam2 Review |
 | Tuesday March 16, 2021   | 0316 | Pre-Class Assignment | Parallel Python |
 | Wednesday March 17, 2021   | 0317 | In-Class Assignment | Parallel Python |
 |  Thursday March 18, 2021  | 0318 |   | [HW3_CUDA](./0318-HW3_CUDA.html) | [ipynb](./0318-HW3_CUDA.ipynb) |
