@@ -4,6 +4,86 @@
 
 ----
 
+# March 15th, 2021 - CUDA Alternatives
+
+Dear CMSE401 Students,
+
+Here are the videos from today's class.  
+
+## [CUDA Alternative Questions](https://youtu.be/4m4_dS4gTMM)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/4m4_dS4gTMM?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Compile OpenCL on HPCC](https://youtu.be/DY8LAhhB99I)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/DY8LAhhB99I?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Cuda Quiz Review](https://youtu.be/czBnswByYyI)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/czBnswByYyI?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Introduction to MPI](https://youtu.be/AnNS-Hi9XtA)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/AnNS-Hi9XtA?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Let me know if you have any questions,
+
+- Dirk
+
+----
+
 # March 10th, 2021 - CUDA Tiling
 
 Dear CMSE401 students,
