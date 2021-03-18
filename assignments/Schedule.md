@@ -49,13 +49,12 @@
 |  Tuesday March 16, 2021  | 0316 | Pre-Class Assignment | [Parallel_Python](./0316--Parallel_Python_pre-class-assignment.html) | [ipynb](./0316--Parallel_Python_pre-class-assignment.ipynb) |
 |  Wednesday March 17, 2021  | 0317 | In-Class Assignment | [Parallel_Python](./0317-Parallel_Python_in-class-assignment.html) | [ipynb](./0317-Parallel_Python_in-class-assignment.ipynb) |
 |  Thursday March 18, 2021  | 0318 |   | [HW3_CUDA](./0318-HW3_CUDA.html) | [ipynb](./0318-HW3_CUDA.ipynb) |
-| Sunday March 21, 2021   | 0321 | Pre-Class Assignment | MPI Scheduling |
-| Monday March 22, 2021   | 0322 | In-Class Assignment | MPI Scheduling |
-| Tuesday March 23, 2021   | 0323 | Pre-Class Assignment | MPI Introduction |
-| Wednesday March 24, 2021   | 0324 | In-Class Assignment | MPI Introduction |
+|  Friday March 19, 2021  | 0319 | In-Class Assignment | [MPI_Scheduling](./0319-MPI_Scheduling_in-class-assignment.html) | [ipynb](./0319-MPI_Scheduling_in-class-assignment.ipynb) |
+| Sunday March 21, 2021   | 0321 | Pre-Class Assignment | MPI Introduction |
+| Monday March 22, 2021   | 0322 | In-Class Assignment | MPI Introduction |
+| Tuesday March 23, 2021   | 0323 | Pre-Class Assignment | MPI Syntax |
+| Wednesday March 24, 2021   | 0324 | In-Class Assignment | MPI Programming |
 |  Thursday March 25, 2021  | 0325 |   | [PROJECT_Part1](./0325-PROJECT_Part1.html) | [ipynb](./0325-PROJECT_Part1.ipynb) |
-| Sunday March 28, 2021   | 0328 | Pre-Class Assignment | MPI Syntax |
-| Monday March 29, 2021   | 0329 | In-Class Assignment | MPI Programming |
 | Tuesday March 30, 2021   | 0330 | Pre-Class Assignment | MPI Errors |
 | Wednesday March 31, 2021   | 0331 | In-Class Assignment | MPI Practice |
 | Friday April 2, 2021   | 0402 |   | Quiz4 MPI |
