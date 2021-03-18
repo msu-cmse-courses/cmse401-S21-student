@@ -4,6 +4,135 @@
 
 ----
 
+# March 18th, 2021 - Speeding up python videos
+
+Hello Class, 
+
+Here are the videos from yesterday's class. 
+
+## [Fast Python Questions](https://youtu.be/X5xJjYCaah8)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/X5xJjYCaah8?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Fast Python Overview](https://youtu.be/fUofTqIEKnM)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/fUofTqIEKnM?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Python 1D Wave Example](https://youtu.be/_KnVnbtZyh0)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/_KnVnbtZyh0?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Numba Practice](https://youtu.be/1mW5jRkkaJQ)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/1mW5jRkkaJQ?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Homework Questions](https://youtu.be/f9H2JJFFZIk)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/f9H2JJFFZIk?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Please let me know if you have any questions,
+
+- Dirk
+
+---
+
+
+# March 17th, 2021 - Slack Channel
+
+Hello Students,
+
+Students wanted a way to communicate with each other to help with homework.  I set up a  Slack (http://slack.com) channel as a means of communicating outside of scheduled class times.  In order to join the Slack team that we’ve created for the course you should complete the following steps:
+
+1. Go to https://cmse-courses.slack.com/signup
+2. Once there, sign up using your @msu.edu email address. Important: When you create your account, use your MSU NetID as your user name and set up your display name to be the name you prefer to go by, including your last name. This will make it easier for your instructors to recognize you within the Slack channels.
+
+Once you've joined the CMSE Courses Slack team, you'll need to add yourself to two channels. The first channel you should add yourself to is "cmse401-s21".
+
+Please use the following list of rules for how we expect you to use Slack. They are:
+
+- Before you ask a question, be sure to check the other session channels to see if the question has already been answered.
+- The Slack team is primarily for you, the students, to help each other.
+- The instructor will monitor the channels, but will defer to the students to work through things. They will only enter a conversation if students are going down the wrong path and/or there are too few other students involved. However, you should not expect that the instructor will always be available.
+- Slack is meant to be used to help you when you are stuck with a minor issue. If you are having major issues or trouble understanding the concept, go to office hours. Office hours are meant for more in-depth discussions of course content.
+- Course instructors will rarely check Slack, only to examine progress. While they may offer help, do not rely on it. Instructors will not respond to the same student twice within a 30 minute time interval.
+- Only in rare cases should you contact an instructor through a private channel. But, if you are struggling, feel free to use this option.
+- Do not post your solutions to out-of-class assignments directly into Slack unless prompted by an instructor.
+
+Be courteous to everyone on Slack. Students who are being rude or who are excessively posting might be banned from posting on the course Slack channel.
+
+Take care,
+
+- Dirk
+
+
+
+----
+
 # March 15th, 2021 - CUDA Alternatives
 
 Dear CMSE401 Students,
