@@ -50,11 +50,12 @@
 |  Wednesday March 17, 2021  | 0317 | In-Class Assignment | [Parallel_Python](./0317-Parallel_Python_in-class-assignment.html) | [ipynb](./0317-Parallel_Python_in-class-assignment.ipynb) |
 |  Thursday March 18, 2021  | 0318 |   | [HW3_CUDA](./0318-HW3_CUDA.html) | [ipynb](./0318-HW3_CUDA.ipynb) |
 |  Friday March 19, 2021  | 0319 | In-Class Assignment | [Scaling](./0319-Scaling_in-class-assignment.html) | [ipynb](./0319-Scaling_in-class-assignment.ipynb) |
-| Sunday March 21, 2021   | 0321 | Pre-Class Assignment | MPI Introduction |
-| Monday March 22, 2021   | 0322 | In-Class Assignment | MPI Introduction |
-| Tuesday March 23, 2021   | 0323 | Pre-Class Assignment | MPI Syntax |
-| Wednesday March 24, 2021   | 0324 | In-Class Assignment | MPI Programming |
+|  Sunday March 21, 2021  | 0321 | Pre-Class Assignment | [MPI_Introduction](./0321--MPI_Introduction_pre-class-assignment.html) | [ipynb](./0321--MPI_Introduction_pre-class-assignment.ipynb) |
+|  Monday March 22, 2021  | 0322 | In-Class Assignment | [MPI_Introduction](./0322-MPI_Introduction_in-class-assignment.html) | [ipynb](./0322-MPI_Introduction_in-class-assignment.ipynb) |
+|  Tuesday March 23, 2021  | 0323 | Pre-Class Assignment | [MPI_Syntax](./0323--MPI_Syntax_pre-class-assignment.html) | [ipynb](./0323--MPI_Syntax_pre-class-assignment.ipynb) |
+|  Wednesday March 24, 2021  | 0324 | In-Class Assignment | [MPI_Programming](./0324-MPI_Programming_in-class-assignment.html) | [ipynb](./0324-MPI_Programming_in-class-assignment.ipynb) |
 |  Thursday March 25, 2021  | 0325 |   | [PROJECT_Part1](./0325-PROJECT_Part1.html) | [ipynb](./0325-PROJECT_Part1.ipynb) |
+|  Thursday March 25, 2021  | 0325 | In-Class Assignment | [Project](./0325-Project_in-class-assignment.html) | [ipynb](./0325-Project_in-class-assignment.ipynb) |
 | Tuesday March 30, 2021   | 0330 | Pre-Class Assignment | MPI Errors |
 | Wednesday March 31, 2021   | 0331 | In-Class Assignment | MPI Practice |
 | Friday April 2, 2021   | 0402 |   | Quiz4 MPI |
