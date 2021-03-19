@@ -49,7 +49,6 @@
 |  Tuesday March 16, 2021  | 0316 | Pre-Class Assignment | [Parallel_Python](./0316--Parallel_Python_pre-class-assignment.html) | [ipynb](./0316--Parallel_Python_pre-class-assignment.ipynb) |
 |  Wednesday March 17, 2021  | 0317 | In-Class Assignment | [Parallel_Python](./0317-Parallel_Python_in-class-assignment.html) | [ipynb](./0317-Parallel_Python_in-class-assignment.ipynb) |
 |  Thursday March 18, 2021  | 0318 |   | [HW3_CUDA](./0318-HW3_CUDA.html) | [ipynb](./0318-HW3_CUDA.ipynb) |
-|  Friday March 19, 2021  | 0319 | In-Class Assignment | [MPI_Scheduling](./0319-MPI_Scheduling_in-class-assignment.html) | [ipynb](./0319-MPI_Scheduling_in-class-assignment.ipynb) |
 |  Friday March 19, 2021  | 0319 | In-Class Assignment | [Scaling](./0319-Scaling_in-class-assignment.html) | [ipynb](./0319-Scaling_in-class-assignment.ipynb) |
 | Sunday March 21, 2021   | 0321 | Pre-Class Assignment | MPI Introduction |
 | Monday March 22, 2021   | 0322 | In-Class Assignment | MPI Introduction |
