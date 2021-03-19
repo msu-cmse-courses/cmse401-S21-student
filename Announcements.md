@@ -4,6 +4,71 @@
 
 ----
 
+# March 19th, 2021 - HW3 and HW4 videos
+
+Hello Class,
+
+I just finished uploading today's videos. I didn't spend nearly as much time editing these videos so sorry about the quality. Here they are:
+
+## [HW3 Answer](https://youtu.be/ckQc1KmVmdY)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/ckQc1KmVmdY?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [HW4 Overview](https://youtu.be/NJbwZk9wo7U)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/NJbwZk9wo7U?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Weak and Strong Scaling](https://youtu.be/ApDQPXFnPHo)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/ApDQPXFnPHo?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+I also added a folder to the course website with a solution to the HW3 (as requested).
+
+Take care, 
+
+- Dirk
+
+----
+
 # March 18th, 2021 - Speeding up python videos
 
 Hello Class, 
