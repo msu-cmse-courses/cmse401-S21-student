@@ -50,6 +50,7 @@
 |  Wednesday March 17, 2021  | 0317 | In-Class Assignment | [Parallel_Python](./0317-Parallel_Python_in-class-assignment.html) | [ipynb](./0317-Parallel_Python_in-class-assignment.ipynb) |
 |  Thursday March 18, 2021  | 0318 |   | [HW3_CUDA](./0318-HW3_CUDA.html) | [ipynb](./0318-HW3_CUDA.ipynb) |
 |  Friday March 19, 2021  | 0319 | In-Class Assignment | [MPI_Scheduling](./0319-MPI_Scheduling_in-class-assignment.html) | [ipynb](./0319-MPI_Scheduling_in-class-assignment.ipynb) |
+|  Friday March 19, 2021  | 0319 | In-Class Assignment | [Scaling](./0319-Scaling_in-class-assignment.html) | [ipynb](./0319-Scaling_in-class-assignment.ipynb) |
 | Sunday March 21, 2021   | 0321 | Pre-Class Assignment | MPI Introduction |
 | Monday March 22, 2021   | 0322 | In-Class Assignment | MPI Introduction |
 | Tuesday March 23, 2021   | 0323 | Pre-Class Assignment | MPI Syntax |
@@ -63,7 +64,7 @@
 | Monday April 5, 2021   | 0405 | In-Class Assignment | MPI Reduce |
 | Tuesday April 6, 2021   | 0406 | Pre-Class Assignment | MPI Errors |
 | Wednesday April 7, 2021   | 0407 | In-Class Assignment | MPI Planning |
-| Thursday April 8, 2021   | 0408 |   | HW4 MPI |
+|  Thursday April 8, 2021  | 0408 |   | [HW4_MPI](./0408-HW4_MPI.html) | [ipynb](./0408-HW4_MPI.ipynb) |
 | Monday April 12, 2021   | 0412 | In-Class Assignment | Picking parallel |
 | Wednesday April 14, 2021   | 0414 | In-Class Assignment | Hybrid |
 |  Thursday April 15, 2021  | 0415 |   | [PROJECT_Part2](./0415-PROJECT_Part2.html) | [ipynb](./0415-PROJECT_Part2.ipynb) |
