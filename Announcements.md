@@ -4,6 +4,69 @@
 
 ----
 
+# March 23, 2021 - MPI Introduction Videos
+
+Hello CMSE401 students,
+
+I just finish posting videos from yesterday's class. Here they are:
+
+# [MPI Pre-class Questions](https://youtu.be/0qNr5yu-Mkw)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/0qNr5yu-Mkw?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+# [MPI Code Review](https://youtu.be/1VfDJZx4D7I)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/1VfDJZx4D7I?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+# [Measuring Scaling](https://youtu.be/LbABn4_-0Tk)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/LbABn4_-0Tk?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Please let me know if you have any questions.  
+
+- Dirk
+
+----
+
 # March 19th, 2021 - HW3 and HW4 videos
 
 Hello Class,
