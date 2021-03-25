@@ -4,6 +4,69 @@
 
 ----
 
+# March 24, 2021 - MPI Syntax
+
+Hello CMSE401 students,
+
+Here are the videos from today's class:
+
+## [MPI Syntax Questions](https://youtu.be/LB1JZ7KJjGs)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/LB1JZ7KJjGs?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [MPI BCast Example](https://youtu.be/sdY4H4LPjzk)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/sdY4H4LPjzk?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [MPI Pi Example](https://youtu.be/GPJdS19KNmk)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/GPJdS19KNmk?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Let me know if you have any questions.
+
+- Dirk
+
+----
+
 # March 23, 2021 - MPI Introduction Videos
 
 Hello CMSE401 students,
