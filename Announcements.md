@@ -4,6 +4,35 @@
 
 ----
 
+# March 26, 2021 - Projects
+
+Hello CMSE401 students,
+
+I made a video about the Rumor Mill code that we covered in class today.  My hope is to convert this code to MPI in class next week.
+
+### [Rumor Mill Code](https://youtu.be/Eupv6qJj81E)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/Eupv6qJj81E?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Please let me know if you have any questions
+
+- Dirk
+
+----
+
 # March 24, 2021 - MPI Syntax
 
 Hello CMSE401 students,
