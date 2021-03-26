@@ -55,14 +55,14 @@
 |  Tuesday March 23, 2021  | 0323 | Pre-Class Assignment | [MPI_Syntax](./0323--MPI_Syntax_pre-class-assignment.html) | [ipynb](./0323--MPI_Syntax_pre-class-assignment.ipynb) |
 |  Wednesday March 24, 2021  | 0324 | In-Class Assignment | [MPI_Programming](./0324-MPI_Programming_in-class-assignment.html) | [ipynb](./0324-MPI_Programming_in-class-assignment.ipynb) |
 |  Thursday March 25, 2021  | 0325 |   | [PROJECT_Part1](./0325-PROJECT_Part1.html) | [ipynb](./0325-PROJECT_Part1.ipynb) |
-|  Thursday March 25, 2021  | 0325 | In-Class Assignment | [Project](./0325-Project_in-class-assignment.html) | [ipynb](./0325-Project_in-class-assignment.ipynb) |
-| Tuesday March 30, 2021   | 0330 | Pre-Class Assignment | MPI Errors |
+|  Friday March 26, 2021  | 0326 | In-Class Assignment | [Project](./0326-Project_in-class-assignment.html) | [ipynb](./0326-Project_in-class-assignment.ipynb) |
+| Sunday March 28, 2021   | 0328 | Pre-Class Assignment | MPI Errors |
+| Monday March 29, 2021   | 0329 | In-Class Assignment | MPI Errors |
+| Tuesday March 30, 2021   | 0330 | Pre-Class Assignment | MPI Practice |
 | Wednesday March 31, 2021   | 0331 | In-Class Assignment | MPI Practice |
 | Friday April 2, 2021   | 0402 |   | Quiz4 MPI |
-| Friday April 2, 2021   | 0402 | In-Class Assignment | UURAF |
 | Sunday April 4, 2021   | 0404 | Pre-Class Assignment | MPI Reduce |
 | Monday April 5, 2021   | 0405 | In-Class Assignment | MPI Reduce |
-| Tuesday April 6, 2021   | 0406 | Pre-Class Assignment | MPI Errors |
 | Wednesday April 7, 2021   | 0407 | In-Class Assignment | MPI Planning |
 |  Thursday April 8, 2021  | 0408 |   | [HW4_MPI](./0408-HW4_MPI.html) | [ipynb](./0408-HW4_MPI.ipynb) |
 | Monday April 12, 2021   | 0412 | In-Class Assignment | Picking parallel |
