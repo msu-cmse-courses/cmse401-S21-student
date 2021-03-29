@@ -12,6 +12,21 @@ Here are the video's from today's class:
 
 ## [MPI Error handeling - Pre-class questions](https://youtu.be/jNbcp8VjaFc)
 
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/jNbcp8VjaFc?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
 ## [MPI Pi Example with Error](https://youtu.be/wHqJYALJ8fg)
 
 
