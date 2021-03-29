@@ -4,6 +4,71 @@
 
 ----
 
+# March 29, 2021 - MPI Error handling
+
+Hello CMSE301 Students,
+
+Here are the video's from today's class:
+
+## [MPI Error handeling - Pre-class questions](https://youtu.be/jNbcp8VjaFc)
+
+## [MPI Pi Example with Error](https://youtu.be/wHqJYALJ8fg)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/wHqJYALJ8fg?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Weird MPI Error (not solved)](https://youtu.be/Cc40F7mS1lw)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/Cc40F7mS1lw?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Rumor Example - Memory](https://youtu.be/79B67wxxz0c)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/79B67wxxz0c?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Please let me know if you have any questions,
+
+- Dirk
+
+----
+
 # March 26, 2021 - Projects
 
 Hello CMSE401 students,
