@@ -4,9 +4,39 @@
 
 ----
 
+# April 1, 2021 - MPI Rumor Example
+
+Hello CMSE401 Students,
+
+Here is the video from yesterday's class. 
+
+
+## [Rumor MPI Example](https://youtu.be/wmGY3niCAbU)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/wmGY3niCAbU?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Please let me know if you have any questions,
+
+- Dirk
+
+----
+
 # March 29, 2021 - MPI Error handling
 
-Hello CMSE301 Students,
+Hello CMSE401 Students,
 
 Here are the video's from today's class:
 
