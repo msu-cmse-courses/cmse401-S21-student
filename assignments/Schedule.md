@@ -60,7 +60,7 @@
 |  Monday March 29, 2021  | 0329 | In-Class Assignment | [MPI_Errors](./0329-MPI_Errors_in-class-assignment.html) | [ipynb](./0329-MPI_Errors_in-class-assignment.ipynb) |
 |  Tuesday March 30, 2021  | 0330 | Pre-Class Assignment | [MPI_Practice](./0330--MPI_Practice_pre-class-assignment.html) | [ipynb](./0330--MPI_Practice_pre-class-assignment.ipynb) |
 |  Wednesday March 31, 2021  | 0331 | In-Class Assignment | [MPI_Practice](./0331-MPI_Practice_in-class-assignment.html) | [ipynb](./0331-MPI_Practice_in-class-assignment.ipynb) |
-| Friday April 2, 2021   | 0402 |   | Quiz4 MPI |
+|  Friday April 2, 2021  | 0402 |   | [Quiz4_MPI](./0402-Quiz4_MPI.html) | [ipynb](./0402-Quiz4_MPI.ipynb) |
 | Sunday April 4, 2021   | 0404 | Pre-Class Assignment | MPI Reduce |
 | Monday April 5, 2021   | 0405 | In-Class Assignment | MPI Reduce |
 | Wednesday April 7, 2021   | 0407 | In-Class Assignment | MPI Planning |
