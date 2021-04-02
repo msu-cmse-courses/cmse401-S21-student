@@ -61,9 +61,9 @@
 |  Tuesday March 30, 2021  | 0330 | Pre-Class Assignment | [MPI_Practice](./0330--MPI_Practice_pre-class-assignment.html) | [ipynb](./0330--MPI_Practice_pre-class-assignment.ipynb) |
 |  Wednesday March 31, 2021  | 0331 | In-Class Assignment | [MPI_Practice](./0331-MPI_Practice_in-class-assignment.html) | [ipynb](./0331-MPI_Practice_in-class-assignment.ipynb) |
 |  Friday April 2, 2021  | 0402 |   | [Quiz4_MPI](./0402-Quiz4_MPI.html) | [ipynb](./0402-Quiz4_MPI.ipynb) |
-| Sunday April 4, 2021   | 0404 | Pre-Class Assignment | MPI Reduce |
-| Monday April 5, 2021   | 0405 | In-Class Assignment | MPI Reduce |
-| Wednesday April 7, 2021   | 0407 | In-Class Assignment | MPI Planning |
+|  Sunday April 4, 2021  | 0404 | Pre-Class Assignment | [MPI_Reduce](./0404--MPI_Reduce_pre-class-assignment.html) | [ipynb](./0404--MPI_Reduce_pre-class-assignment.ipynb) |
+|  Monday April 5, 2021  | 0405 | In-Class Assignment | [MPI_Reduce](./0405-MPI_Reduce_in-class-assignment.html) | [ipynb](./0405-MPI_Reduce_in-class-assignment.ipynb) |
+|  Wednesday April 7, 2021  | 0407 | In-Class Assignment | [MPI_Planning](./0407-MPI_Planning_in-class-assignment.html) | [ipynb](./0407-MPI_Planning_in-class-assignment.ipynb) |
 |  Thursday April 8, 2021  | 0408 |   | [HW4_MPI](./0408-HW4_MPI.html) | [ipynb](./0408-HW4_MPI.ipynb) |
 | Monday April 12, 2021   | 0412 | In-Class Assignment | Picking parallel |
 | Wednesday April 14, 2021   | 0414 | In-Class Assignment | Hybrid |
