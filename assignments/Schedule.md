@@ -66,11 +66,16 @@
 | Tuesday April 6, 2021   | 0406 |   | NO PRE CLASS |
 |  Wednesday April 7, 2021  | 0407 | In-Class Assignment | [MPI_Planning](./0407-MPI_Planning_in-class-assignment.html) | [ipynb](./0407-MPI_Planning_in-class-assignment.ipynb) |
 |  Thursday April 8, 2021  | 0408 |   | [HW4_MPI](./0408-HW4_MPI.html) | [ipynb](./0408-HW4_MPI.ipynb) |
-| Monday April 12, 2021   | 0412 | In-Class Assignment | Picking parallel |
-| Wednesday April 14, 2021   | 0414 | In-Class Assignment | Hybrid |
+|  Friday April 9, 2021  | 0409 | In-Class Assignment | [Picking_parallel](./0409-Picking_parallel_in-class-assignment.html) | [ipynb](./0409-Picking_parallel_in-class-assignment.ipynb) |
+| Sunday April 11, 2021   | 0411 |   | NO PRE CLASS |
+| Monday April 12, 2021   | 0412 | In-Class Assignment | Hybrid |
+| Tuesday April 13, 2021   | 0413 |   | NO PRE CLASS |
+| Wednesday April 14, 2021   | 0414 | In-Class Assignment | Tensorflow |
 |  Thursday April 15, 2021  | 0415 |   | [PROJECT_Part2](./0415-PROJECT_Part2.html) | [ipynb](./0415-PROJECT_Part2.ipynb) |
-| Friday April 16, 2021   | 0416 | In-Class Assignment | Tensorflow |
+| Friday April 16, 2021   | 0416 | In-Class Assignment | Projects |
+| Sunday April 18, 2021   | 0418 |   | NO PRE CLASS |
 | Monday April 19, 2021   | 0419 | In-Class Assignment | Checkpointing |
+| Tuesday April 20, 2021   | 0420 |   | NO PRE CLASS |
 | Wednesday April 21, 2021   | 0421 | In-Class Assignment | Final Review |
 | Thursday April 22, 2021   | 0422 |   | STUDY BREAK |
 | Friday April 23, 2021   | 0423 |   | STUDY BREAK |
