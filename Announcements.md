@@ -4,6 +4,52 @@
 
 ----
 
+# April 5, 2021 - Monte Carlo Pi
+
+Hello CMSE401 students,
+
+Here are a couple of videos from today's class,
+
+## [Monte Carlo Pi Reduce Example](https://youtu.be/s8zh5cYbuw0)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/s8zh5cYbuw0?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Quiz4 Review](https://youtu.be/TYoIGTZazZU)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/TYoIGTZazZU?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+I also updated the schedule for the rest of the semester. I decided not to have any more required pre-class assignments. The hope is that it will give you more time for this and your other classes. However, hope you will still ask questions.  Please email me the day before class and I will set aside time in class to answer your questions.
+
+- Dirk
+
+----
+
 # April 1, 2021 - MPI Rumor Example
 
 Hello CMSE401 Students,
