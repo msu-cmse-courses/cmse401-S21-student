@@ -68,9 +68,9 @@
 |  Thursday April 8, 2021  | 0408 |   | [HW4_MPI](./0408-HW4_MPI.html) | [ipynb](./0408-HW4_MPI.ipynb) |
 |  Friday April 9, 2021  | 0409 | In-Class Assignment | [Picking_parallel](./0409-Picking_parallel_in-class-assignment.html) | [ipynb](./0409-Picking_parallel_in-class-assignment.ipynb) |
 | Sunday April 11, 2021   | 0411 |   | NO PRE CLASS |
-| Monday April 12, 2021   | 0412 | In-Class Assignment | Hybrid |
+|  Monday April 12, 2021  | 0412 | In-Class Assignment | [Hybrid](./0412-Hybrid_in-class-assignment.html) | [ipynb](./0412-Hybrid_in-class-assignment.ipynb) |
 | Tuesday April 13, 2021   | 0413 |   | NO PRE CLASS |
-| Wednesday April 14, 2021   | 0414 | In-Class Assignment | Tensorflow |
+|  Wednesday April 14, 2021  | 0414 | In-Class Assignment | [Tensorflow](./0414-Tensorflow_in-class-assignment.html) | [ipynb](./0414-Tensorflow_in-class-assignment.ipynb) |
 |  Thursday April 15, 2021  | 0415 |   | [PROJECT_Part2](./0415-PROJECT_Part2.html) | [ipynb](./0415-PROJECT_Part2.ipynb) |
 | Friday April 16, 2021   | 0416 | In-Class Assignment | Projects |
 | Sunday April 18, 2021   | 0418 |   | NO PRE CLASS |
