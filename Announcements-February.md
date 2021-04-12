@@ -1,6 +1,6 @@
 [Link to CMSE401 website](http://cmse.msu.edu/cmse401/)
 
-[<-- March Announcements](Announcements) ---   [January Announcements -->](Announcements-January)
+[<-- March Announcements](Announcements-March) ---   [January Announcements -->](Announcements-January)
 
 ----
 
@@ -786,6 +786,6 @@ Let me know if you have any questions,
 
 - Dirk
 
-[<-- March Announcements](Announcements) ---   [January Announcements -->](Announcements-January)
+[<-- March Announcements](Announcements-March) ---   [January Announcements -->](Announcements-January)
 
 -----
