@@ -18,22 +18,7 @@ Here are some videos from today's class,
 ## [Hybrid Code Reivew](https://youtu.be/12DvChv3QSg)
 
 
-
-
-
-
-<iframe
-    width="100%"
-    height="300"
-    src="https://www.youtube.com/embed/12DvChv3QSg?cc_load_policy=True"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
-## [](https://youtu.be/0lWWDK4S6z4)
+## [SLURM Summary](https://youtu.be/0lWWDK4S6z4)
 
 Let me know if you have any questions,
 
