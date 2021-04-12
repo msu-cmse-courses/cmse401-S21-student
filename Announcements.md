@@ -15,10 +15,55 @@ Here are some videos from today's class,
 
 
 
-## [Hybrid Code Reivew](https://youtu.be/12DvChv3QSg)
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/tBR-cy2VKTI?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Hybrid Code Review](https://youtu.be/12DvChv3QSg)
+
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/12DvChv3QSg?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
 
 
 ## [SLURM Summary](https://youtu.be/0lWWDK4S6z4)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/0lWWDK4S6z4?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
 
 Let me know if you have any questions,
 
