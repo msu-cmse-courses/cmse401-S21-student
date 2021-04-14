@@ -2,6 +2,103 @@
 
 [March Announcements -->](Announcements-March)
 
+-----
+
+# April 14, 2021 - Installing Tenserflow
+
+Hello CMSE401 students,
+
+Here are some videos from class today and a few extras showing how I ended up installing tensorflow using virtual environments and conda environments:
+
+## [Class Intro](https://youtu.be/uCzmWNxeN8Y)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/uCzmWNxeN8Y?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Tensorflow In-Class Example](https://youtu.be/LOGY_3Jzeio)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/LOGY_3Jzeio?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [In-Class Tensorflow Example](https://youtu.be/aIFsC848mGs)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/aIFsC848mGs?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Tensorflow VirtualEnv](https://youtu.be/q29k6Pkr8j0)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/q29k6Pkr8j0?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+## [Tensorflow Conda Environment](https://youtu.be/a44U7Y_DCUw)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/a44U7Y_DCUw?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+Hope you find these useful. Please let me know if you have any questions,
+
+- Dirk
+
 ------
 
 # April 12, 2021 - Hybrid Jobs

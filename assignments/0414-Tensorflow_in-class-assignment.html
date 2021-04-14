@@ -14301,17 +14301,21 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p><a href="https://www.simplilearn.com/keras-vs-tensorflow-vs-pytorch-article">https://www.simplilearn.com/keras-vs-tensorflow-vs-pytorch-article</a></p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
 <p><a name=Installing-Tensorflow></a></p>
 <h1 id="2.-Installing-Tensorflow">2. Installing Tensorflow<a class="anchor-link" href="#2.-Installing-Tensorflow">&#182;</a></h1><p>Instructions for installing Tensorflow can be found here:</p>
 <p><a href="https://wiki.hpcc.msu.edu/display/ITH/General+notes+and+installation+via+Python+virtualenv">https://wiki.hpcc.msu.edu/display/ITH/General+notes+and+installation+via+Python+virtualenv</a></p>
 <p>This includes the following instructions to reset the HPC Environment:</p>
 <div class="highlight"><pre><span></span>module purge
-module load CUDA/10.0.130
-module load cuDNN/7.5.0.56-CUDA-10.0.130
-module load GCC/5.4.0-2.26 
-mocule load OpenMPI/1.10.3
-module load Python/3.5.2
+module load Python
+module load CUDA
+module load cuDNN
 </pre></div>
 
 </div>
@@ -14321,7 +14325,6 @@ module load Python/3.5.2
 <p>The next step is to make something called a python virtual environment.  If you are not using these, you should, they are cool and help you sandbox module installations:</p>
 <div class="highlight"><pre><span></span><span class="c1">#Setup and activeate a new python vertual enviornment</span>
 virtualenv -p python3 tf2env
-<span class="nb">export</span> <span class="nv">PYDIR</span><span class="o">=</span>~/tf2env
 <span class="nb">source</span> tf2env/bin/activate
 </pre></div>
 
@@ -14331,9 +14334,45 @@ virtualenv -p python3 tf2env
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p>Once we have our new python enviornment set-up we need to install some programs:</p>
 <div class="highlight"><pre><span></span><span class="c1">#Install needed libraries</span>
-pip3 install --upgrade tensorflow-gpu
-pip3 install keras
+pip3 install --upgrade tensorflow-gpu keras
 </pre></div>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<hr>
+<p><a name=Testing-Tensorflow></a></p>
+<h1 id="3.-Testing-Tensorflow">3. Testing Tensorflow<a class="anchor-link" href="#3.-Testing-Tensorflow">&#182;</a></h1><p>Lets now try to see if we use the above</p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>...and, set some enviornment variables.</p>
+<div class="highlight"><pre><span></span>module purge
+module load Python
+module load CUDA
+module load cuDNN
+
+<span class="nb">source</span> tf2env/bin/activate
+</pre></div>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>The final step is to see if this thing works:</p>
+<div class="highlight"><pre><span></span>cp /opt/software/hpc_examples/examples/.Tensorflow/convolutional.py .
+<span class="nb">time</span> python <span class="nv">$convolutional</span>.py
+</pre></div>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>The above doesn't quite work. See following stack overflow for a discussion of the problem and a potential solution;</p>
+<p><a href="https://stackoverflow.com/questions/58258003/attributeerror-module-tensorflow-has-no-attribute-app">https://stackoverflow.com/questions/58258003/attributeerror-module-tensorflow-has-no-attribute-app</a></p>
 
 </div>
 </div>
