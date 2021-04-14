@@ -27,7 +27,7 @@ Here are some videos from class today and a few extras showing how I ended up in
 
 
 
-## [Tensorflow In-Class Example](https://youtu.be/LOGY_3Jzeio)
+## [Conda Environments](https://youtu.be/LOGY_3Jzeio)
 
 
 
