@@ -72,7 +72,7 @@
 | Tuesday April 13, 2021   | 0413 |   | NO PRE CLASS |
 |  Wednesday April 14, 2021  | 0414 | In-Class Assignment | [Tensorflow](./0414-Tensorflow_in-class-assignment.html) | [ipynb](./0414-Tensorflow_in-class-assignment.ipynb) |
 |  Thursday April 15, 2021  | 0415 |   | [PROJECT_Part2](./0415-PROJECT_Part2.html) | [ipynb](./0415-PROJECT_Part2.ipynb) |
-| Friday April 16, 2021   | 0416 | In-Class Assignment | Projects |
+|  Friday April 16, 2021  | 0416 | In-Class Assignment | [Projects](./0416-Projects_in-class-assignment.html) | [ipynb](./0416-Projects_in-class-assignment.ipynb) |
 | Sunday April 18, 2021   | 0418 |   | NO PRE CLASS |
 | Monday April 19, 2021   | 0419 | In-Class Assignment | Checkpointing |
 | Tuesday April 20, 2021   | 0420 |   | NO PRE CLASS |
