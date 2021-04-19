@@ -76,7 +76,7 @@
 | Sunday April 18, 2021   | 0418 |   | NO PRE CLASS |
 |  Monday April 19, 2021  | 0419 | In-Class Assignment | [Checkpointing](./0419-Checkpointing_in-class-assignment.html) | [ipynb](./0419-Checkpointing_in-class-assignment.ipynb) |
 | Tuesday April 20, 2021   | 0420 |   | NO PRE CLASS |
-| Wednesday April 21, 2021   | 0421 | In-Class Assignment | Final Review |
+|  Wednesday April 21, 2021  | 0421 | In-Class Assignment | [Final_Review](./0421-Final_Review_in-class-assignment.html) | [ipynb](./0421-Final_Review_in-class-assignment.ipynb) |
 | Thursday April 22, 2021   | 0422 |   | STUDY BREAK |
 | Friday April 23, 2021   | 0423 |   | STUDY BREAK |
 | Monday April 26, 2021   | 0426 |   | FINAL Exam |
