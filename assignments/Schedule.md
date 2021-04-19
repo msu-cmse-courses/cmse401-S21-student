@@ -74,7 +74,7 @@
 |  Thursday April 15, 2021  | 0415 |   | [PROJECT_Part2](./0415-PROJECT_Part2.html) | [ipynb](./0415-PROJECT_Part2.ipynb) |
 |  Friday April 16, 2021  | 0416 | In-Class Assignment | [Projects](./0416-Projects_in-class-assignment.html) | [ipynb](./0416-Projects_in-class-assignment.ipynb) |
 | Sunday April 18, 2021   | 0418 |   | NO PRE CLASS |
-| Monday April 19, 2021   | 0419 | In-Class Assignment | Checkpointing |
+|  Monday April 19, 2021  | 0419 | In-Class Assignment | [Checkpointing](./0419-Checkpointing_in-class-assignment.html) | [ipynb](./0419-Checkpointing_in-class-assignment.ipynb) |
 | Tuesday April 20, 2021   | 0420 |   | NO PRE CLASS |
 | Wednesday April 21, 2021   | 0421 | In-Class Assignment | Final Review |
 | Thursday April 22, 2021   | 0422 |   | STUDY BREAK |
