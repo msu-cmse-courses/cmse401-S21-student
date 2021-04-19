@@ -14299,7 +14299,7 @@ a.anchor-link {
 <pre><code>target : prerequisite_file1 prerequisite_file2 prequiste_file3 ...
    #Bash build command(s) to make the target file from the prerequisite files</code></pre>
 <p>Makefiles can be thought of as Directed Acyclic Graphs (DAGs).  For example the makefile found in this <a href="https://colbrydi.github.io/images//Makefile">file</a> can be visualized as the following dependency graph.</p>
-<p><img src="https://colbrydi.github.io/images/make.png" width=50%></p>
+<p><img alt="directed acyclic graph of a makefile" src="https://colbrydi.github.io/images/make.png" width=50%></p>
 
 </div>
 </div>
@@ -14407,7 +14407,7 @@ clean :
 <hr>
 <p><a name="Q2"></a></p>
 <h1 id="Question-2---(25-points)-Distributed-Memory-Jobs">Question 2 - (25 points) Distributed Memory Jobs<a class="anchor-link" href="#Question-2---(25-points)-Distributed-Memory-Jobs">&#182;</a></h1><p>You have been asked to design an agent-based trading model similar to the one we built in <a href="./HW6_Solution/rumor_mill.c">HW6</a>.  Each "agent" is a cell on a grid that can only "see" it's four neighboring cells (Up, Down, Left Right).  The Principal Investigator (PI or lead researcher) on your project would like to scale this code to fairly large systems and has asked that you split up the world into a grid of of $N$ cells (not slices as we did in the homework solution).  For example, a grid with $N=16$ tasks with four (4) rows and four (4) columns would have the following layout (task ranks are on top (<strong><font color=blue>blue</font></strong>), grid coordinates are in parentheses (<strong>black</strong>)):</p>
-<p><img src="https://computing.llnl.gov/tutorials/mpi/images/Cartesian_topology.gif"></p>
+<p><img alt="Layout of grid. May need longer description to complete this task" src="https://lh4.googleusercontent.com/4cjK4sPwmvVGndJj0orcsspmXrqVWlaOKPLlviZiLLYu0tmu4MYcXeHXssBhY2epOBXhete7jlMhYYPlQR3J6jb05WzHj0tnzwTsGnPn_yK7BvJ2cjI7FpcZsAHw9G7eHQ=w303"></p>
 
 </div>
 </div>
@@ -14544,7 +14544,7 @@ else {
 <h1 id="Question-3---(25-points)-Shared-Memory-Jobs">Question 3 - (25 points) Shared Memory Jobs<a class="anchor-link" href="#Question-3---(25-points)-Shared-Memory-Jobs">&#182;</a></h1><p>A simple matrix multiply between matrix $A$ (with $i$ rows and $j$ columns) and matrix $B$ (with $j$ rows and $k$ columns) into matrix $C$ (with $i$ rows and $k$ columns) is defined as follows:</p>
 $$A_{(i\times j)} \times B_{(j\times k)} = C_{(i\times k)} $$<p>Where each $i,k$ element in $C$ (aka $c_{i,j}$) is calculated using the dot product of the $i^{th}$ row of $A$ by the $j^{th}$ column of $B$:</p>
 $$c_{i,j} = a_{i,0}b_{0,j} + a_{i,1}b_{1,j} + \dots + a_{i,k}b_{k,j}$$<p>The following figure is an example depiction of this algorithm:</p>
-<p><img src="https://lh3.googleusercontent.com/bV-ObD9gwRD4PIcGDEzCP51yGk-f8sx5BUO4JXj9u-KUwYpUJbqRv7A46cwNChKW3S2WD6n3Cg=w500" width=40%></p>
+<p><img alt="Graphic showing how a matrix multiplation works by multiplying rows in one matrix to columns in another using a dot product" src="https://lh3.googleusercontent.com/bV-ObD9gwRD4PIcGDEzCP51yGk-f8sx5BUO4JXj9u-KUwYpUJbqRv7A46cwNChKW3S2WD6n3Cg=w500" width=40%></p>
 <p>More information about matrix multiply can be found <a href="https://en.wikipedia.org/wiki/Matrix_multiplication">here</a>.</p>
 <p>The following C code snip-it can be used to calculate a matrix multiplication between $A$ and $B$:</p>
 
@@ -14651,7 +14651,7 @@ OpenMP - Put your answer here explaining when OpenMP is the best choice for solv
 <p><a name="Q4"></a></p>
 <h1 id="Question-4---(25-points)--CUDA-Texture-Memory">Question 4 - (25 points)  CUDA Texture Memory<a class="anchor-link" href="#Question-4---(25-points)--CUDA-Texture-Memory">&#182;</a></h1><blockquote><p>Like constant memory, texture memory is cached on a GPU's chip, so in some situations it will provide higher effective bandwidth by reducing memory requests to off-chip DRAM. Specifically, texture caches are designed for graphics applications where memory access patterns exhibit a great deal of spatial locality. In a computing application, this roughly implies that a thread is likely to read from an address “near” the address that nearby threads read, as shown in Figure</p>
 </blockquote>
-<p><img src="http://1.bp.blogspot.com/-Y-Kga_6J0WU/UQ38DOMpYdI/AAAAAAAAADQ/ejIIjQmKiM8/s640/1.png"></p>
+<p><img alt="picture showing how threads are mapped to a cuda node" src="http://1.bp.blogspot.com/-Y-Kga_6J0WU/UQ38DOMpYdI/AAAAAAAAADQ/ejIIjQmKiM8/s640/1.png"></p>
 <blockquote><p>Note:
 Arithmetically, the four addresses shown are not consecutive, so they would not be cached together in a typical CPU caching scheme. But since GPU texture caches are designed to accelerate access patterns such as this one, you will see an increase in performance in this case when using texture memory instead of global memory.</p>
 </blockquote>
