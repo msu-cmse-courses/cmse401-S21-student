@@ -79,4 +79,4 @@
 |  Wednesday April 21, 2021  | 0421 | In-Class Assignment | [Final_Review](./0421-Final_Review_in-class-assignment.html) | [ipynb](./0421-Final_Review_in-class-assignment.ipynb) |
 | Thursday April 22, 2021   | 0422 |   | STUDY BREAK |
 | Friday April 23, 2021   | 0423 |   | STUDY BREAK |
-| Monday April 26, 2021   | 0426 |   | FINAL Exam |
+|  Monday April 26, 2021  | 0426 |   | [FINAL_Exam](./0426-FINAL_Exam.html) | [ipynb](./0426-FINAL_Exam.ipynb) |
