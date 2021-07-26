@@ -3,6 +3,8 @@
 
 [LInk to Syllabus Table of Contents](#TOC)
 
+Dirk Was here
+
 ----
 <a name="Course Description"></a>
 # Course Description
